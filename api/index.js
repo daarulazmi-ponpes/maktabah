@@ -160,10 +160,16 @@ app.get("/api/kitab/:slug/kuis", async (req, res) => {
 });
 
 // Export untuk Vercel serverless function
-module.exports = app;
+// Vercel expects a handler function, not an Express app directly
+const { createServer } = require("http");
+
+module.exports = (req, res) => {
+  // Handle the request using Express
+  return app(req, res);
+};
 
 // Jalankan server hanya jika tidak di-deploy di Vercel (local development)
-if (process.env.NODE_ENV !== 'production') {
+if (process.env.NODE_ENV !== 'production' && require.main === module) {
   app.listen(PORT, () => {
     console.log(`📚 Server Maktabah berjalan di http://localhost:${PORT}`);
   });
