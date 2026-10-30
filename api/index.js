@@ -7,6 +7,9 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Di Vercel, __dirname adalah folder api/, jadi kita perlu naik satu level ke root project
+const ROOT_DIR = path.join(__dirname, "..");
+
 // Helper: fetch dari API eksternal dengan API Key
 async function fetchFromAPI(apiPath) {
   const apiKey = process.env.X_API_KEY;
@@ -67,7 +70,7 @@ app.get("/api/kitab/:slug", async (req, res) => {
 
 // Sajikan file statis (index.html, assets, dll)
 // Vercel akan menangani static files secara otomatis melalui vercel.json
-app.use(express.static(__dirname, {
+app.use(express.static(ROOT_DIR, {
   setHeaders: (res, filePath) => {
     if (path.extname(filePath) === '.html') {
       res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
@@ -79,27 +82,27 @@ app.use(express.static(__dirname, {
 
 // Fallback untuk halaman root
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "index.html"));
+  res.sendFile(path.join(ROOT_DIR, "index.html"));
 });
 
 // Routing untuk halaman pembaca kitab
 // /kitab/:slug/:bab HARUS didefinisikan SEBELUM /kitab/:slug
 app.get("/kitab/:slug/:bab", (req, res) => {
-  res.sendFile(path.join(__dirname, "kitab.html"));
+  res.sendFile(path.join(ROOT_DIR, "kitab.html"));
 });
 
 app.get("/kitab/:slug", (req, res) => {
-  res.sendFile(path.join(__dirname, "kitab.html"));
+  res.sendFile(path.join(ROOT_DIR, "kitab.html"));
 });
 
 // Routing untuk halaman kuis
 // /kuis/:slug/:bab HARUS didefinisikan SEBELUM /kuis/:slug
 app.get("/kuis/:slug/:bab", (req, res) => {
-  res.sendFile(path.join(__dirname, "kuis.html"));
+  res.sendFile(path.join(ROOT_DIR, "kuis.html"));
 });
 
 app.get("/kuis/:slug", (req, res) => {
-  res.sendFile(path.join(__dirname, "kuis.html"));
+  res.sendFile(path.join(ROOT_DIR, "kuis.html"));
 });
 
 // Proxy: Data kuis per kitab
@@ -108,7 +111,7 @@ app.get("/api/kitab/:slug/kuis", async (req, res) => {
   const slug = req.params.slug;
 
   // Baca file JSON kuis lokal
-  const localPath = path.join(__dirname, "data", "kuis", `${slug}.json`);
+  const localPath = path.join(ROOT_DIR, "data", "kuis", `${slug}.json`);
   if (!fs.existsSync(localPath)) {
     return res.status(404).json({ error: "Data kuis belum tersedia untuk kitab ini" });
   }
