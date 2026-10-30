@@ -65,7 +65,18 @@ app.get("/api/kitab/:slug", async (req, res) => {
   res.json(result);
 });
 
-// Sajikan file statis (index.html, assets, dll)
+// Halaman root - katalog kitab
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "index.html"));
+});
+
+// Halaman assets (gambar, font, dll)
+app.get("/assets/*", (req, res) => {
+  const filePath = path.join(__dirname, "assets", req.params[0]);
+  res.sendFile(filePath);
+});
+
+// Sajikan file statis (index.html, assets, dll) - untuk development lokal
 app.use(express.static(__dirname, {
   setHeaders: (res, filePath) => {
     if (path.extname(filePath) === '.html') {
