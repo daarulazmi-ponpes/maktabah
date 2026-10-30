@@ -1,6 +1,26 @@
 {
   "routes": [
     {
+      "src": "/api/(.*)",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/kitab/(.*)",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/kuis/(.*)",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
+      "src": "/(.+\\.\\w+)",
+      "dest": "/$1"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.js"
     }
