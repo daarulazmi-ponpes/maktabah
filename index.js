@@ -66,7 +66,15 @@ app.get("/api/kitab/:slug", async (req, res) => {
 });
 
 // Sajikan file statis (index.html, assets, dll)
-app.use(express.static(__dirname));
+app.use(express.static(__dirname, {
+  setHeaders: (res, filePath) => {
+    if (path.extname(filePath) === '.html') {
+      res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+      res.setHeader('Pragma', 'no-cache');
+      res.setHeader('Expires', '0');
+    }
+  }
+}));
 
 // Routing untuk halaman pembaca kitab
 // /kitab/:slug/:bab HARUS didefinisikan SEBELUM /kitab/:slug

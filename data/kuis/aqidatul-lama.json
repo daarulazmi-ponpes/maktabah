@@ -1,0 +1,186 @@
+{
+  "kitab": "Aqidatul Awam",
+  "slug": "aqidatul",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Aqidatul Awam artinya?",
+      "pilihan": [
+        "Aqidah Khusus",
+        "Aqidah Umum",
+        "Aqidah Pelajar",
+        "Aqidah Guru"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Aqidatul Awam artinya 'Aqidah Umum', yaitu kitab yang membahas aqidah dasar yang perlu diketahui setiap muslim."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Aqidah artinya?",
+      "pilihan": [
+        "Keyakinan",
+        "Ibadah",
+        "Muamalah",
+        "Akhlak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Aqidah artinya keyakinan, yaitu sesuatu yang diyakini dengan kuat di dalam hati."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Rukun iman ada berapa?",
+      "pilihan": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Rukun iman ada 6: iman kepada Allah, malaikat, kitab, rasul, hari akhir, dan qada serta qadar."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Iman kepada Allah mencakup?",
+      "pilihan": [
+        "Tidak ada",
+        "Hanya nama Allah",
+        "Hanya sifat Allah",
+        "Nama dan sifat Allah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Iman kepada Allah mencakup iman kepada nama-nama dan sifat-sifat Allah yang sempurna."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Iman kepada malaikat adalah?",
+      "pilihan": [
+        "Meragukan",
+        "Tidak yakin",
+        "Meyakini keberadaan malaikat",
+        "Menolak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Iman kepada malaikat adalah meyakini keberadaan malaikat sebagai ciptaan Allah dari cahaya."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Syarah artinya?",
+      "pilihan": [
+        "Jawaban",
+        "Pertanyaan",
+        "Penjelasan",
+        "Perintah"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Syarah artinya penjelasan, yaitu penjelasan lebih lanjut tentang isi kitab."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Tujuan mempelajari aqidah adalah?",
+      "pilihan": [
+        "Untuk dunia",
+        "Untuk kekuasaan",
+        "Untuk harta",
+        "Untuk memperkuat keyakinan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Tujuan mempelajari aqidah adalah untuk memperkuat keyakinan dan iman kepada Allah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Aqidah yang benar adalah?",
+      "pilihan": [
+        "Aqidah sesat",
+        "Aqidah sesat",
+        "Aqidah bid'ah",
+        "Aqidah Ahlussunnah wal Jama'ah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Aqidah yang benar adalah aqidah Ahlussunnah wal Jama'ah, yaitu aqidah yang diajarkan oleh Nabi dan para sahabat."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Iman kepada kitab-kitab Allah mencakup?",
+      "pilihan": [
+        "Hanya Al-Quran",
+        "Semua kitab yang diturunkan Allah",
+        "Hanya Taurat",
+        "Hanya Injil"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Iman kepada kitab-kitab Allah mencakup semua kitab yang diturunkan Allah, termasuk Al-Quran, Taurat, Injil, dan Zabur."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Iman kepada rasul-rasul Allah adalah?",
+      "pilihan": [
+        "Tidak yakin",
+        "Hanya Nabi Muhammad",
+        "Meyakini semua rasul",
+        "Meragukan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Iman kepada rasul-rasul Allah adalah meyakini semua rasul yang diutus Allah, termasuk Nabi Muhammad SAW."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Iman kepada hari akhir adalah?",
+      "pilihan": [
+        "Tidak yakin",
+        "Meyakini adanya hari kiamat",
+        "Meragukan",
+        "Menolak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Iman kepada hari akhir adalah meyakini adanya hari kiamat dan segala sesuatu yang berkaitan dengannya."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Iman kepada qada dan qadar adalah?",
+      "pilihan": [
+        "Menolak",
+        "Menerima ketetapan Allah",
+        "Meragukan",
+        "Tidak peduli"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Iman kepada qada dan qadar adalah menerima ketetapan Allah dengan ikhlas."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Sifat wajib Allah ada berapa?",
+      "pilihan": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Sifat wajib Allah ada 7: Wujud, Qidam, Baqa', Mukhalafatuh lil hawaditsi, Qiyamuhu binafsihi, Wahdaniyah, Quddrat, Iradah, 'Ilm, Hayat, Sama', Bashar, Isti'ah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Sifat mustahil Allah adalah?",
+      "pilihan": [
+        "Tidak ada hubungannya",
+        "Sama dengan sifat wajib",
+        "Lawan dari sifat wajib",
+        "Sama dengan sifat jaiz"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Sifat mustahil Allah adalah lawan dari sifat wajib, seperti 'adam (tidak ada), huduts (baru), fana' (hilang), dll."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Sifat jaiz bagi Allah adalah?",
+      "pilihan": [
+        "Tidak ada",
+        "Wajib melakukan",
+        "Mustahil melakukan",
+        "Melakukan atau tidak melakukan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Sifat jaiz bagi Allah adalah melakukan atau tidak melakukan sesuatu yang tidak wajib dan tidak mustahil bagi-Nya."
+    }
+  ]
+}

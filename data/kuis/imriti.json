@@ -3,772 +3,124 @@
   "slug": "imriti",
   "soal": [
     {
-      "babId": "bab-1",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Mukadimah' Nadhom Imriti?",
+      "babId": "bab-0",
+      "pertanyaan": "Kitab Nadhom Imriti membahas tentang apa?",
       "pilihan": [
-        "Mukadimah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Ilmu fiqih",
+        "Ilmu nahwu (gramatika Arab)",
+        "Ilmu tafsir",
+        "Ilmu hadits"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Mukadimah' membahas tentang mukadimah dalam Nadhom Imriti."
+      "jawabanBenar": 1,
+      "penjelasan": "Nadhom Imriti membahas ilmu nahwu (gramatika Arab) dalam bentuk nadhom (syair) yang mudah dihafal."
+    },
+    {
+      "babId": "bab-0",
+      "pertanyaan": "Nadhom Imriti disusun oleh siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Imam Bukhari",
+        "Imam Imru' al-Qais",
+        "Imam Muslim"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Nadhom Imriti disusun oleh Imam Imru' al-Qais, seorang ahli nahwu yang terkenal dengan nadhom-nya."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Nadhom Imriti membahas Mukadimah dalam konteks?",
+      "pertanyaan": "Menurut Nadhom Imriti, apa definisi Kalam?",
       "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
+        "Lafadz yang terdiri dari beberapa kata",
+        "Lafadz yang murakkab (tersusun), mufid (bermanfaat), dan wadhi' (sesuai kaidah)",
+        "Setiap ucapan yang keluar dari mulut",
+        "Kata-kata yang memiliki arti"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Nadhom Imriti mendefinisikan Kalam sebagai 'al-lafzul murakkabul mufidul wadhi'', yaitu lafadz yang tersusun, bermanfaat, dan sesuai kaidah."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Nadhom Imriti, Kalam terbagi menjadi tiga jenis. Apa saja?",
+      "pilihan": [
+        "Isim, Fi'il, dan Harf",
+        "Mubtada, Khabar, dan Fi'il",
+        "Fa'il, Maf'ul, dan Na'at",
+        "Mufrod, Tsani, dan Jam'"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Mukadimah dalam konteks ilmu dan ibadah."
+      "penjelasan": "Nadhom Imriti menjelaskan bahwa Kalam terbagi menjadi Isim (kata benda), Fi'il (kata kerja), dan Harf (kata depan/hubung)."
     },
     {
       "babId": "bab-2",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Tauhid' Nadhom Imriti?",
+      "pertanyaan": "Menurut Nadhom Imriti, apa yang dimaksud dengan I'rab?",
       "pilihan": [
-        "Tauhid",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Perubahan harakat akhir kata",
+        "Menambahkan huruf di akhir kata",
+        "Menghapus huruf di akhir kata",
+        "Mengubah makna kata"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Tauhid' membahas tentang tauhid dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Nadhom Imriti membahas Tauhid dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Tauhid dalam konteks ilmu dan ibadah."
+      "penjelasan": "I'rab adalah perubahan harakat akhir kata sesuai dengan kedudukannya dalam kalimat."
     },
     {
       "babId": "bab-3",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Rububiyah' Nadhom Imriti?",
+      "pertanyaan": "Menurut Nadhom Imriti, tanda asli (ashli) untuk Rofa' adalah?",
       "pilihan": [
-        "Rububiyah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Fathah",
+        "Kasrah",
+        "Dammah",
+        "Sukun"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Rububiyah' membahas tentang rububiyah dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Nadhom Imriti membahas Rububiyah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Rububiyah dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 2,
+      "penjelasan": "Tanda asli untuk Rofa' adalah Dammah, untuk Nashab adalah Fathah, untuk Jar adalah Kasrah, dan untuk Jazm adalah Sukun."
     },
     {
       "babId": "bab-4",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Uluhiyah' Nadhom Imriti?",
+      "pertanyaan": "Menurut Nadhom Imriti, tanda asli untuk Nashab adalah?",
       "pilihan": [
-        "Uluhiyah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Dammah",
+        "Kasrah",
+        "Fathah",
+        "Sukun"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Uluhiyah' membahas tentang uluhiyah dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-4",
-      "pertanyaan": "Nadhom Imriti membahas Uluhiyah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Uluhiyah dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 2,
+      "penjelasan": "Tanda asli untuk Nashab adalah Fathah."
     },
     {
       "babId": "bab-5",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Asma wa Sifat' Nadhom Imriti?",
+      "pertanyaan": "Menurut Nadhom Imriti, Fi'il terbagi menjadi tiga jenis berdasarkan waktu. Apa saja?",
       "pilihan": [
-        "Asma wa Sifat",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Fi'il Madhi, Mudhari', dan Amr",
+        "Fi'il Mubram, Mabni, dan Mu'rab",
+        "Fi'il Ma'lum, Majhul, dan Infi'ali",
+        "Fi'il Mufrad, Mutsanna, dan Jamak"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Asma wa Sifat' membahas tentang asma wa sifat dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-5",
-      "pertanyaan": "Nadhom Imriti membahas Asma wa Sifat dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Asma wa Sifat dalam konteks ilmu dan ibadah."
+      "penjelasan": "Fi'il terbagi menjadi Madhi (masa lalu), Mudhari' (masa sekarang/mendatang), dan Amr (perintah)."
     },
     {
       "babId": "bab-6",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Kafir' Nadhom Imriti?",
+      "pertanyaan": "Menurut Nadhom Imriti, Isim yang di-raf'kan antara lain adalah?",
       "pilihan": [
-        "Kafir",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Mubtada' dan Khabar",
+        "Fa'il dan Mubtada'",
+        "Mubtada', Khabar, dan Fa'il",
+        "Hanya Fa'il"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Kafir' membahas tentang kafir dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-6",
-      "pertanyaan": "Nadhom Imriti membahas Kafir dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Kafir dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 2,
+      "penjelasan": "Isim yang di-raf'kan antara lain Mubtada', Khabar, dan Fa'il, serta isim-isim lainnya sesuai kaidah."
     },
     {
       "babId": "bab-7",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Munafiq' Nadhom Imriti?",
+      "pertanyaan": "Menurut Nadhom Imriti, apa yang dimaksud dengan Fa'il?",
       "pilihan": [
-        "Munafiq",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Pelaku perbuatan",
+        "Objek perbuatan",
+        "Sifat pelaku",
+        "Tempat perbuatan"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Munafiq' membahas tentang munafiq dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-7",
-      "pertanyaan": "Nadhom Imriti membahas Munafiq dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Munafiq dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-8",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Mukmin' Nadhom Imriti?",
-      "pilihan": [
-        "Mukmin",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Mukmin' membahas tentang mukmin dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-8",
-      "pertanyaan": "Nadhom Imriti membahas Mukmin dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Mukmin dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Muhsin' Nadhom Imriti?",
-      "pilihan": [
-        "Muhsin",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Muhsin' membahas tentang muhsin dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Nadhom Imriti membahas Muhsin dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Muhsin dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Salik' Nadhom Imriti?",
-      "pilihan": [
-        "Salik",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Salik' membahas tentang salik dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Nadhom Imriti membahas Salik dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Salik dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Ishlah' Nadhom Imriti?",
-      "pilihan": [
-        "Ishlah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Ishlah' membahas tentang ishlah dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Nadhom Imriti membahas Ishlah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Ishlah dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Ma'rifat' Nadhom Imriti?",
-      "pilihan": [
-        "Ma'rifat",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Ma'rifat' membahas tentang ma'rifat dalam Nadhom Imriti."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Nadhom Imriti membahas Ma'rifat dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti membahas Ma'rifat dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-13 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-13 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-13 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-14",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-14 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-14 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-14 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-14",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-15",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-15 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-15 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-15 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-15",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-16",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-16 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-16 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-16 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-16",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-17",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-17 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-17 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-17 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-17",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-18",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-18 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-18 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-18 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-18",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-19",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-19 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-19 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-19 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-19",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-20",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-20 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-20 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-20 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-20",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-21",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-21 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-21 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-21 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-21",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-22",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-22 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-22 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-22 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-22",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-23",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-23 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-23 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-23 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-23",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-24",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-24 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-24 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-24 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-24",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-25",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-25 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-25 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-25 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-25",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-26",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-26 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-26 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-26 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-26",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-27",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-27 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-27 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-27 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-27",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-28",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-28 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-28 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-28 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-28",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-29",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-29 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-29 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-29 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-29",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-30",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-30 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-30 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-30 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-30",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-31",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-31 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-31 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-31 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-31",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-32",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-32 Nadhom Imriti?",
-      "pilihan": [
-        "Bab ke-32 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-32 Nadhom Imriti berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-32",
-      "pertanyaan": "Nadhom Imriti membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Nadhom Imriti adalah kitab nadhom yang membahas tata bahasa Arab."
+      "penjelasan": "Fa'il adalah pelaku perbuatan, yaitu isim yang melakukan tindakan yang disebutkan dalam Fi'il."
     }
   ]
 }

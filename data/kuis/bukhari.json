@@ -4,843 +4,123 @@
   "soal": [
     {
       "babId": "bab-1",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Mukadimah' Shahih Bukhari?",
+      "pertanyaan": "Shahih Bukhari disusun oleh siapa?",
       "pilihan": [
-        "Mukadimah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Imam Nawawi",
+        "Imam Muslim",
+        "Imam Bukhari (Muhammad bin Ismail)",
+        "Imam Malik"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Mukadimah' membahas tentang mukadimah dalam Shahih Bukhari."
+      "jawabanBenar": 2,
+      "penjelasan": "Shahih Bukhari disusun oleh Imam Muhammad bin Ismail Al-Bukhari (194-256 H), seorang ahli hadits terbesar."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Shahih Bukhari membahas Mukadimah dalam konteks?",
+      "pertanyaan": "Mengapa Shahih Bukhari dianggap sebagai kitab paling shahih setelah Al-Quran?",
       "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
+        "Karena paling tebal",
+        "Karena standar keabsahan haditsnya sangat ketat",
+        "Karena paling mudah dibaca",
+        "Karena paling banyak hadits"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Mukadimah dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 1,
+      "penjelasan": "Shahih Bukhari memiliki standar keabsahan hadits yang sangat ketat, termasuk sanad yang muttashil (bersambung) dan periwayat yang adil dan dhabit."
     },
     {
       "babId": "bab-2",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Iman' Shahih Bukhari?",
+      "pertanyaan": "Menurut Shahih Bukhari, apa yang dimaksud dengan Iman?",
       "pilihan": [
-        "Iman",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Keyakinan hati, pengakuan lisan, dan perbuatan tubuh",
+        "Hanya keyakinan hati",
+        "Hanya pengakuan lisan",
+        "Hanya perbuatan tubuh"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Iman' membahas tentang iman dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Shahih Bukhari membahas Iman dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Iman dalam konteks ilmu dan ibadah."
+      "penjelasan": "Iman menurut Shahih Bukhari mencakup keyakinan hati, pengakuan lisan, dan perbuatan tubuh yang sesuai dengan syariat."
     },
     {
       "babId": "bab-3",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Ilmu' Shahih Bukhari?",
+      "pertanyaan": "Menurut Shahih Bukhari, apa keutamaan ilmu?",
       "pilihan": [
-        "Ilmu",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Tidak ada keutamaan khusus",
+        "Ilmu lebih utama dari ibadah, karena menjadi dasar ibadah",
+        "Ilmu hanya untuk ulama",
+        "Ilmu hanya untuk dunia"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Ilmu' membahas tentang ilmu dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Shahih Bukhari membahas Ilmu dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Ilmu dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 1,
+      "penjelasan": "Shahih Bukhari menjelaskan bahwa ilmu lebih utama dari ibadah karena ilmu menjadi dasar dan pedoman ibadah."
     },
     {
       "babId": "bab-4",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Adab' Shahih Bukhari?",
+      "pertanyaan": "Menurut Shahih Bukhari, apa yang dimaksud dengan wudhu?",
       "pilihan": [
-        "Adab",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Mencuci anggota tubuh tertentu dengan air suci",
+        "Mandi seluruh tubuh",
+        "Mengusap tubuh dengan tanah",
+        "Hanya mencuci tangan"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Adab' membahas tentang adab dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-4",
-      "pertanyaan": "Shahih Bukhari membahas Adab dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Adab dalam konteks ilmu dan ibadah."
+      "penjelasan": "Wudhu adalah mencuci anggota tubuh tertentu (muka, tangan, kepala, kaki) dengan air suci untuk menghilangkan hadats kecil."
     },
     {
       "babId": "bab-5",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Aqidah' Shahih Bukhari?",
+      "pertanyaan": "Menurut Shahih Bukhari, apa yang membatalkan mandi wajib?",
       "pilihan": [
-        "Aqidah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Buang air kecil",
+        "Bersentuhan dengan wanita",
+        "Tidak ada yang membatalkan, mandi wajib dilakukan sekali",
+        "Tidur"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Aqidah' membahas tentang aqidah dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-5",
-      "pertanyaan": "Shahih Bukhari membahas Aqidah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Aqidah dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-6",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Tauhid' Shahih Bukhari?",
-      "pilihan": [
-        "Tauhid",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Tauhid' membahas tentang tauhid dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-6",
-      "pertanyaan": "Shahih Bukhari membahas Tauhid dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Tauhid dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-7",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Riwayat Abu Bakar' Shahih Bukhari?",
-      "pilihan": [
-        "Riwayat Abu Bakar",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Riwayat Abu Bakar' membahas tentang riwayat abu bakar dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-7",
-      "pertanyaan": "Shahih Bukhari membahas Riwayat Abu Bakar dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Riwayat Abu Bakar dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-8",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Riwayat Umar' Shahih Bukhari?",
-      "pilihan": [
-        "Riwayat Umar",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Riwayat Umar' membahas tentang riwayat umar dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-8",
-      "pertanyaan": "Shahih Bukhari membahas Riwayat Umar dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Riwayat Umar dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Riwayat Utsman' Shahih Bukhari?",
-      "pilihan": [
-        "Riwayat Utsman",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Riwayat Utsman' membahas tentang riwayat utsman dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Shahih Bukhari membahas Riwayat Utsman dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Riwayat Utsman dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 2,
+      "penjelasan": "Mandi wajib tidak dibatalkan, tetapi diulang jika penyebab mandi wajib muncul kembali, seperti bersetubuh atau haid."
     },
     {
       "babId": "bab-10",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Riwayat Ali' Shahih Bukhari?",
+      "pertanyaan": "Menurut Shahih Bukhari, apa keutamaan shalat berjamaah?",
       "pilihan": [
-        "Riwayat Ali",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Tidak ada keutamaan",
+        "Pahalanya 27 derajat lebih utama dari shalat sendirian",
+        "Hanya untuk pria",
+        "Hanya untuk wanita"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Riwayat Ali' membahas tentang riwayat ali dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Shahih Bukhari membahas Riwayat Ali dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Riwayat Ali dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Riwayat Aisyah' Shahih Bukhari?",
-      "pilihan": [
-        "Riwayat Aisyah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Riwayat Aisyah' membahas tentang riwayat aisyah dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Shahih Bukhari membahas Riwayat Aisyah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Riwayat Aisyah dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Riwayat Fatimah' Shahih Bukhari?",
-      "pilihan": [
-        "Riwayat Fatimah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Riwayat Fatimah' membahas tentang riwayat fatimah dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Shahih Bukhari membahas Riwayat Fatimah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Riwayat Fatimah dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Shalat' Shahih Bukhari?",
-      "pilihan": [
-        "Shalat",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Shalat' membahas tentang shalat dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Shahih Bukhari membahas Shalat dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Shalat dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-14",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Zakat' Shahih Bukhari?",
-      "pilihan": [
-        "Zakat",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Zakat' membahas tentang zakat dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-14",
-      "pertanyaan": "Shahih Bukhari membahas Zakat dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Zakat dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-15",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Puasa' Shahih Bukhari?",
-      "pilihan": [
-        "Puasa",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Puasa' membahas tentang puasa dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-15",
-      "pertanyaan": "Shahih Bukhari membahas Puasa dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Puasa dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-16",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Haji' Shahih Bukhari?",
-      "pilihan": [
-        "Haji",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Haji' membahas tentang haji dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-16",
-      "pertanyaan": "Shahih Bukhari membahas Haji dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Haji dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-17",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Nikah' Shahih Bukhari?",
-      "pilihan": [
-        "Nikah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Nikah' membahas tentang nikah dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-17",
-      "pertanyaan": "Shahih Bukhari membahas Nikah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Nikah dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-18",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Waris' Shahih Bukhari?",
-      "pilihan": [
-        "Waris",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Waris' membahas tentang waris dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-18",
-      "pertanyaan": "Shahih Bukhari membahas Waris dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Waris dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-19",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Jenazah' Shahih Bukhari?",
-      "pilihan": [
-        "Jenazah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Jenazah' membahas tentang jenazah dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-19",
-      "pertanyaan": "Shahih Bukhari membahas Jenazah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Jenazah dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 1,
+      "penjelasan": "Shahih Bukhari menjelaskan bahwa shalat berjamaah pahalanya 27 derajat lebih utama dari shalat sendirian."
     },
     {
       "babId": "bab-20",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Jihad' Shahih Bukhari?",
+      "pertanyaan": "Menurut Shahih Bukhari, apa yang dimaksud dengan sedekah?",
       "pilihan": [
-        "Jihad",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Memberikan sesuatu secara sukarela tanpa pamrih",
+        "Memberikan sesuatu dengan paksaan",
+        "Hanya memberikan harta",
+        "Hanya memberikan makanan"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Jihad' membahas tentang jihad dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-20",
-      "pertanyaan": "Shahih Bukhari membahas Jihad dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Jihad dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-21",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Riqa'' Shahih Bukhari?",
-      "pilihan": [
-        "Riqa'",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Riqa'' membahas tentang riqa' dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-21",
-      "pertanyaan": "Shahih Bukhari membahas Riqa' dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Riqa' dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-22",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Al-Quran' Shahih Bukhari?",
-      "pilihan": [
-        "Fadhilah Al-Quran",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Fadhilah Al-Quran' membahas tentang fadhilah al-quran dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-22",
-      "pertanyaan": "Shahih Bukhari membahas Fadhilah Al-Quran dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Fadhilah Al-Quran dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-23",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Tafsir' Shahih Bukhari?",
-      "pilihan": [
-        "Tafsir",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Tafsir' membahas tentang tafsir dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-23",
-      "pertanyaan": "Shahih Bukhari membahas Tafsir dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Tafsir dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-24",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Zuhud' Shahih Bukhari?",
-      "pilihan": [
-        "Zuhud",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Zuhud' membahas tentang zuhud dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-24",
-      "pertanyaan": "Shahih Bukhari membahas Zuhud dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Zuhud dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-25",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Tawakkal' Shahih Bukhari?",
-      "pilihan": [
-        "Tawakkal",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Tawakkal' membahas tentang tawakkal dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-25",
-      "pertanyaan": "Shahih Bukhari membahas Tawakkal dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Tawakkal dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-26",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Rida' Shahih Bukhari?",
-      "pilihan": [
-        "Rida",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Rida' membahas tentang rida dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-26",
-      "pertanyaan": "Shahih Bukhari membahas Rida dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Rida dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-27",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Doa' Shahih Bukhari?",
-      "pilihan": [
-        "Doa",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Doa' membahas tentang doa dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-27",
-      "pertanyaan": "Shahih Bukhari membahas Doa dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Doa dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-28",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Nikah' Shahih Bukhari?",
-      "pilihan": [
-        "Nikah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Nikah' membahas tentang nikah dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-28",
-      "pertanyaan": "Shahih Bukhari membahas Nikah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Nikah dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-29",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Perceraian' Shahih Bukhari?",
-      "pilihan": [
-        "Perceraian",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Perceraian' membahas tentang perceraian dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-29",
-      "pertanyaan": "Shahih Bukhari membahas Perceraian dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Perceraian dalam konteks ilmu dan ibadah."
+      "penjelasan": "Sedekah adalah memberikan sesuatu secara sukarela tanpa pamrih, bisa berupa harta, waktu, atau perbuatan baik."
     },
     {
       "babId": "bab-30",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Hudud' Shahih Bukhari?",
+      "pertanyaan": "Menurut Shahih Bukhari, apa keutamaan sabar?",
       "pilihan": [
-        "Hudud",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Tidak ada keutamaan",
+        "Sabar adalah cahaya, pahalanya sangat besar",
+        "Hanya untuk orang kuat",
+        "Hanya untuk orang sakit"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Hudud' membahas tentang hudud dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-30",
-      "pertanyaan": "Shahih Bukhari membahas Hudud dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Hudud dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-31",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Fitan' Shahih Bukhari?",
-      "pilihan": [
-        "Fitan",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Fitan' membahas tentang fitan dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-31",
-      "pertanyaan": "Shahih Bukhari membahas Fitan dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Fitan dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-32",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Hukum' Shahih Bukhari?",
-      "pilihan": [
-        "Hukum",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Hukum' membahas tentang hukum dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-32",
-      "pertanyaan": "Shahih Bukhari membahas Hukum dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Hukum dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 1,
+      "penjelasan": "Shahih Bukhari menjelaskan bahwa sabar adalah cahaya dan pahalanya sangat besar di sisi Allah."
     },
     {
       "babId": "bab-33",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Riwayat Para Nabi' Shahih Bukhari?",
+      "pertanyaan": "Menurut Shahih Bukhari, apa yang dimaksud dengan taqwa?",
       "pilihan": [
-        "Riwayat Para Nabi",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Selalu mengingat Allah dan menjalankan perintah-Nya",
+        "Hanya takut kepada Allah",
+        "Hanya menjalankan ibadah",
+        "Hanya menghindari dosa"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Riwayat Para Nabi' membahas tentang riwayat para nabi dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-33",
-      "pertanyaan": "Shahih Bukhari membahas Riwayat Para Nabi dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Riwayat Para Nabi dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-34",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Keutamaan Islam' Shahih Bukhari?",
-      "pilihan": [
-        "Keutamaan Islam",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Keutamaan Islam' membahas tentang keutamaan islam dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-34",
-      "pertanyaan": "Shahih Bukhari membahas Keutamaan Islam dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Keutamaan Islam dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-35",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Shalat Jumat' Shahih Bukhari?",
-      "pilihan": [
-        "Shalat Jumat",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Shalat Jumat' membahas tentang shalat jumat dalam Shahih Bukhari."
-    },
-    {
-      "babId": "bab-35",
-      "pertanyaan": "Shahih Bukhari membahas Shalat Jumat dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Shahih Bukhari membahas Shalat Jumat dalam konteks ilmu dan ibadah."
+      "penjelasan": "Taqwa adalah selalu mengingat Allah, menjalankan perintah-Nya, dan menjauhi larangan-Nya."
     }
   ]
 }

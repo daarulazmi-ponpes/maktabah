@@ -1,0 +1,2406 @@
+{
+  "kitab": "Tafsir Jalalain",
+  "slug": "jalalain",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Tafsir Jalalain ditulis oleh?",
+      "pilihan": [
+        "Imam Bukhari",
+        "Imam Nawawi",
+        "Imam Syafi'i",
+        "Imam Jalaluddin al-Mahalli dan Jalaluddin as-Suyuthi"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Tafsir Jalalain ditulis oleh dua orang bernama Jalaluddin, yaitu al-Mahalli dan as-Suyuthi."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Al-Fatihah artinya?",
+      "pilihan": [
+        "Isi",
+        "Penutup",
+        "Pembuka",
+        "Lampiran"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Fatihah artinya 'Pembuka', yaitu surat pembuka dalam Al-Quran."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Al-Baqarah artinya?",
+      "pilihan": [
+        "Unta",
+        "Kambing",
+        "Sapi Jantan",
+        "Sapi Betina"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Baqarah artinya 'Sapi Betina', yaitu surat yang membahas kisah sapi betina."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Ayat Kursi terdapat dalam surat?",
+      "pilihan": [
+        "An-Nisa",
+        "Al-Fatihah",
+        "Ali Imran",
+        "Al-Baqarah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Ayat Kursi terdapat dalam surat Al-Baqarah ayat 255."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Ali Imran artinya?",
+      "pilihan": [
+        "Keluarga Ibrahim",
+        "Keluarga Imran",
+        "Keluarga Musa",
+        "Keluarga Isa"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Ali Imran artinya 'Keluarga Imran', yaitu surat yang membahas keluarga Imran."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Surat Ali Imran membahas tentang?",
+      "pilihan": [
+        "Keluarga Ibrahim",
+        "Keluarga Imran dan peristiwa Uhud",
+        "Keluarga Musa",
+        "Keluarga Isa"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Ali Imran membahas tentang keluarga Imran dan peristiwa Uhud."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "An-Nisa artinya?",
+      "pilihan": [
+        "Orang Tua",
+        "Pria",
+        "Anak",
+        "Wanita"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "An-Nisa artinya 'Wanita', yaitu surat yang membahas hak-hak wanita."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Surat An-Nisa membahas tentang?",
+      "pilihan": [
+        "Hak-hak orang tua",
+        "Hak-hak pria",
+        "Hak-hak anak",
+        "Hak-hak wanita dan warisan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat An-Nisa membahas tentang hak-hak wanita dan warisan."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Al-Ma'idah artinya?",
+      "pilihan": [
+        "Pakaian",
+        "Minuman",
+        "Hidangan",
+        "Rumah"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Ma'idah artinya 'Hidangan', yaitu surat yang membahas kisah hidangan dari langit."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Surat Al-Ma'idah membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Hukum-hukum Islam",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Ma'idah membahas tentang hukum-hukum Islam."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Al-An'am artinya?",
+      "pilihan": [
+        "Tanaman",
+        "Hewan Ternak",
+        "Batu",
+        "Air"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-An'am artinya 'Hewan Ternak', yaitu surat yang membahas kisah hewan ternak."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Surat Al-An'am membahas tentang?",
+      "pilihan": [
+        "Tauhid dan syirik",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-An'am membahas tentang tauhid dan syirik."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Al-A'raf artinya?",
+      "pilihan": [
+        "Tempat Luas",
+        "Tempat Rendah",
+        "Tempat Sempit",
+        "Tempat Tinggi"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-A'raf artinya 'Tempat Tinggi', yaitu surat yang membahas kisah tempat tinggi."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Surat Al-A'raf membahas tentang?",
+      "pilihan": [
+        "Kisah para nabi",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-A'raf membahas tentang kisah para nabi."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Al-Anfal artinya?",
+      "pilihan": [
+        "Harta Warisan",
+        "Harta",
+        "Harta Rampasan",
+        "Ganimat"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Anfal artinya 'Ganimat', yaitu surat yang membahas ganimat perang."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Surat Al-Anfal membahas tentang?",
+      "pilihan": [
+        "Perang Khandaq",
+        "Perang Uhud",
+        "Perang Badar",
+        "Perang Hunain"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Al-Anfal membahas tentang perang Badar."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "At-Taubah artinya?",
+      "pilihan": [
+        "Perang",
+        "Pertobatan",
+        "Perdamaian",
+        "Persahabatan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "At-Taubah artinya 'Pertobatan', yaitu surat yang membahas pertobatan."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Surat At-Taubah membahas tentang?",
+      "pilihan": [
+        "Perdamaian",
+        "Pertobatan dan perang",
+        "Persahabatan",
+        "Kerjasama"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat At-Taubah membahas tentang pertobatan dan perang."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Yunus artinya?",
+      "pilihan": [
+        "Nama Malaikat",
+        "Nama Nabi",
+        "Nama Kitab",
+        "Nama Rasul"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Yunus artinya 'Nama Nabi', yaitu surat yang membahas kisah Nabi Yunus."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Surat Yunus membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Isa",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Yunus"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Yunus membahas tentang kisah Nabi Yunus."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Hud artinya?",
+      "pilihan": [
+        "Nama Kitab",
+        "Nama Malaikat",
+        "Nama Nabi",
+        "Nama Rasul"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hud artinya 'Nama Nabi', yaitu surat yang membahas kisah Nabi Hud."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Surat Hud membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Hud",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Hud membahas tentang kisah Nabi Hud."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Yusuf artinya?",
+      "pilihan": [
+        "Nama Kitab",
+        "Nama Malaikat",
+        "Nama Nabi",
+        "Nama Rasul"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Yusuf artinya 'Nama Nabi', yaitu surat yang membahas kisah Nabi Yusuf."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Surat Yusuf membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Yusuf",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Yusuf membahas tentang kisah Nabi Yusuf."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Ar-Ra'd artinya?",
+      "pilihan": [
+        "Angin",
+        "Hujan",
+        "Petir",
+        "Guruh"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Ar-Ra'd artinya 'Guruh', yaitu surat yang membahas guuruh."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Surat Ar-Ra'd membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Kekuasaan Allah",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Ar-Ra'd membahas tentang kekuasaan Allah."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Ibrahim artinya?",
+      "pilihan": [
+        "Nama Malaikat",
+        "Nama Nabi",
+        "Nama Kitab",
+        "Nama Rasul"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Ibrahim artinya 'Nama Nabi', yaitu surat yang membahas kisah Nabi Ibrahim."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Surat Ibrahim membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Yunus",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Ibrahim membahas tentang kisah Nabi Ibrahim."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Al-Hijr artinya?",
+      "pilihan": [
+        "Tanah",
+        "Batu",
+        "Air",
+        "Api"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hijr artinya 'Batu', yaitu surat yang membahas batu."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Surat Al-Hijr membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kisah para nabi",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Hijr membahas tentang kisah para nabi."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "An-Nahl artinya?",
+      "pilihan": [
+        "Semut",
+        "Lebah",
+        "Kupu-kupu",
+        "Burung"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "An-Nahl artinya 'Lebah', yaitu surat yang membahas lebah."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Surat An-Nahl membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Nikmat-nikmat Allah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat An-Nahl membahas tentang nikmat-nikmat Allah."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Al-Isra' artinya?",
+      "pilihan": [
+        "Perjalanan Malam",
+        "Perjalanan Siang",
+        "Perjalanan Pagi",
+        "Perjalanan Sore"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Isra' artinya 'Perjalanan Malam', yaitu surat yang membahas perjalanan malam Nabi Muhammad."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Surat Al-Isra' membahas tentang?",
+      "pilihan": [
+        "Perang Uhud",
+        "Perang Badar",
+        "Isra' Mi'raj",
+        "Perang Khandaq"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Al-Isra' membahas tentang Isra' Mi'raj."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Al-Kahf artinya?",
+      "pilihan": [
+        "Gua",
+        "Rumah",
+        "Kubah",
+        "Menara"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Kahf artinya 'Gua', yaitu surat yang membahas kisah Ashabul Kahf."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Surat Al-Kahf membahas tentang?",
+      "pilihan": [
+        "Perang Uhud",
+        "Perang Badar",
+        "Ashabul Kahf",
+        "Perang Khandaq"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Al-Kahf membahas tentang Ashabul Kahf."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Maryam artinya?",
+      "pilihan": [
+        "Nama Ibu Nabi Isa",
+        "Nama Ibu Nabi Musa",
+        "Nama Ibu Nabi Ibrahim",
+        "Nama Ibu Nabi Yunus"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Maryam artinya 'Nama Ibu Nabi Isa', yaitu surat yang membahas kisah Maryam."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Surat Maryam membahas tentang?",
+      "pilihan": [
+        "Kisah Maryam dan Nabi Isa",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Yunus"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Maryam membahas tentang kisah Maryam dan Nabi Isa."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Taha artinya?",
+      "pilihan": [
+        "Huruf Hijaiyah",
+        "Nama Nabi",
+        "Nama Malaikat",
+        "Nama Kitab"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Taha artinya 'Huruf Hijaiyah', yaitu surat yang dimulai dengan huruf Taha."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Surat Taha membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Yunus",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Taha membahas tentang kisah Nabi Musa."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Al-Anbiya artinya?",
+      "pilihan": [
+        "Para Sahabat",
+        "Para Malaikat",
+        "Para Rasul",
+        "Para Nabi"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Anbiya artinya 'Para Nabi', yaitu surat yang membahas para nabi."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Surat Al-Anbiya membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kisah para nabi",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Anbiya membahas tentang kisah para nabi."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Al-Hajj artinya?",
+      "pilihan": [
+        "Umrah",
+        "Haji",
+        "Ziarah",
+        "Wisata"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hajj artinya 'Haji', yaitu surat yang membahas hukum haji."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Surat Al-Hajj membahas tentang?",
+      "pilihan": [
+        "Hukum umrah",
+        "Hukum haji",
+        "Hukum ziarah",
+        "Hukum wisata"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Hajj membahas tentang hukum haji."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Al-Mu'minun artinya?",
+      "pilihan": [
+        "Orang-orang Musyrik",
+        "Orang-orang Kafir",
+        "Orang-orang Munafik",
+        "Orang-orang Mukmin"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Mu'minun artinya 'Orang-orang Mukmin', yaitu surat yang membahas orang-orang mukmin."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Surat Al-Mu'minun membahas tentang?",
+      "pilihan": [
+        "Sifat orang kafir",
+        "Sifat orang mukmin",
+        "Sifat orang munafik",
+        "Sifat orang musyrik"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Mu'minun membahas tentang sifat orang mukmin."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "An-Nur artinya?",
+      "pilihan": [
+        "Kegelapan",
+        "Cahaya",
+        "Api",
+        "Air"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "An-Nur artinya 'Cahaya', yaitu surat yang membahas cahaya Allah."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Surat An-Nur membahas tentang?",
+      "pilihan": [
+        "Cahaya Allah",
+        "Kegelapan",
+        "Api",
+        "Air"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat An-Nur membahas tentang cahaya Allah."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Al-Furqan artinya?",
+      "pilihan": [
+        "Penyatu",
+        "Pembeda",
+        "Pemisah",
+        "Penghubung"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Furqan artinya 'Pembeda', yaitu surat yang membahas Al-Quran sebagai pembeda antara benar dan salah."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Surat Al-Furqan membahas tentang?",
+      "pilihan": [
+        "Kegelapan",
+        "Al-Quran sebagai pembeda",
+        "Api",
+        "Air"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Furqan membahas tentang Al-Quran sebagai pembeda antara benar dan salah."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Asy-Syu'ara artinya?",
+      "pilihan": [
+        "Para Rasul",
+        "Para Nabi",
+        "Para Malaikat",
+        "Para Penyair"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Asy-Syu'ara artinya 'Para Penyair', yaitu surat yang membahas para penyair."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Surat Asy-Syu'ara membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Kisah para nabi"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Asy-Syu'ara membahas tentang kisah para nabi."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "An-Naml artinya?",
+      "pilihan": [
+        "Kupu-kupu",
+        "Lebah",
+        "Semut",
+        "Burung"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "An-Naml artinya 'Semut', yaitu surat yang membahas kisah semut."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Surat An-Naml membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Isa",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Sulaiman"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat An-Naml membahas tentang kisah Nabi Sulaiman."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Al-Qasas artinya?",
+      "pilihan": [
+        "Kisah",
+        "Cerita",
+        "Dongeng",
+        "Mitos"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Qasas artinya 'Kisah', yaitu surat yang membahas kisah-kisah."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Surat Al-Qasas membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Yunus",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Qasas membahas tentang kisah Nabi Musa."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Al-Ankabut artinya?",
+      "pilihan": [
+        "Semut",
+        "Laba-laba",
+        "Lebah",
+        "Kupu-kupu"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Ankabut artinya 'Laba-laba', yaitu surat yang membahas laba-laba."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Surat Al-Ankabut membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Cobaan dan ujian"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Ankabut membahas tentang cobaan dan ujian."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Ar-Rum artinya?",
+      "pilihan": [
+        "Romawi",
+        "Mesir",
+        "Yunani",
+        "Persia"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Ar-Rum artinya 'Romawi', yaitu surat yang membahas Romawi."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Surat Ar-Rum membahas tentang?",
+      "pilihan": [
+        "Kemenangan Romawi",
+        "Kekalahan Romawi",
+        "Kekalahan Mesir",
+        "Kemenangan Mesir"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Ar-Rum membahas tentang kekalahan Romawi."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Luqman artinya?",
+      "pilihan": [
+        "Nama Malaikat",
+        "Nama Nabi",
+        "Nama Orang Bijak",
+        "Nama Kitab"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Luqman artinya 'Nama Orang Bijak', yaitu surat yang membahas kisah Luqman."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Surat Luqman membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Isa",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Nasihat Luqman"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Luqman membahas tentang nasihat Luqman."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "As-Sajdah artinya?",
+      "pilihan": [
+        "Berdiri",
+        "Ruku'",
+        "Duduk",
+        "Sujud"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "As-Sajdah artinya 'Sujud', yaitu surat yang membahas sujud."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Surat As-Sajdah membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Kiamat dan kebangkitan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat As-Sajdah membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Al-Ahzab artinya?",
+      "pilihan": [
+        "Tidak Ada Golongan",
+        "Satu Golongan",
+        "Golongan-Golongan",
+        "Semua Golongan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Ahzab artinya 'Golongan-Golongan', yaitu surat yang membahas golongan-golongan."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Surat Al-Ahzab membahas tentang?",
+      "pilihan": [
+        "Perang Uhud",
+        "Perang Badar",
+        "Perang Ahzab",
+        "Perang Khandaq"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Al-Ahzab membahas tentang perang Ahzab."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Saba' artinya?",
+      "pilihan": [
+        "Nama Kitab",
+        "Nama Nabi",
+        "Nama Malaikat",
+        "Nama Bangsa"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Saba' artinya 'Nama Bangsa', yaitu surat yang membahas bangsa Saba'."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Surat Saba' membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Isa",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah bangsa Saba'"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Saba' membahas tentang kisah bangsa Saba'."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Fatir artinya?",
+      "pilihan": [
+        "Pencipta",
+        "Pembinasa",
+        "Pemelihara",
+        "Pengatur"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Fatir artinya 'Pencipta', yaitu surat yang membahas Allah sebagai Pencipta."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Surat Fatir membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kekuasaan Allah",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Fatir membahas tentang kekuasaan Allah."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Yaasin artinya?",
+      "pilihan": [
+        "Nama Kitab",
+        "Nama Nabi",
+        "Nama Malaikat",
+        "Huruf Hijaiyah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Yaasin artinya 'Huruf Hijaiyah', yaitu surat yang dimulai dengan huruf Yaasin."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Surat Yaasin membahas tentang?",
+      "pilihan": [
+        "Kebangkitan dan kiamat",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Yaasin membahas tentang kebangkitan dan kiamat."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "As-Saffat artinya?",
+      "pilihan": [
+        "Berbaris-Baris",
+        "Duduk",
+        "Berdiri",
+        "Berjalan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "As-Saffat artinya 'Berbaris-Baris', yaitu surat yang membahas malaikat berbaris-baris."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "Surat As-Saffat membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kisah para nabi",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat As-Saffat membahas tentang kisah para nabi."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Shad artinya?",
+      "pilihan": [
+        "Huruf Hijaiyah",
+        "Nama Nabi",
+        "Nama Malaikat",
+        "Nama Kitab"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Shad artinya 'Huruf Hijaiyah', yaitu surat yang dimulai dengan huruf Shad."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Surat Shad membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Daud",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Shad membahas tentang kisah Nabi Daud."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Az-Zumar artinya?",
+      "pilihan": [
+        "Semua Golongan",
+        "Satu Golongan",
+        "Tidak Ada Golongan",
+        "Golongan-Golongan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Az-Zumar artinya 'Golongan-Golongan', yaitu surat yang membahas golongan-golongan."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Surat Az-Zumar membahas tentang?",
+      "pilihan": [
+        "Tauhid dan akhlak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Az-Zumar membahas tentang tauhid dan akhlak."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Ghafir artinya?",
+      "pilihan": [
+        "Maha Tinggi",
+        "Maha Kuasa",
+        "Maha Besar",
+        "Maha Pengampun"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Ghafir artinya 'Maha Pengampun', yaitu surat yang membahas Allah sebagai Maha Pengampun."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Surat Ghafir membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Kehancuran orang kafir",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Ghafir membahas tentang kehancuran orang kafir."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Fussilat artinya?",
+      "pilihan": [
+        "Ditinggalkan",
+        "Disembunyikan",
+        "Dilupakan",
+        "Dijelaskan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Fussilat artinya 'Dijelaskan', yaitu surat yang membahas Al-Quran yang dijelaskan."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Surat Fussilat membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Tauhid dan kiamat",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Fussilat membahas tentang tauhid dan kiamat."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Asy-Syura artinya?",
+      "pilihan": [
+        "Persahabatan",
+        "Perang",
+        "Perdamaian",
+        "Musyawarah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Asy-Syura artinya 'Musyawarah', yaitu surat yang membahas musyawarah."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Surat Asy-Syura membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Tauhid dan musyawarah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Asy-Syura membahas tentang tauhid dan musyawarah."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Az-Zukhruf artinya?",
+      "pilihan": [
+        "Perhiasan Perunggu",
+        "Perhiasan Perak",
+        "Perhiasan Emas",
+        "Perhiasan Besi"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Az-Zukhruf artinya 'Perhiasan Emas', yaitu surat yang membahas perhiasan emas."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Surat Az-Zukhruf membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Az-Zukhruf membahas tentang tauhid dan akhlak."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Ad-Dukhan artinya?",
+      "pilihan": [
+        "Tanah",
+        "Api",
+        "Air",
+        "Asap"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Ad-Dukhan artinya 'Asap', yaitu surat yang membahas asap."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Surat Ad-Dukhan membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Kiamat dan azab"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Ad-Dukhan membahas tentang kiamat dan azab."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Al-Jatsiyah artinya?",
+      "pilihan": [
+        "Berlutut",
+        "Berdiri",
+        "Duduk",
+        "Berjalan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Jatsiyah artinya 'Berlutut', yaitu surat yang membahas berlutut."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Surat Al-Jatsiyah membahas tentang?",
+      "pilihan": [
+        "Kiamat dan kebangkitan",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Jatsiyah membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Ahqaf artinya?",
+      "pilihan": [
+        "Bukit-Bukit Pasir",
+        "Bukit-Bukit Batu",
+        "Bukit-Bukit Tanah",
+        "Bukit-Bukit Air"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Ahqaf artinya 'Bukit-Bukit Pasir', yaitu surat yang membahas bukit-bukit pasir."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Surat Ahqaf membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Kisah para nabi",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Ahqaf membahas tentang kisah para nabi."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Muhammad artinya?",
+      "pilihan": [
+        "Nama Nabi",
+        "Nama Malaikat",
+        "Nama Kitab",
+        "Nama Rasul"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muhammad artinya 'Nama Nabi', yaitu surat yang membahas Nabi Muhammad."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Surat Muhammad membahas tentang?",
+      "pilihan": [
+        "Perang dan jihad",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Muhammad membahas tentang perang dan jihad."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Al-Fath artinya?",
+      "pilihan": [
+        "Kemenangan",
+        "Kekalahan",
+        "Perdamaian",
+        "Persahabatan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Fath artinya 'Kemenangan', yaitu surat yang membahas kemenangan."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Surat Al-Fath membahas tentang?",
+      "pilihan": [
+        "Persahabatan Hijaz",
+        "Kekalahan Hijaz",
+        "Perdamaian Hijaz",
+        "Kemenangan Hijaz"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Fath membahas tentang kemenangan Hijaz."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Al-Hujurat artinya?",
+      "pilihan": [
+        "Menara-Menara",
+        "Rumah-Rumah",
+        "Gua-Gua",
+        "Kamar-Kamar"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hujurat artinya 'Kamar-Kamar', yaitu surat yang membahas kamar-kamar."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Surat Al-Hujurat membahas tentang?",
+      "pilihan": [
+        "Akhlak dan adab",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Hujurat membahas tentang akhlak dan adab."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Qaf artinya?",
+      "pilihan": [
+        "Huruf Hijaiyah",
+        "Nama Nabi",
+        "Nama Malaikat",
+        "Nama Kitab"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qaf artinya 'Huruf Hijaiyah', yaitu surat yang dimulai dengan huruf Qaf."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Surat Qaf membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Kiamat dan kebangkitan",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Qaf membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Adz-Dzariyat artinya?",
+      "pilihan": [
+        "Hujan",
+        "Angin yang Menerbangkan Debu",
+        "Petir",
+        "Guruh"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Adz-Dzariyat artinya 'Angin yang Menerbangkan Debu', yaitu surat yang membahas angin."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Surat Adz-Dzariyat membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kiamat dan kebangkitan",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Adz-Dzariyat membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "At-Tur artinya?",
+      "pilihan": [
+        "Lembah",
+        "Gunung",
+        "Bukit",
+        "Sungai"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "At-Tur artinya 'Bukit', yaitu surat yang membahas bukit."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Surat At-Tur membahas tentang?",
+      "pilihan": [
+        "Kiamat dan kebangkitan",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat At-Tur membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "An-Najm artinya?",
+      "pilihan": [
+        "Matahari",
+        "Bulan",
+        "Bintang",
+        "Planet"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "An-Najm artinya 'Bintang', yaitu surat yang membahas bintang."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Surat An-Najm membahas tentang?",
+      "pilihan": [
+        "Isra' Mi'raj",
+        "Perang Badar",
+        "Perang Uhud",
+        "Perang Khandaq"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat An-Najm membahas tentang Isra' Mi'raj."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Al-Qamar artinya?",
+      "pilihan": [
+        "Matahari",
+        "Bulan",
+        "Bintang",
+        "Planet"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Qamar artinya 'Bulan', yaitu surat yang membahas bulan."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Surat Al-Qamar membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Kiamat dan azab"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Qamar membahas tentang kiamat dan azab."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Ar-Rahman artinya?",
+      "pilihan": [
+        "Maha Besar",
+        "Maha Kuasa",
+        "Maha Penyayang",
+        "Maha Tinggi"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Ar-Rahman artinya 'Maha Penyayang', yaitu surat yang membahas Allah sebagai Maha Penyayang."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Surat Ar-Rahman membahas tentang?",
+      "pilihan": [
+        "Nikmat-nikmat Allah",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Ar-Rahman membahas tentang nikmat-nikmat Allah."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Al-Waqi'ah artinya?",
+      "pilihan": [
+        "Hari Kebangkitan",
+        "Hari Kiamat",
+        "Hari Penghisaban",
+        "Hari Pembalasan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Waqi'ah artinya 'Hari Kiamat', yaitu surat yang membahas hari kiamat."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Surat Al-Waqi'ah membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hari kiamat"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Waqi'ah membahas tentang hari kiamat."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Al-Hadid artinya?",
+      "pilihan": [
+        "Perak",
+        "Emas",
+        "Besi",
+        "Perunggu"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hadid artinya 'Besi', yaitu surat yang membahas besi."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Surat Al-Hadid membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Jihad dan infak",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Hadid membahas tentang jihad dan infak."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Al-Mujadilah artinya?",
+      "pilihan": [
+        "Orang Tua yang Berdebat",
+        "Laki-laki yang Berdebat",
+        "Anak yang Berdebat",
+        "Perempuan yang Berdebat"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Mujadilah artinya 'Perempuan yang Berdebat', yaitu surat yang membahas perempuan yang berdebat."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Surat Al-Mujadilah membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kisah perempuan yang berdebat",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Mujadilah membahas tentang kisah perempuan yang berdebat."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Al-Hasyr artinya?",
+      "pilihan": [
+        "Penggusuran",
+        "Pengusiran",
+        "Pemindahan",
+        "Perpindahan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hasyr artinya 'Pengusiran', yaitu surat yang membahas pengusiran."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Surat Al-Hasyr membahas tentang?",
+      "pilihan": [
+        "Pengusiran Bani Nadir",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Hasyr membahas tentang pengusiran Bani Nadir."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Al-Mumtahanah artinya?",
+      "pilihan": [
+        "Perempuan yang Diuji",
+        "Laki-laki yang Diuji",
+        "Anak yang Diuji",
+        "Orang Tua yang Diuji"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Mumtahanah artinya 'Perempuan yang Diuji', yaitu surat yang membahas perempuan yang diuji."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Surat Al-Mumtahanah membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hubungan dengan non-muslim"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Mumtahanah membahas tentang hubungan dengan non-muslim."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "As-Saff artinya?",
+      "pilihan": [
+        "Barisan",
+        "Golongan",
+        "Kelompok",
+        "Pasukan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "As-Saff artinya 'Barisan', yaitu surat yang membahas barisan."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Surat As-Saff membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Jihad dan persatuan",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat As-Saff membahas tentang jihad dan persatuan."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Al-Jumu'ah artinya?",
+      "pilihan": [
+        "Senin",
+        "Sabtu",
+        "Ahad",
+        "Jumat"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Jumu'ah artinya 'Jumat', yaitu surat yang membahas hari Jumat."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Surat Al-Jumu'ah membahas tentang?",
+      "pilihan": [
+        "Shalat Jumat",
+        "Shalat Subuh",
+        "Shalat Dzuhur",
+        "Shalat Ashar"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Jumu'ah membahas tentang shalat Jumat."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Al-Munafiqun artinya?",
+      "pilihan": [
+        "Orang-orang Musyrik",
+        "Orang-orang Mukmin",
+        "Orang-orang Kafir",
+        "Orang-orang Munafik"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Munafiqun artinya 'Orang-orang Munafik', yaitu surat yang membahas orang-orang munafik."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Surat Al-Munafiqun membahas tentang?",
+      "pilihan": [
+        "Sifat orang mukmin",
+        "Sifat orang munafik",
+        "Sifat orang kafir",
+        "Sifat orang musyrik"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Munafiqun membahas tentang sifat orang munafik."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "At-Taghabun artinya?",
+      "pilihan": [
+        "Hari Terlihat Keuntungan",
+        "Hari Terlihat Kerugian",
+        "Hari Terlihat Kesetaraan",
+        "Hari Terlihat Keadilan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "At-Taghabun artinya 'Hari Terlihat Kerugian', yaitu surat yang membahas hari terlihat kerugian."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Surat At-Taghabun membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kiamat dan kerugian",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat At-Taghabun membahas tentang kiamat dan kerugian."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "At-Talaq artinya?",
+      "pilihan": [
+        "Mahar",
+        "Pernikahan",
+        "Lamaran",
+        "Perceraian"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "At-Talaq artinya 'Perceraian', yaitu surat yang membahas perceraian."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Surat At-Talaq membahas tentang?",
+      "pilihan": [
+        "Hukum mahar",
+        "Hukum pernikahan",
+        "Hukum lamaran",
+        "Hukum perceraian"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat At-Talaq membahas tentang hukum perceraian."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "At-Tahrim artinya?",
+      "pilihan": [
+        "Sunnah",
+        "Kebolehan",
+        "Kewajiban",
+        "Pelarangan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "At-Tahrim artinya 'Pelarangan', yaitu surat yang membahas pelarangan."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Surat At-Tahrim membahas tentang?",
+      "pilihan": [
+        "Hukum pelarangan",
+        "Hukum kebolehan",
+        "Hukum kewajiban",
+        "Hukum sunnah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat At-Tahrim membahas tentang hukum pelarangan."
+    },
+    {
+      "babId": "bab-67",
+      "pertanyaan": "Al-Mulk artinya?",
+      "pilihan": [
+        "Kebesaran",
+        "Kekuasaan",
+        "Kerajaan",
+        "Ketinggian"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Mulk artinya 'Kerajaan', yaitu surat yang membahas kerajaan."
+    },
+    {
+      "babId": "bab-67",
+      "pertanyaan": "Surat Al-Mulk membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Kekuasaan Allah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Mulk membahas tentang kekuasaan Allah."
+    },
+    {
+      "babId": "bab-68",
+      "pertanyaan": "Al-Qalam artinya?",
+      "pilihan": [
+        "Tinta",
+        "Kertas",
+        "Pena",
+        "Buku"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Qalam artinya 'Pena', yaitu surat yang membahas pena."
+    },
+    {
+      "babId": "bab-68",
+      "pertanyaan": "Surat Al-Qalam membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Isa",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Muhammad"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Qalam membahas tentang kisah Nabi Muhammad."
+    },
+    {
+      "babId": "bab-69",
+      "pertanyaan": "Al-Haqqah artinya?",
+      "pilihan": [
+        "Hari Pembalasan",
+        "Hari Kebangkitan",
+        "Hari Penghisaban",
+        "Hari Kiamat yang Pasti"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Haqqah artinya 'Hari Kiamat yang Pasti', yaitu surat yang membahas hari kiamat yang pasti."
+    },
+    {
+      "babId": "bab-69",
+      "pertanyaan": "Surat Al-Haqqah membahas tentang?",
+      "pilihan": [
+        "Hari kiamat",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Haqqah membahas tentang hari kiamat."
+    },
+    {
+      "babId": "bab-70",
+      "pertanyaan": "Al-Ma'arij artinya?",
+      "pilihan": [
+        "Tempat Naik",
+        "Tempat Turun",
+        "Tempat Sempit",
+        "Tempat Luas"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Ma'arij artinya 'Tempat Naik', yaitu surat yang membahas tempat naik."
+    },
+    {
+      "babId": "bab-70",
+      "pertanyaan": "Surat Al-Ma'arij membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kiamat dan kebangkitan",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Ma'arij membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-71",
+      "pertanyaan": "Nuh artinya?",
+      "pilihan": [
+        "Nama Kitab",
+        "Nama Malaikat",
+        "Nama Nabi",
+        "Nama Rasul"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Nuh artinya 'Nama Nabi', yaitu surat yang membahas kisah Nabi Nuh."
+    },
+    {
+      "babId": "bab-71",
+      "pertanyaan": "Surat Nuh membahas tentang?",
+      "pilihan": [
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Nuh",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Nuh membahas tentang kisah Nabi Nuh."
+    },
+    {
+      "babId": "bab-72",
+      "pertanyaan": "Al-Jinn artinya?",
+      "pilihan": [
+        "Hewan",
+        "Malaikat",
+        "Manusia",
+        "Jin"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Jinn artinya 'Jin', yaitu surat yang membahas jin."
+    },
+    {
+      "babId": "bab-72",
+      "pertanyaan": "Surat Al-Jinn membahas tentang?",
+      "pilihan": [
+        "Kisah hewan",
+        "Kisah malaikat",
+        "Kisah manusia",
+        "Kisah jin"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Jinn membahas tentang kisah jin."
+    },
+    {
+      "babId": "bab-73",
+      "pertanyaan": "Al-Muzzammil artinya?",
+      "pilihan": [
+        "Orang yang Berpakaian",
+        "Orang yang Berselimut",
+        "Orang yang Berjubah",
+        "Orang yang Berpeci"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Muzzammil artinya 'Orang yang Berselimut', yaitu surat yang membahas orang yang berselimut."
+    },
+    {
+      "babId": "bab-73",
+      "pertanyaan": "Surat Al-Muzzammil membahas tentang?",
+      "pilihan": [
+        "Qiyamul lail",
+        "Shalat Subuh",
+        "Shalat Dzuhur",
+        "Shalat Ashar"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Muzzammil membahas tentang qiyamul lail."
+    },
+    {
+      "babId": "bab-74",
+      "pertanyaan": "Al-Muddatstsir artinya?",
+      "pilihan": [
+        "Orang yang Berpakaian",
+        "Orang yang Berselimut",
+        "Orang yang Berjubah",
+        "Orang yang Berpeci"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Muddatstsir artinya 'Orang yang Berpakaian', yaitu surat yang membahas orang yang berpakaian."
+    },
+    {
+      "babId": "bab-74",
+      "pertanyaan": "Surat Al-Muddatstsir membahas tentang?",
+      "pilihan": [
+        "Dakwah Nabi Isa",
+        "Dakwah Nabi Musa",
+        "Dakwah Nabi Ibrahim",
+        "Dakwah Nabi Muhammad"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Muddatstsir membahas tentang dakwah Nabi Muhammad."
+    },
+    {
+      "babId": "bab-75",
+      "pertanyaan": "Al-Qiyamah artinya?",
+      "pilihan": [
+        "Hari Penghisaban",
+        "Hari Kiamat",
+        "Hari Kebangkitan",
+        "Hari Pembalasan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Qiyamah artinya 'Hari Kebangkitan', yaitu surat yang membahas hari kebangkitan."
+    },
+    {
+      "babId": "bab-75",
+      "pertanyaan": "Surat Al-Qiyamah membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hari kebangkitan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Qiyamah membahas tentang hari kebangkitan."
+    },
+    {
+      "babId": "bab-76",
+      "pertanyaan": "Al-Insan artinya?",
+      "pilihan": [
+        "Manusia",
+        "Hewan",
+        "Tanaman",
+        "Batu"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Insan artinya 'Manusia', yaitu surat yang membahas manusia."
+    },
+    {
+      "babId": "bab-76",
+      "pertanyaan": "Surat Al-Insan membahas tentang?",
+      "pilihan": [
+        "Ciptaan manusia",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Insan membahas tentang ciptaan manusia."
+    },
+    {
+      "babId": "bab-77",
+      "pertanyaan": "Al-Mursalat artinya?",
+      "pilihan": [
+        "Angel yang Ditinggalkan",
+        "Angel yang Dikirim",
+        "Angel yang Dilupakan",
+        "Angel yang Ditinggalkan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Mursalat artinya 'Angel yang Dikirim', yaitu surat yang membahas angel yang dikirim."
+    },
+    {
+      "babId": "bab-77",
+      "pertanyaan": "Surat Al-Mursalat membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kiamat dan kebangkitan",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Mursalat membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-78",
+      "pertanyaan": "An-Naba' artinya?",
+      "pilihan": [
+        "Berita Kecil",
+        "Berita Besar",
+        "Berita Sempit",
+        "Berita Luas"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "An-Naba' artinya 'Berita Besar', yaitu surat yang membahas berita besar."
+    },
+    {
+      "babId": "bab-78",
+      "pertanyaan": "Surat An-Naba' membahas tentang?",
+      "pilihan": [
+        "Kiamat dan kebangkitan",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat An-Naba' membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-79",
+      "pertanyaan": "An-Nazi'at artinya?",
+      "pilihan": [
+        "Angel yang Mencabut",
+        "Angel yang Menanam",
+        "Angel yang Menyiram",
+        "Angel yang Memetik"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "An-Nazi'at artinya 'Angel yang Mencabut', yaitu surat yang membahas angel yang mencabut."
+    },
+    {
+      "babId": "bab-79",
+      "pertanyaan": "Surat An-Nazi'at membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Kiamat dan kebangkitan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat An-Nazi'at membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-80",
+      "pertanyaan": "Abasa artinya?",
+      "pilihan": [
+        "Ia Menangis",
+        "Ia Bersenyum",
+        "Ia Bermuka Masam",
+        "Ia Tertawa"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Abasa artinya 'Ia Bermuka Masam', yaitu surat yang membahas ia bermuka masam."
+    },
+    {
+      "babId": "bab-80",
+      "pertanyaan": "Surat Abasa membahas tentang?",
+      "pilihan": [
+        "Kisah Abu Jahl",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Abasa membahas tentang kisah Abu Jahl."
+    },
+    {
+      "babId": "bab-81",
+      "pertanyaan": "At-Takwir artinya?",
+      "pilihan": [
+        "Membuka",
+        "Menggulung",
+        "Menutup",
+        "Memutuskan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "At-Takwir artinya 'Menggulung', yaitu surat yang membahas menggulung."
+    },
+    {
+      "babId": "bab-81",
+      "pertanyaan": "Surat At-Takwir membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kiamat dan kebangkitan",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat At-Takwir membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-82",
+      "pertanyaan": "Al-Infitar artinya?",
+      "pilihan": [
+        "Terbuka",
+        "Tertutup",
+        "Terbelah",
+        "Terputus"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Infitar artinya 'Terbelah', yaitu surat yang membahas terbelah."
+    },
+    {
+      "babId": "bab-82",
+      "pertanyaan": "Surat Al-Infitar membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Kiamat dan kebangkitan",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Al-Infitar membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-83",
+      "pertanyaan": "Al-Mutaffifin artinya?",
+      "pilihan": [
+        "Orang-orang Adil",
+        "Orang-orang Jujur",
+        "Orang-orang Curang",
+        "Orang-orang Zalim"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Mutaffifin artinya 'Orang-orang Curang', yaitu surat yang membahas orang-orang curang."
+    },
+    {
+      "babId": "bab-83",
+      "pertanyaan": "Surat Al-Mutaffifin membahas tentang?",
+      "pilihan": [
+        "Orang-orang adil",
+        "Orang-orang jujur",
+        "Orang-orang curang",
+        "Orang-orang zalim"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Al-Mutaffifin membahas tentang orang-orang curang."
+    },
+    {
+      "babId": "bab-84",
+      "pertanyaan": "Al-Insyiqaq artinya?",
+      "pilihan": [
+        "Tertutup",
+        "Terbelah",
+        "Terbuka",
+        "Terputus"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Insyiqaq artinya 'Terbelah', yaitu surat yang membahas terbelah."
+    },
+    {
+      "babId": "bab-84",
+      "pertanyaan": "Surat Al-Insyiqaq membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Kiamat dan kebangkitan",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Insyiqaq membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-85",
+      "pertanyaan": "Al-Buruj artinya?",
+      "pilihan": [
+        "Gugusan Hujan",
+        "Gugusan Awan",
+        "Gugusan Bintang",
+        "Gugusan Petir"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Buruj artinya 'Gugusan Bintang', yaitu surat yang membahas gugusan bintang."
+    },
+    {
+      "babId": "bab-85",
+      "pertanyaan": "Surat Al-Buruj membahas tentang?",
+      "pilihan": [
+        "Kisah Ashabul Ukhdud",
+        "Kisah Nabi Musa",
+        "Kisah Nabi Ibrahim",
+        "Kisah Nabi Isa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Buruj membahas tentang kisah Ashabul Ukhdud."
+    },
+    {
+      "babId": "bab-86",
+      "pertanyaan": "At-Tariq artinya?",
+      "pilihan": [
+        "Bintang Sore",
+        "Bintang Siang",
+        "Bintang Pagi",
+        "Bintang Malam"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "At-Tariq artinya 'Bintang Malam', yaitu surat yang membahas bintang malam."
+    },
+    {
+      "babId": "bab-86",
+      "pertanyaan": "Surat At-Tariq membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Kebangkitan dan kiamat"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat At-Tariq membahas tentang kebangkitan dan kiamat."
+    },
+    {
+      "babId": "bab-87",
+      "pertanyaan": "Al-A'la artinya?",
+      "pilihan": [
+        "Yang Paling Sempit",
+        "Yang Paling Rendah",
+        "Yang Paling Tinggi",
+        "Yang Paling Luas"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-A'la artinya 'Yang Paling Tinggi', yaitu surat yang membahas yang paling tinggi."
+    },
+    {
+      "babId": "bab-87",
+      "pertanyaan": "Surat Al-A'la membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Kemuliaan Allah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-A'la membahas tentang kemuliaan Allah."
+    },
+    {
+      "babId": "bab-88",
+      "pertanyaan": "Al-Ghasyiyah artinya?",
+      "pilihan": [
+        "Hari Penghisaban",
+        "Hari Kebangkitan",
+        "Hari Pembalasan",
+        "Hari Kiamat"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Ghasyiyah artinya 'Hari Pembalasan', yaitu surat yang membahas hari pembalasan."
+    },
+    {
+      "babId": "bab-88",
+      "pertanyaan": "Surat Al-Ghasyiyah membahas tentang?",
+      "pilihan": [
+        "Hari pembalasan",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Ghasyiyah membahas tentang hari pembalasan."
+    },
+    {
+      "babId": "bab-89",
+      "pertanyaan": "Al-Fajr artinya?",
+      "pilihan": [
+        "Dzuhur",
+        "Maghrib",
+        "Fajar",
+        "Ashar"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Fajr artinya 'Fajar', yaitu surat yang membahas fajar."
+    },
+    {
+      "babId": "bab-89",
+      "pertanyaan": "Surat Al-Fajr membahas tentang?",
+      "pilihan": [
+        "Kehancuran kaum terdahulu",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Surat Al-Fajr membahas tentang kehancuran kaum terdahulu."
+    },
+    {
+      "babId": "bab-90",
+      "pertanyaan": "Al-Balad artinya?",
+      "pilihan": [
+        "Desa",
+        "Kota",
+        "Negeri",
+        "Kampung"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Balad artinya 'Negeri', yaitu surat yang membahas negeri."
+    },
+    {
+      "babId": "bab-90",
+      "pertanyaan": "Surat Al-Balad membahas tentang?",
+      "pilihan": [
+        "Kota Yerusalem",
+        "Kota Madinah",
+        "Kota Makkah",
+        "Kota Baghdad"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Al-Balad membahas tentang kota Makkah."
+    },
+    {
+      "babId": "bab-91",
+      "pertanyaan": "Asy-Syams artinya?",
+      "pilihan": [
+        "Planet",
+        "Bulan",
+        "Bintang",
+        "Matahari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Asy-Syams artinya 'Matahari', yaitu surat yang membahas matahari."
+    },
+    {
+      "babId": "bab-91",
+      "pertanyaan": "Surat Asy-Syams membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Jiwa manusia"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Asy-Syams membahas tentang jiwa manusia."
+    },
+    {
+      "babId": "bab-92",
+      "pertanyaan": "Al-Lail artinya?",
+      "pilihan": [
+        "Sore",
+        "Siang",
+        "Pagi",
+        "Malam"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Lail artinya 'Malam', yaitu surat yang membahas malam."
+    },
+    {
+      "babId": "bab-92",
+      "pertanyaan": "Surat Al-Lail membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Dua golongan manusia"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Lail membahas tentang dua golongan manusia."
+    },
+    {
+      "babId": "bab-93",
+      "pertanyaan": "Ad-Duha artinya?",
+      "pilihan": [
+        "Waktu Ashar",
+        "Waktu Subuh",
+        "Waktu Dzuhur",
+        "Waktu Dhuha"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Ad-Duha artinya 'Waktu Dhuha', yaitu surat yang membahas waktu dhuha."
+    },
+    {
+      "babId": "bab-93",
+      "pertanyaan": "Surat Ad-Duha membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Nikmat-nikmat Allah",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Ad-Duha membahas tentang nikmat-nikmat Allah."
+    },
+    {
+      "babId": "bab-94",
+      "pertanyaan": "Asy-Syarh artinya?",
+      "pilihan": [
+        "Luas",
+        "Kecil",
+        "Sempit",
+        "Kebesaran"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Asy-Syarh artinya 'Kebesaran', yaitu surat yang membahas kebesaran."
+    },
+    {
+      "babId": "bab-94",
+      "pertanyaan": "Surat Asy-Syarh membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Kedamaian hati",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Asy-Syarh membahas tentang kedamaian hati."
+    },
+    {
+      "babId": "bab-95",
+      "pertanyaan": "At-Tin artinya?",
+      "pilihan": [
+        "Buah Kurma",
+        "Buah Anggur",
+        "Buah Delima",
+        "Buah Tin"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "At-Tin artinya 'Buah Tin', yaitu surat yang membahas buah tin."
+    },
+    {
+      "babId": "bab-95",
+      "pertanyaan": "Surat At-Tin membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Ciptaan manusia",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat At-Tin membahas tentang ciptaan manusia."
+    },
+    {
+      "babId": "bab-96",
+      "pertanyaan": "Al-Alaq artinya?",
+      "pilihan": [
+        "Segumpal Otak",
+        "Segumpal Daging",
+        "Segumpal Tulang",
+        "Segumpal Darah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Alaq artinya 'Segumpal Darah', yaitu surat yang membahas segumpal darah."
+    },
+    {
+      "babId": "bab-96",
+      "pertanyaan": "Surat Al-Alaq membahas tentang?",
+      "pilihan": [
+        "Wahyu terakhir",
+        "Wahyu pertama",
+        "Wahyu tengah",
+        "Wahyu awal"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Alaq membahas tentang wahyu pertama."
+    },
+    {
+      "babId": "bab-97",
+      "pertanyaan": "Al-Qadr artinya?",
+      "pilihan": [
+        "Luas",
+        "Kecil",
+        "Sempit",
+        "Kemuliaan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Qadr artinya 'Kemuliaan', yaitu surat yang membahas kemuliaan."
+    },
+    {
+      "babId": "bab-97",
+      "pertanyaan": "Surat Al-Qadr membahas tentang?",
+      "pilihan": [
+        "Lailatul Nisfu Syaban",
+        "Lailatul Isra",
+        "Lailatul Mi'raj",
+        "Lailatul Qadr"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat Al-Qadr membahas tentang Lailatul Qadr."
+    },
+    {
+      "babId": "bab-98",
+      "pertanyaan": "Al-Bayyinah artinya?",
+      "pilihan": [
+        "Bukti yang Jelas",
+        "Bukti yang Samar",
+        "Bukti yang Hilang",
+        "Bukti yang Tersembunyi"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Bayyinah artinya 'Bukti yang Jelas', yaitu surat yang membahas bukti yang jelas."
+    },
+    {
+      "babId": "bab-98",
+      "pertanyaan": "Surat Al-Bayyinah membahas tentang?",
+      "pilihan": [
+        "Hak-hak wanita",
+        "Bukti kebenaran Islam",
+        "Hak-hak pria",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Surat Al-Bayyinah membahas tentang bukti kebenaran Islam."
+    },
+    {
+      "babId": "bab-99",
+      "pertanyaan": "Az-Zalzalah artinya?",
+      "pilihan": [
+        "Gempa Bumi",
+        "Gempa Gunung",
+        "Gempa Laut",
+        "Gempa Angin"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Az-Zalzalah artinya 'Gempa Bumi', yaitu surat yang membahas gempa bumi."
+    },
+    {
+      "babId": "bab-99",
+      "pertanyaan": "Surat Az-Zalzalah membahas tentang?",
+      "pilihan": [
+        "Hak-hak pria",
+        "Hak-hak wanita",
+        "Kiamat dan kebangkitan",
+        "Hak-hak anak"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Surat Az-Zalzalah membahas tentang kiamat dan kebangkitan."
+    },
+    {
+      "babId": "bab-100",
+      "pertanyaan": "An-Nas artinya?",
+      "pilihan": [
+        "Tanaman",
+        "Hewan",
+        "Manusia",
+        "Batu"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "An-Nas artinya 'Manusia', yaitu surat yang membahas manusia."
+    },
+    {
+      "babId": "bab-100",
+      "pertanyaan": "Surat An-Nas membahas tentang?",
+      "pilihan": [
+        "Hak-hak anak",
+        "Hak-hak wanita",
+        "Hak-hak pria",
+        "Perlindungan dari setan"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Surat An-Nas membahas tentang perlindungan dari setan."
+    }
+  ]
+}

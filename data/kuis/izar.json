@@ -4,101 +4,123 @@
   "soal": [
     {
       "babId": "bab-1",
-      "pertanyaan": "Fathul Izar artinya?",
-      "pilihan": ["Pembukaan Kebahagiaan", "Pembukaan Kesulitan", "Pembukaan Harta", "Pembukaan Kekuasaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Fathul Izar artinya 'Pembukaan Kebahagiaan', yaitu kitab yang membahas hukum pernikahan dan keluarga."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Kitab Fathul Izar membahas tentang?",
-      "pilihan": ["Hukum pernikahan", "Hukum waris", "Hukum pidana", "Hukum perdagangan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Kitab Fathul Izar membahas tentang hukum pernikahan dan keluarga."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Muqadimah artinya?",
-      "pilihan": ["Pendahuluan", "Penutup", "Isi", "Lampiran"],
-      "jawabanBenar": 0,
-      "penjelasan": "Muqadimah artinya pendahuluan, yaitu bagian awal kitab yang menjelaskan tujuan dan isi kitab."
+      "pertanyaan": "Kitab Fathul Izar membahas tentang apa?",
+      "pilihan": [
+        "Ilmu nahwu",
+        "Hukum nikah dan keluarga",
+        "Ilmu tafsir",
+        "Ilmu hadits"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Fathul Izar membahas hukum nikah dan keluarga dalam Islam, menjadi panduan bagi pasangan suami istri."
     },
     {
       "babId": "bab-2",
-      "pertanyaan": "Tujuan menulis Fathul Izar adalah?",
-      "pilihan": ["Menjelaskan hukum pernikahan", "Menjelaskan hukum waris", "Menjelaskan hukum pidana", "Menjelaskan hukum perdagangan"],
+      "pertanyaan": "Apa yang dimaksud dengan 'Fathul Izar'?",
+      "pilihan": [
+        "Pembukaan cadar",
+        "Kapal keselamatan",
+        "Taman orang saleh",
+        "Pintu surga"
+      ],
       "jawabanBenar": 0,
-      "penjelasan": "Tujuan menulis Fathul Izar adalah menjelaskan hukum pernikahan dan keluarga."
+      "penjelasan": "Fathul Izar berarti 'Pembukaan Cadar', yaitu kitab yang membuka rahasia kebahagiaan dalam pernikahan."
     },
     {
       "babId": "bab-3",
-      "pertanyaan": "Arti sebuah pernikahan adalah?",
-      "pilihan": ["Ikatan suci", "Ikatan duniawi", "Ikatan sementara", "Ikatan paksaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Arti sebuah pernikahan adalah ikatan suci antara suami dan istri."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Manfaat pernikahan adalah?",
-      "pilihan": ["Ketenangan jiwa", "Kesulitan", "Kesendirian", "Kesedihan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Manfaat pernikahan adalah ketenangan jiwa, sebagaimana disebutkan dalam Al-Quran."
-    },
-    {
-      "babId": "bab-4",
-      "pertanyaan": "Rukun nikah adalah?",
-      "pilihan": ["Wali, ijab-qabul, saksi", "Hanya wali", "Hanya ijab-qabul", "Hanya saksi"],
-      "jawabanBenar": 0,
-      "penjelasan": "Rukun nikah adalah wali, ijab-qabul, dan saksi."
+      "pertanyaan": "Menurut Fathul Izar, apa arti sebuah pernikahan?",
+      "pilihan": [
+        "Hanya upacara adat",
+        "Mitsaqan ghaliza (perjanjian yang kuat) antara suami dan istri",
+        "Hanya kontrak bisnis",
+        "Hanya tradisi"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Pernikahan adalah mitsaqan ghaliza (perjanjian yang kuat) antara suami dan istri yang disaksikan oleh Allah."
     },
     {
       "babId": "bab-4",
-      "pertanyaan": "Wali nikah adalah?",
-      "pilihan": ["Orang yang menikahkan", "Orang yang dinikahi", "Saksi", "Penghulu"],
-      "jawabanBenar": 0,
-      "penjelasan": "Wali nikah adalah orang yang menikahkan, yaitu orang yang berhak mewakili calon pengantin perempuan."
+      "pertanyaan": "Menurut Fathul Izar, apa hak istri terhadap suami?",
+      "pilihan": [
+        "Tidak ada hak",
+        "Diberi nafkah, dijaga, dan diperlakukan baik",
+        "Hanya diberi nafkah",
+        "Hanya dijaga"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hak istri: diberi nafkah (makan, pakaian, tempat tinggal), dijaga, dan diperlakukan baik oleh suami."
     },
     {
       "babId": "bab-5",
-      "pertanyaan": "Mahar adalah?",
-      "pilihan": ["Hadiah dari suami", "Hadiah dari istri", "Hadiah dari wali", "Hadiah dari saksi"],
-      "jawabanBenar": 0,
-      "penjelasan": "Mahar adalah hadiah dari suami kepada istri sebagai tanda kecintaan dan tanggung jawab."
-    },
-    {
-      "babId": "bab-5",
-      "pertanyaan": "Minimal mahar adalah?",
-      "pilihan": ["Sedikit saja", "Banyak", "Tidak ada batas", "Wajib emas"],
-      "jawabanBenar": 0,
-      "penjelasan": "Minimal mahar adalah sedikit saja, yang penting ada kesepakatan antara kedua belah pihak."
-    },
-    {
-      "babId": "bab-6",
-      "pertanyaan": "Hak suami terhadap istri adalah?",
-      "pilihan": ["Ditaati dalam kebaikan", "Ditaati dalam keburukan", "Dibenci", "Diabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Hak suami terhadap istri adalah ditaati dalam kebaikan, bukan dalam keburukan."
+      "pertanyaan": "Menurut Fathul Izar, apa hak suami terhadap istri?",
+      "pilihan": [
+        "Tidak ada hak",
+        "Ditaati dalam hal yang baik, dijaga kehormatannya",
+        "Hanya ditaati",
+        "Hanya dijaga"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hak suami: ditaati dalam hal yang baik, dijaga kehormatannya, dan dijaga harta serta diri oleh istri."
     },
     {
       "babId": "bab-6",
-      "pertanyaan": "Hak istri terhadap suami adalah?",
-      "pilihan": ["Diberi nafkah", "Tidak diberi nafkah", "Dibenci", "Diabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Hak istri terhadap suami adalah diberi nafkah, yaitu makanan, pakaian, dan tempat tinggal."
+      "pertanyaan": "Menurut Fathul Izar, apa keutamaan nikah?",
+      "pilihan": [
+        "Tidak ada keutamaan",
+        "Menjaga diri dari zina, mendapatkan keturunan saleh, dan meraih pahala",
+        "Hanya untuk keturunan",
+        "Hanya untuk pahala"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Keutamaan nikah: menjaga diri dari zina, mendapatkan keturunan saleh, dan meraih pahala dari Allah."
     },
     {
       "babId": "bab-7",
-      "pertanyaan": "Nafkah adalah?",
-      "pilihan": ["Tanggung jawab suami", "Tanggung jawab istri", "Tanggung jawab wali", "Tanggung jawab saksi"],
+      "pertanyaan": "Menurut Fathul Izar, apa yang dimaksud dengan mahr (mahar)?",
+      "pilihan": [
+        "Harta yang diberikan oleh suami kepada istri",
+        "Harta yang diberikan oleh istri kepada suami",
+        "Harta yang diberikan oleh wali kepada suami",
+        "Harta yang diberikan oleh saksi kepada pengantin"
+      ],
       "jawabanBenar": 0,
-      "penjelasan": "Nafkah adalah tanggung jawab suami, yaitu memberikan makanan, pakaian, dan tempat tinggal kepada istri."
+      "penjelasan": "Mahr (mahar) adalah harta yang diberikan oleh suami kepada istri sebagai hak istri dalam nikah."
     },
     {
       "babId": "bab-7",
-      "pertanyaan": "Jenis nafkah adalah?",
-      "pilihan": ["Makanan, pakaian, tempat tinggal", "Hanya makanan", "Hanya pakaian", "Hanya tempat tinggal"],
+      "pertanyaan": "Menurut Fathul Izar, apa yang dimaksud dengan wali nikah?",
+      "pilihan": [
+        "Orang yang mewakili calon pengantin",
+        "Orang yang menikahkan calon pengantin",
+        "Orang yang menyaksikan nikah",
+        "Orang yang memberi mahar"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Wali nikah adalah orang yang menikahkan calon pengantin, biasanya ayah atau kerabat dekat."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Menurut Fathul Izar, apa yang dimaksud dengan ijab kabul?",
+      "pilihan": [
+        "Pinangan dan penerimaan dalam nikah",
+        "Hanya pinangan",
+        "Hanya penerimaan",
+        "Hanya saksi"
+      ],
       "jawabanBenar": 0,
-      "penjelasan": "Jenis nafkah adalah makanan, pakaian, dan tempat tinggal."
+      "penjelasan": "Ijab kabul adalah pinangan (ijab) dari wali dan penerimaan (kabul) dari calon suami dalam nikah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Menurut Fathul Izar, apa rukun nikah?",
+      "pilihan": [
+        "Hanya calon pengantin",
+        "Calon pengantin, wali, saksi, dan ijab kabul",
+        "Hanya wali dan saksi",
+        "Hanya ijab kabul"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Rukun nikah: calon pengantin, wali nikah, saksi, dan ijab kabul (pinangan dan penerimaan)."
     }
   ]
 }

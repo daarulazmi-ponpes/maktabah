@@ -4,108 +4,123 @@
   "soal": [
     {
       "babId": "bab-1",
-      "pertanyaan": "Aqidatul Awam artinya?",
-      "pilihan": ["Aqidah Umum", "Aqidah Khusus", "Aqidah Pelajar", "Aqidah Guru"],
-      "jawabanBenar": 0,
-      "penjelasan": "Aqidatul Awam artinya 'Aqidah Umum', yaitu kitab yang membahas aqidah dasar yang perlu diketahui setiap muslim."
+      "pertanyaan": "Kitab Aqidatul Awam disusun oleh siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Imam Bukhari",
+        "Syeikh Ibrahim Al-Busiri",
+        "Imam Muslim"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Aqidatul Awam disusun oleh Syeikh Ibrahim Al-Busiri, seorang ulama ahli aqidah yang terkenal dengan Qasidatul Burdah."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Aqidah artinya?",
-      "pilihan": ["Keyakinan", "Ibadah", "Muamalah", "Akhlak"],
-      "jawabanBenar": 0,
-      "penjelasan": "Aqidah artinya keyakinan, yaitu sesuatu yang diyakini dengan kuat di dalam hati."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Rukun iman ada berapa?",
-      "pilihan": ["4", "5", "6", "7"],
-      "jawabanBenar": 2,
-      "penjelasan": "Rukun iman ada 6: iman kepada Allah, malaikat, kitab, rasul, hari akhir, dan qada serta qadar."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Iman kepada Allah mencakup?",
-      "pilihan": ["Nama dan sifat Allah", "Hanya nama Allah", "Hanya sifat Allah", "Tidak ada"],
-      "jawabanBenar": 0,
-      "penjelasan": "Iman kepada Allah mencakup iman kepada nama-nama dan sifat-sifat Allah yang sempurna."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Iman kepada malaikat adalah?",
-      "pilihan": ["Meyakini keberadaan malaikat", "Tidak yakin", "Meragukan", "Menolak"],
-      "jawabanBenar": 0,
-      "penjelasan": "Iman kepada malaikat adalah meyakini keberadaan malaikat sebagai ciptaan Allah dari cahaya."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Syarah artinya?",
-      "pilihan": ["Penjelasan", "Pertanyaan", "Jawaban", "Perintah"],
-      "jawabanBenar": 0,
-      "penjelasan": "Syarah artinya penjelasan, yaitu penjelasan lebih lanjut tentang isi kitab."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Tujuan mempelajari aqidah adalah?",
-      "pilihan": ["Untuk dunia", "Untuk memperkuat keyakinan", "Untuk harta", "Untuk kekuasaan"],
+      "pertanyaan": "Apa tujuan penyusunan kitab Aqidatul Awam?",
+      "pilihan": [
+        "Menggantikan Al-Quran",
+        "Mengajarkan aqidah dasar kepada umat Islam",
+        "Membahas ilmu tafsir",
+        "Membahas ilmu hadits"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Tujuan mempelajari aqidah adalah untuk memperkuat keyakinan dan iman kepada Allah."
+      "penjelasan": "Aqidatul Awam bertujuan mengajarkan aqidah dasar (keyakinan) kepada umat Islam dalam bentuk nadhom (syair) yang mudah dihafal."
     },
     {
-      "babId": "bab-3",
-      "pertanyaan": "Aqidah yang benar adalah?",
-      "pilihan": ["Aqidah Ahlussunnah wal Jama'ah", "Aqidah sesat", "Aqidah bid'ah", "Aqidah sesat"],
-      "jawabanBenar": 0,
-      "penjelasan": "Aqidah yang benar adalah aqidah Ahlussunnah wal Jama'ah, yaitu aqidah yang diajarkan oleh Nabi dan para sahabat."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Iman kepada kitab-kitab Allah mencakup?",
-      "pilihan": ["Hanya Al-Quran", "Semua kitab yang diturunkan Allah", "Hanya Taurat", "Hanya Injil"],
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Aqidatul Awam, apa yang dimaksud dengan aqidah?",
+      "pilihan": [
+        "Hukum fiqih",
+        "Keyakinan yang diyakini dengan kuat dalam hati",
+        "Ilmu nahwu",
+        "Ilmu balaghah"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Iman kepada kitab-kitab Allah mencakup semua kitab yang diturunkan Allah, termasuk Al-Quran, Taurat, Injil, dan Zabur."
+      "penjelasan": "Aqidah adalah keyakinan yang diyakini dengan kuat dalam hati, seperti ikatan yang kuat yang tidak bisa diputuskan."
     },
     {
-      "babId": "bab-3",
-      "pertanyaan": "Iman kepada rasul-rasul Allah adalah?",
-      "pilihan": ["Meyakini semua rasul", "Hanya Nabi Muhammad", "Tidak yakin", "Meragukan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Iman kepada rasul-rasul Allah adalah meyakini semua rasul yang diutus Allah, termasuk Nabi Muhammad SAW."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Iman kepada hari akhir adalah?",
-      "pilihan": ["Meyakini adanya hari kiamat", "Tidak yakin", "Meragukan", "Menolak"],
-      "jawabanBenar": 0,
-      "penjelasan": "Iman kepada hari akhir adalah meyakini adanya hari kiamat dan segala sesuatu yang berkaitan dengannya."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Iman kepada qada dan qadar adalah?",
-      "pilihan": ["Menerima ketetapan Allah", "Menolak", "Meragukan", "Tidak peduli"],
-      "jawabanBenar": 0,
-      "penjelasan": "Iman kepada qada dan qadar adalah menerima ketetapan Allah dengan ikhlas."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Sifat wajib Allah ada berapa?",
-      "pilihan": ["5", "6", "7", "8"],
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Aqidatul Awam, berapa sifat wajib bagi Allah?",
+      "pilihan": [
+        "5 sifat",
+        "10 sifat",
+        "15 sifat",
+        "20 sifat"
+      ],
       "jawabanBenar": 2,
-      "penjelasan": "Sifat wajib Allah ada 7: Wujud, Qidam, Baqa', Mukhalafatuh lil hawaditsi, Qiyamuhu binafsihi, Wahdaniyah, Quddrat, Iradah, 'Ilm, Hayat, Sama', Bashar, Isti'ah."
+      "penjelasan": "Sifat wajib bagi Allah ada 15: Wujud, Qidam, Baqa', Mukhalafatuh lil hawaditsi, Qiyamuhu binafsihi, Wahdaniyah, Qudrah, Iradah, 'Ilm, Sama', Bashar, Kalam, Ba'du, Qurbu, Isti'adh."
     },
     {
-      "babId": "bab-3",
-      "pertanyaan": "Sifat mustahil Allah adalah?",
-      "pilihan": ["Lawan dari sifat wajib", "Sama dengan sifat wajib", "Tidak ada hubungannya", "Sama dengan sifat jaiz"],
-      "jawabanBenar": 0,
-      "penjelasan": "Sifat mustahil Allah adalah lawan dari sifat wajib, seperti 'adam (tidak ada), huduts (baru), fana' (hilang), dll."
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Aqidatul Awam, apa yang dimaksud dengan sifat Wujud?",
+      "pilihan": [
+        "Allah tidak ada",
+        "Allah ada dengan sebenar-benarnya",
+        "Allah kadang ada kadang tidak",
+        "Allah ada di tempat tertentu"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Sifat Wujud berarti Allah ada dengan sebenar-benarnya, bukan ada karena tempat atau waktu."
     },
     {
-      "babId": "bab-3",
-      "pertanyaan": "Sifat jaiz bagi Allah adalah?",
-      "pilihan": ["Melakukan atau tidak melakukan", "Wajib melakukan", "Mustahil melakukan", "Tidak ada"],
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Aqidatul Awam, apa yang dimaksud dengan sifat Qidam?",
+      "pilihan": [
+        "Allah ada sejak dulu",
+        "Allah ada sebelum segala sesuatu",
+        "Allah ada di masa depan",
+        "Allah ada di masa sekarang"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Sifat Qidam berarti Allah ada sebelum segala sesuatu diciptakan, tidak ada awal bagi keberadaan-Nya."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Aqidatul Awam, apa yang dimaksud dengan sifat Baqa'?",
+      "pilihan": [
+        "Allah kekal selamanya",
+        "Allah akan hilang",
+        "Allah kadang ada kadang tidak",
+        "Allah ada di tempat tertentu"
+      ],
       "jawabanBenar": 0,
-      "penjelasan": "Sifat jaiz bagi Allah adalah melakukan atau tidak melakukan sesuatu yang tidak wajib dan tidak mustahil bagi-Nya."
+      "penjelasan": "Sifat Baqa' berarti Allah kekal selamanya, tidak akan pernah hilang atau berubah."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Aqidatul Awam, apa yang dimaksud dengan sifat Wahdaniyah?",
+      "pilihan": [
+        "Allah ada banyak",
+        "Allah Esa, tidak ada sekutu bagi-Nya",
+        "Allah kadang Esa kadang banyak",
+        "Allah sama dengan makhluk-Nya"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Sifat Wahdaniyah berarti Allah Esa, tidak ada sekutu bagi-Nya dalam dzat, sifat, dan perbuatan-Nya."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Aqidatul Awam, berapa sifat mustahil bagi Allah?",
+      "pilihan": [
+        "5 sifat",
+        "10 sifat",
+        "15 sifat",
+        "20 sifat"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Sifat mustahil bagi Allah ada 15, kebalikan dari sifat wajib: 'Adam, Huduts, Fana', Mutsabaqatuh lil hawaditsi, Ifaqatuh ila ghairihi, Kutsiyah, 'Ajz, Nakwi, Jahl, Bamsh, Kibash, Samm, Qubd, Ba'd, Isti'adh."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Aqidatul Awam, apa yang dimaksud dengan sifat wajib bagi Rasul?",
+      "pilihan": [
+        "Tidak ada sifat wajib",
+        "Shidq, Amanah, Tabligh, dan Fatanah",
+        "Hanya Shidq",
+        "Hanya Amanah"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Sifat wajib bagi Rasul ada 4: Shidq (benar), Amanah (dapat dipercaya), Tabligh (menyampaikan), dan Fatanah (cerdas)."
     }
   ]
 }

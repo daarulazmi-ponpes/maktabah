@@ -4,108 +4,123 @@
   "soal": [
     {
       "babId": "bab-1",
-      "pertanyaan": "Safinah An-Najah artinya?",
-      "pilihan": ["Kapal Keselamatan", "Kapal Kebahagiaan", "Kapal Ilmu", "Kapal Ketaatan"],
+      "pertanyaan": "Kitab Safinah An-Najah membahas tentang apa?",
+      "pilihan": [
+        "Ilmu nahwu",
+        "Ilmu fiqih (hukum Islam)",
+        "Ilmu tafsir",
+        "Ilmu hadits"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Safinah An-Najah membahas ilmu fiqih (hukum Islam) yang menjadi panduan dalam beribadah dan bertransaksi."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Apa yang dimaksud dengan 'Safinah An-Najah'?",
+      "pilihan": [
+        "Kapal keselamatan",
+        "Kapal perang",
+        "Kapal dagang",
+        "Kapal wisata"
+      ],
       "jawabanBenar": 0,
-      "penjelasan": "Safinah An-Najah artinya 'Kapal Keselamatan', yaitu kitab yang menjadi kapal keselamatan bagi pembaca dalam mengarungi kehidupan."
+      "penjelasan": "Safinah An-Najah berarti 'Kapal Keselamatan', yaitu kitab yang menjadi sarana keselamatan dalam memahami hukum Islam."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Kitab Safinah An-Najah membahas tentang?",
-      "pilihan": ["Hukum waris", "Adab-adab Islam dan akhlak mulia", "Hukum pidana", "Hukum perdagangan"],
+      "pertanyaan": "Menurut Safinah An-Najah, apa yang dimaksud dengan ibadah?",
+      "pilihan": [
+        "Hanya shalat",
+        "Semua perbuatan yang diperintahkan Allah untuk mendekatkan diri kepada-Nya",
+        "Hanya puasa",
+        "Hanya zakat"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Kitab Safinah An-Najah membahas tentang adab-adab Islam dan akhlak mulia yang perlu diketahui setiap muslim."
+      "penjelasan": "Ibadah adalah semua perbuatan yang diperintahkan Allah untuk mendekatkan diri kepada-Nya, termasuk shalat, puasa, zakat, haji, dll."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Adab seorang muslim terhadap Allah adalah?",
-      "pilihan": ["Mendurhakai", "Bersyukur dan taat", "Mengabaikan", "Membenci"],
+      "pertanyaan": "Menurut Safinah An-Najah, apa yang dimaksud dengan muamalah?",
+      "pilihan": [
+        "Hanya ibadah",
+        "Transaksi dan interaksi sosial antar manusia",
+        "Hanya bisnis",
+        "Hanya politik"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Adab seorang muslim terhadap Allah adalah bersyukur dan taat kepada-Nya dalam segala keadaan."
+      "penjelasan": "Muamalah adalah transaksi dan interaksi sosial antar manusia yang diatur oleh syariat Islam."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Adab terhadap Rasulullah SAW adalah?",
-      "pilihan": ["Mengejek", "Mencintai dan mengikuti sunnahnya", "Mengabaikan", "Membenci"],
+      "pertanyaan": "Menurut Safinah An-Najah, apa hukum shalat?",
+      "pilihan": [
+        "Sunnah",
+        "Wajib",
+        "Makruh",
+        "Haram"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap Rasulullah SAW adalah mencintai dan mengikuti sunnahnya dalam kehidupan sehari-hari."
+      "penjelasan": "Shalat adalah wajib (fardhu) bagi setiap muslim yang baligh dan berakal."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Adab terhadap Al-Quran adalah?",
-      "pilihan": ["Melempar", "Menghormati dan membacanya dengan tartil", "Mengabaikan", "Meremehkan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap Al-Quran adalah menghormati dan membacanya dengan tartil (perlahan dan jelas)."
+      "pertanyaan": "Menurut Safinah An-Najah, apa yang dimaksud dengan wudhu?",
+      "pilihan": [
+        "Mencuci anggota tubuh tertentu dengan air suci",
+        "Mandi seluruh tubuh",
+        "Mengusap tubuh dengan tanah",
+        "Hanya mencuci tangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Wudhu adalah mencuci anggota tubuh tertentu (muka, tangan, kepala, kaki) dengan air suci untuk menghilangkan hadats kecil."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Adab terhadap orang tua adalah?",
-      "pilihan": ["Membangkang", "Birrul walidain (berbakti)", "Mengabaikan", "Mengejek"],
+      "pertanyaan": "Menurut Safinah An-Najah, apa yang dimaksud dengan mandi wajib?",
+      "pilihan": [
+        "Mandi untuk kebersihan",
+        "Mandi untuk menghilangkan hadats besar",
+        "Mandi untuk olahraga",
+        "Mandi untuk rekreasi"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap orang tua adalah birrul walidain, yaitu berbakti kepada mereka dengan baik."
+      "penjelasan": "Mandi wajib adalah mandi untuk menghilangkan hadats besar, seperti setelah bersetubuh, haid, atau nifas."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Adab terhadap tetangga adalah?",
-      "pilihan": ["Mengganggu", "Berbuat baik dan menghormati", "Membenci", "Mengabaikan"],
+      "pertanyaan": "Menurut Safinah An-Najah, apa yang dimaksud dengan tayammum?",
+      "pilihan": [
+        "Mandi dengan air",
+        "Mengusap wajah dan tangan dengan tanah bersih sebagai pengganti wudhu/mandi",
+        "Hanya mencuci tangan",
+        "Hanya membasuh muka"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap tetangga adalah berbuat baik dan menghormati mereka."
+      "penjelasan": "Tayammum adalah mengusap wajah dan tangan dengan tanah bersih sebagai pengganti wudhu atau mandi ketika tidak ada air atau sakit."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Adab terhadap guru adalah?",
-      "pilihan": ["Membangkang", "Hormat dan patuh", "Mengabaikan", "Mengejek"],
+      "pertanyaan": "Menurut Safinah An-Najah, apa hukum puasa Ramadhan?",
+      "pilihan": [
+        "Sunnah",
+        "Wajib",
+        "Makruh",
+        "Haram"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap guru adalah hormat dan patuh kepada mereka."
+      "penjelasan": "Puasa Ramadhan adalah wajib (fardhu) bagi setiap muslim yang baligh, berakal, sehat, dan tidak dalam perjalanan."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Adab terhadap teman adalah?",
-      "pilihan": ["Mengkhianati", "Setia dan saling membantu", "Membenci", "Mengabaikan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap teman adalah setia dan saling membantu dalam kebaikan."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Adab terhadap diri sendiri adalah?",
-      "pilihan": ["Merusak", "Menjaga kesehatan dan akhlak", "Mengabaikan", "Meremehkan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap diri sendiri adalah menjaga kesehatan dan akhlak agar tetap baik."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Adab terhadap hewan adalah?",
-      "pilihan": ["Menyiksa", "Berbuat baik dan tidak menyakiti", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap hewan adalah berbuat baik dan tidak menyakiti mereka."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Adab terhadap lingkungan adalah?",
-      "pilihan": ["Merusak", "Menjaga kebersihan dan kelestarian", "Mengabaikan", "Mencemari"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab terhadap lingkungan adalah menjaga kebersihan dan kelestarian alam."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Adab makan menurut Islam adalah?",
-      "pilihan": ["Makan dengan tangan kiri", "Membaca bismillah dan makan dengan tangan kanan", "Makan sambil berdiri", "Makan berlebihan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab makan menurut Islam adalah membaca bismillah dan makan dengan tangan kanan."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Adab tidur menurut Islam adalah?",
-      "pilihan": ["Tidur tanpa wudhu", "Berwudhu dan membaca doa", "Tidur terlambat", "Tidur tanpa doa"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab tidur menurut Islam adalah berwudhu dan membaca doa sebelum tidur."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Adab berbicara menurut Islam adalah?",
-      "pilihan": ["Berbohong", "Berbicara yang baik atau diam", "Mengumpat", "Mengghibah"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab berbicara menurut Islam adalah berbicara yang baik atau diam, sebagaimana disebutkan dalam hadits."
+      "pertanyaan": "Menurut Safinah An-Najah, apa yang dimaksud dengan zakat?",
+      "pilihan": [
+        "Sedekah wajib yang dikeluarkan dari harta tertentu",
+        "Sedekah sunnah",
+        "Shalat malam",
+        "Puasa sunnah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Zakat adalah sedekah wajib yang dikeluarkan dari harta tertentu yang telah mencapai nisab dan haul."
     }
   ]
 }

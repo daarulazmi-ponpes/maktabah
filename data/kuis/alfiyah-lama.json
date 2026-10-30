@@ -1,0 +1,1590 @@
+{
+  "kitab": "Alfiyah Ibnu Malik",
+  "slug": "alfiyah",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mukadimah' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Mukadimah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Mukadimah' membahas tentang mukadimah dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Mukadimah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Mukadimah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Huruf Hijaiyah' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Huruf Hijaiyah",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Huruf Hijaiyah' membahas tentang huruf hijaiyah dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Huruf Hijaiyah dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Huruf Hijaiyah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Makharijul Huruf' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Makharijul Huruf",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Makharijul Huruf' membahas tentang makharijul huruf dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Makharijul Huruf dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Makharijul Huruf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Sifatul Huruf' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Sifatul Huruf"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Sifatul Huruf' membahas tentang sifatul huruf dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Sifatul Huruf dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Sifatul Huruf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Hamzah' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Hamzah",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Hamzah' membahas tentang hamzah dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Hamzah dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Hamzah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Idgham' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Idgham",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Idgham' membahas tentang idgham dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Idgham dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Idgham dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Ikhfa'' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Ikhfa'",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Ikhfa'' membahas tentang ikhfa' dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Ikhfa' dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Ikhfa' dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Iqlab' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Iqlab",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Iqlab' membahas tentang iqlab dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Iqlab dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Iqlab dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Qalqalah' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Qalqalah",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Qalqalah' membahas tentang qalqalah dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Qalqalah dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Qalqalah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mad' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Mad",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Mad' membahas tentang mad dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Mad dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Mad dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Waqaf' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Waqaf"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Waqaf' membahas tentang waqaf dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Waqaf dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Waqaf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Iwadh' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Iwadh"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Iwadh' membahas tentang iwadh dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Iwadh dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Iwadh dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Idgham Bighunnah' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Idgham Bighunnah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Idgham Bighunnah' membahas tentang idgham bighunnah dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Idgham Bighunnah dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Idgham Bighunnah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Ikhfa Haqiqi' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Ikhfa Haqiqi",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Ikhfa Haqiqi' membahas tentang ikhfa haqiqi dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Ikhfa Haqiqi dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Ikhfa Haqiqi dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Izhar' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Izhar",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Izhar' membahas tentang izhar dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Izhar dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Izhar dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Iqlab' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Iqlab"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Iqlab' membahas tentang iqlab dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Iqlab dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Iqlab dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Madd' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Madd"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Madd' membahas tentang madd dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Madd dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Madd dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Qalqalah Sughra' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Qalqalah Sughra",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Qalqalah Sughra' membahas tentang qalqalah sughra dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Qalqalah Sughra dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Qalqalah Sughra dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Qalqalah Kubra' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Qalqalah Kubra",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Qalqalah Kubra' membahas tentang qalqalah kubra dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Qalqalah Kubra dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Qalqalah Kubra dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harakat' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Harakat"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Harakat' membahas tentang harakat dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harakat dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harakat dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Sukun' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Sukun",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Sukun' membahas tentang sukun dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Sukun dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Sukun dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tasydid' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Tasydid",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Tasydid' membahas tentang tasydid dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Tasydid dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Tasydid dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tanwin' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Tanwin"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Tanwin' membahas tentang tanwin dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Tanwin dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Tanwin dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Idgham Mimi' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Idgham Mimi"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Idgham Mimi' membahas tentang idgham mimi dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Idgham Mimi dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Idgham Mimi dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Maid' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Maid",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Maid' membahas tentang maid dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Maid dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Maid dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Muqaddimat' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Muqaddimat",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Muqaddimat' membahas tentang muqaddimat dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Muqaddimat dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Muqaddimat dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Isim' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Isim",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Isim' membahas tentang isim dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Isim dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Isim dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fi'il' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Fi'il",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Fi'il' membahas tentang fi'il dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Fi'il dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Fi'il dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Harf",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Harf' membahas tentang harf dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Isim Dharif' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Isim Dharif"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Isim Dharif' membahas tentang isim dharif dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Isim Dharif dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Isim Dharif dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Isim Mufrod' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Isim Mufrod"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Isim Mufrod' membahas tentang isim mufrod dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Isim Mufrod dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Isim Mufrod dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Isim Jamak' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Isim Jamak",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Isim Jamak' membahas tentang isim jamak dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Isim Jamak dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Isim Jamak dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Isim Muannats' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Isim Muannats",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Isim Muannats' membahas tentang isim muannats dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Isim Muannats dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Isim Muannats dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Isim Mudzakkar' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Isim Mudzakkar",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Isim Mudzakkar' membahas tentang isim mudzakkar dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Isim Mudzakkar dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Isim Mudzakkar dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Isim Ghair Mu'rab' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Isim Ghair Mu'rab"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Isim Ghair Mu'rab' membahas tentang isim ghair mu'rab dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Isim Ghair Mu'rab dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Isim Ghair Mu'rab dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fi'il Madhi' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Fi'il Madhi",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Fi'il Madhi' membahas tentang fi'il madhi dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Fi'il Madhi dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Fi'il Madhi dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fi'il Mudhari' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Fi'il Mudhari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Fi'il Mudhari' membahas tentang fi'il mudhari dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Fi'il Mudhari dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Fi'il Mudhari dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fi'il Amr' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Fi'il Amr",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Fi'il Amr' membahas tentang fi'il amr dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Fi'il Amr dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Fi'il Amr dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fi'il Nahyi' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Fi'il Nahyi",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Fi'il Nahyi' membahas tentang fi'il nahyi dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Fi'il Nahyi dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Fi'il Nahyi dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fi'il Istifham' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Fi'il Istifham"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Fi'il Istifham' membahas tentang fi'il istifham dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Fi'il Istifham dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Fi'il Istifham dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fi'il Nafi' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Fi'il Nafi",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Fi'il Nafi' membahas tentang fi'il nafi dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Fi'il Nafi dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Fi'il Nafi dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Jar' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Harf Jar",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Harf Jar' membahas tentang harf jar dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Jar dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Jar dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Zaid' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Harf Zaid",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Harf Zaid' membahas tentang harf zaid dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Zaid dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Zaid dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Jazim' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Harf Jazim",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Harf Jazim' membahas tentang harf jazim dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Jazim dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Jazim dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Isharah' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Harf Isharah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Harf Isharah' membahas tentang harf isharah dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Isharah dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Isharah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Istifham' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Harf Istifham",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Harf Istifham' membahas tentang harf istifham dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Istifham dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Istifham dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Nafi' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Harf Nafi",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Harf Nafi' membahas tentang harf nafi dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Nafi dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Nafi dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Amr' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Harf Amr",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Harf Amr' membahas tentang harf amr dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Amr dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Amr dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Nahyi' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Harf Nahyi",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Harf Nahyi' membahas tentang harf nahyi dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Nahyi dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Nahyi dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Jazm' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Harf Jazm",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Harf Jazm' membahas tentang harf jazm dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Jazm dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Jazm dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Rabbani' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Harf Rabbani",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Harf Rabbani' membahas tentang harf rabbani dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Rabbani dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Rabbani dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Qasam' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Harf Qasam",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Harf Qasam' membahas tentang harf qasam dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Qasam dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Qasam dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Tadlil' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Harf Tadlil",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Harf Tadlil' membahas tentang harf tadlil dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Tadlil dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Tadlil dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Isti'lah' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Harf Isti'lah",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Harf Isti'lah' membahas tentang harf isti'lah dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Isti'lah dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Isti'lah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Ta'jib' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Harf Ta'jib",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Harf Ta'jib' membahas tentang harf ta'jib dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Ta'jib dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Ta'jib dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Tamanni' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Harf Tamanni"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Harf Tamanni' membahas tentang harf tamanni dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Tamanni dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Tamanni dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Nadsar' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Harf Nadsar",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Harf Nadsar' membahas tentang harf nadsar dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Nadsar dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Nadsar dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Ikhtiar' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Harf Ikhtiar",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Harf Ikhtiar' membahas tentang harf ikhtiar dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Ikhtiar dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Ikhtiar dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Ikhtilaf' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Harf Ikhtilaf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Harf Ikhtilaf' membahas tentang harf ikhtilaf dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Ikhtilaf dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Ikhtilaf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Isytirak' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Harf Isytirak",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Harf Isytirak' membahas tentang harf isytirak dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Isytirak dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Isytirak dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Istifham' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Harf Istifham"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Harf Istifham' membahas tentang harf istifham dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Istifham dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Istifham dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Istighatsah' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Harf Istighatsah",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Harf Istighatsah' membahas tentang harf istighatsah dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Istighatsah dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Istighatsah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Istihqaq' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Harf Istihqaq"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Harf Istihqaq' membahas tentang harf istihqaq dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Istihqaq dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Istihqaq dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Istidlal' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Harf Istidlal",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Harf Istidlal' membahas tentang harf istidlal dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Istidlal dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Istidlal dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Harf Istibra'' Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Harf Istibra'"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Harf Istibra'' membahas tentang harf istibra' dalam Alfiyah Ibnu Malik."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Alfiyah Ibnu Malik membahas Harf Istibra' dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik membahas Harf Istibra' dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Apa yang dibahas dalam bab terakhir Alfiyah Ibnu Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Harf Istibra'"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab terakhir Alfiyah Ibnu Malik membahas tentang Harf Istibra'."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Alfiyah Ibnu Malik berisi berapa bait?",
+      "pilihan": [
+        "2000 bait",
+        "500 bait",
+        "1000 bait",
+        "100 bait"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Alfiyah Ibnu Malik berisi 1000 bait nasab tentang tata bahasa Arab."
+    }
+  ]
+}

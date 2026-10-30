@@ -1,0 +1,2406 @@
+{
+  "kitab": "Al-Hikam",
+  "slug": "alhikam",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Apa makna Hikmah ke-1 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-1 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-1 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Apa makna Hikmah ke-2 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-2 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-2 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Apa makna Hikmah ke-3 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-3 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-3 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Apa makna Hikmah ke-4 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-4 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-4 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Apa makna Hikmah ke-5 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-5 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-5 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Apa makna Hikmah ke-6 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-6 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-6 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Apa makna Hikmah ke-7 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-7 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-7 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Apa makna Hikmah ke-8 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-8 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-8 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Apa makna Hikmah ke-9 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-9 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-9 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Apa makna Hikmah ke-10 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-10 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-10 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Apa makna Hikmah ke-11 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-11 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-11 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Apa makna Hikmah ke-12 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-12 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-12 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Apa makna Hikmah ke-13 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-13 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-13 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Apa makna Hikmah ke-14 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-14 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-14 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Apa makna Hikmah ke-15 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-15 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-15 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Apa makna Hikmah ke-16 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-16 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-16 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Apa makna Hikmah ke-17 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-17 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-17 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Apa makna Hikmah ke-18 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-18 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-18 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Apa makna Hikmah ke-19 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-19 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-19 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Apa makna Hikmah ke-20 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-20 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-20 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Apa makna Hikmah ke-21 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-21 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-21 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Apa makna Hikmah ke-22 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-22 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-22 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Apa makna Hikmah ke-23 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-23 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-23 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Apa makna Hikmah ke-24 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-24 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-24 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Apa makna Hikmah ke-25 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-25 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-25 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Apa makna Hikmah ke-26 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-26 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-26 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Apa makna Hikmah ke-27 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-27 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-27 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Apa makna Hikmah ke-28 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-28 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-28 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Apa makna Hikmah ke-29 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-29 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-29 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Apa makna Hikmah ke-30 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-30 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-30 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Apa makna Hikmah ke-31 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-31 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-31 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Apa makna Hikmah ke-32 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-32 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-32 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Apa makna Hikmah ke-33 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-33 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-33 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Apa makna Hikmah ke-34 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-34 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-34 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Apa makna Hikmah ke-35 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-35 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-35 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Apa makna Hikmah ke-36 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-36 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-36 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "Apa makna Hikmah ke-37 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-37 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-37 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Apa makna Hikmah ke-38 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-38 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-38 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Apa makna Hikmah ke-39 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-39 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-39 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Apa makna Hikmah ke-40 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-40 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-40 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Apa makna Hikmah ke-41 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-41 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-41 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Apa makna Hikmah ke-42 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-42 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-42 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Apa makna Hikmah ke-43 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-43 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-43 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Apa makna Hikmah ke-44 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-44 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-44 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Apa makna Hikmah ke-45 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-45 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-45 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Apa makna Hikmah ke-46 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-46 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-46 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Apa makna Hikmah ke-47 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-47 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-47 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Apa makna Hikmah ke-48 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-48 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-48 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Apa makna Hikmah ke-49 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-49 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-49 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Apa makna Hikmah ke-50 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-50 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-50 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Apa makna Hikmah ke-51 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-51 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-51 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Apa makna Hikmah ke-52 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-52 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-52 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Apa makna Hikmah ke-53 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-53 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-53 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Apa makna Hikmah ke-54 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-54 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-54 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Apa makna Hikmah ke-55 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-55 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-55 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Apa makna Hikmah ke-56 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-56 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-56 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Apa makna Hikmah ke-57 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-57 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-57 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Apa makna Hikmah ke-58 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-58 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-58 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Apa makna Hikmah ke-59 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-59 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-59 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Apa makna Hikmah ke-60 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-60 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-60 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Apa makna Hikmah ke-61 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-61 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-61 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Apa makna Hikmah ke-62 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-62 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-62 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Apa makna Hikmah ke-63 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-63 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-63 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Apa makna Hikmah ke-64 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-64 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-64 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Apa makna Hikmah ke-65 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-65 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-65 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Apa makna Hikmah ke-66 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-66 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-66 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-67",
+      "pertanyaan": "Apa makna Hikmah ke-67 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-67 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-67 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-67",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-68",
+      "pertanyaan": "Apa makna Hikmah ke-68 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-68 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-68 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-68",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-69",
+      "pertanyaan": "Apa makna Hikmah ke-69 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-69 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-69 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-69",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-70",
+      "pertanyaan": "Apa makna Hikmah ke-70 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-70 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-70 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-70",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-71",
+      "pertanyaan": "Apa makna Hikmah ke-71 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-71 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-71 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-71",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-72",
+      "pertanyaan": "Apa makna Hikmah ke-72 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-72 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-72 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-72",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-73",
+      "pertanyaan": "Apa makna Hikmah ke-73 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-73 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-73 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-73",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-74",
+      "pertanyaan": "Apa makna Hikmah ke-74 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-74 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-74 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-74",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-75",
+      "pertanyaan": "Apa makna Hikmah ke-75 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-75 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-75 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-75",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-76",
+      "pertanyaan": "Apa makna Hikmah ke-76 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-76 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-76 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-76",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-77",
+      "pertanyaan": "Apa makna Hikmah ke-77 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-77 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-77 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-77",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-78",
+      "pertanyaan": "Apa makna Hikmah ke-78 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-78 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-78 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-78",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-79",
+      "pertanyaan": "Apa makna Hikmah ke-79 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-79 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-79 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-79",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-80",
+      "pertanyaan": "Apa makna Hikmah ke-80 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-80 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-80 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-80",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-81",
+      "pertanyaan": "Apa makna Hikmah ke-81 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-81 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-81 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-81",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-82",
+      "pertanyaan": "Apa makna Hikmah ke-82 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-82 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-82 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-82",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-83",
+      "pertanyaan": "Apa makna Hikmah ke-83 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-83 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-83 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-83",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-84",
+      "pertanyaan": "Apa makna Hikmah ke-84 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum waris",
+        "Hikmah ke-84 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hikmah ke-84 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-84",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-85",
+      "pertanyaan": "Apa makna Hikmah ke-85 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-85 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-85 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-85",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-86",
+      "pertanyaan": "Apa makna Hikmah ke-86 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-86 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-86 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-86",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-87",
+      "pertanyaan": "Apa makna Hikmah ke-87 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-87 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-87 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-87",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-88",
+      "pertanyaan": "Apa makna Hikmah ke-88 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-88 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-88 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-88",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-89",
+      "pertanyaan": "Apa makna Hikmah ke-89 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-89 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-89 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-89",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-90",
+      "pertanyaan": "Apa makna Hikmah ke-90 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-90 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-90 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-90",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-91",
+      "pertanyaan": "Apa makna Hikmah ke-91 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-91 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-91 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-91",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-92",
+      "pertanyaan": "Apa makna Hikmah ke-92 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-92 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-92 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-92",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-93",
+      "pertanyaan": "Apa makna Hikmah ke-93 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-93 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-93 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-93",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-94",
+      "pertanyaan": "Apa makna Hikmah ke-94 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-94 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-94 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-94",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-95",
+      "pertanyaan": "Apa makna Hikmah ke-95 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-95 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-95 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-95",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-96",
+      "pertanyaan": "Apa makna Hikmah ke-96 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-96 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-96 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-96",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-97",
+      "pertanyaan": "Apa makna Hikmah ke-97 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hikmah ke-97 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hikmah ke-97 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-97",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Ibnu Atha'illah As-Sakandari"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-98",
+      "pertanyaan": "Apa makna Hikmah ke-98 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-98 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-98 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-98",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam al-Ghazali",
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-99",
+      "pertanyaan": "Apa makna Hikmah ke-99 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum perdagangan",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hikmah ke-99 berisi pelajaran tentang tauhid dan akhlak"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Hikmah ke-99 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-99",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    },
+    {
+      "babId": "bab-100",
+      "pertanyaan": "Apa makna Hikmah ke-100 dalam kitab Al-Hikam Ibnu Atha'illah?",
+      "pilihan": [
+        "Hukum pidana",
+        "Hukum waris",
+        "Hikmah ke-100 berisi pelajaran tentang tauhid dan akhlak",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hikmah ke-100 dalam Al-Hikam berisi pelajaran tentang tauhid, akhlak, dan ma'rifatullah."
+    },
+    {
+      "babId": "bab-100",
+      "pertanyaan": "Al-Hikam karya siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Atha'illah As-Sakandari",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Al-Hikam ditulis oleh Syaikh Ibnu Atha'illah As-Sakandari (w. 709 H)."
+    }
+  ]
+}

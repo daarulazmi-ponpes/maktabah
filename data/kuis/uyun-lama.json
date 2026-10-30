@@ -1,0 +1,750 @@
+{
+  "kitab": "Qurrotul Uyun",
+  "slug": "uyun",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mukadimah' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Mukadimah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Mukadimah' membahas tentang mukadimah dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Qurrotul Uyun membahas Mukadimah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Mukadimah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tauhid' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Waris",
+        "Tauhid",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Tauhid' membahas tentang tauhid dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Qurrotul Uyun membahas Tauhid dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Qurrotul Uyun membahas Tauhid dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Rububiyah' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Rububiyah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Rububiyah' membahas tentang rububiyah dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Qurrotul Uyun membahas Rububiyah dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Qurrotul Uyun membahas Rububiyah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Uluhiyah' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Waris",
+        "Uluhiyah",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Uluhiyah' membahas tentang uluhiyah dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Qurrotul Uyun membahas Uluhiyah dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Qurrotul Uyun membahas Uluhiyah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Asma wa Sifat' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Waris",
+        "Asma wa Sifat",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Asma wa Sifat' membahas tentang asma wa sifat dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Qurrotul Uyun membahas Asma wa Sifat dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Qurrotul Uyun membahas Asma wa Sifat dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Kafir' Qurrotul Uyun?",
+      "pilihan": [
+        "Kafir",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Kafir' membahas tentang kafir dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Qurrotul Uyun membahas Kafir dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Kafir dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Munafiq' Qurrotul Uyun?",
+      "pilihan": [
+        "Munafiq",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Munafiq' membahas tentang munafiq dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Qurrotul Uyun membahas Munafiq dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Munafiq dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mukmin' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Mukmin",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Mukmin' membahas tentang mukmin dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Qurrotul Uyun membahas Mukmin dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Qurrotul Uyun membahas Mukmin dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Muhsin' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Muhsin",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Muhsin' membahas tentang muhsin dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Qurrotul Uyun membahas Muhsin dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Qurrotul Uyun membahas Muhsin dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Salik' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Salik",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Salik' membahas tentang salik dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Qurrotul Uyun membahas Salik dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Qurrotul Uyun membahas Salik dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Ishlah' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Waris",
+        "Ishlah",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Ishlah' membahas tentang ishlah dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Qurrotul Uyun membahas Ishlah dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Qurrotul Uyun membahas Ishlah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Ma'rifat' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Ma'rifat",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Ma'rifat' membahas tentang ma'rifat dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Qurrotul Uyun membahas Ma'rifat dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Qurrotul Uyun membahas Ma'rifat dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tazkiyatun Nafs' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Tazkiyatun Nafs"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Tazkiyatun Nafs' membahas tentang tazkiyatun nafs dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Qurrotul Uyun membahas Tazkiyatun Nafs dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Tazkiyatun Nafs dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mujahadah' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Mujahadah",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Mujahadah' membahas tentang mujahadah dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Qurrotul Uyun membahas Mujahadah dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Qurrotul Uyun membahas Mujahadah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Muraqabah' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Muraqabah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Muraqabah' membahas tentang muraqabah dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Qurrotul Uyun membahas Muraqabah dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Qurrotul Uyun membahas Muraqabah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Muhhasabah' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Waris",
+        "Muhhasabah",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Muhhasabah' membahas tentang muhhasabah dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Qurrotul Uyun membahas Muhhasabah dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Qurrotul Uyun membahas Muhhasabah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Zuhud' Qurrotul Uyun?",
+      "pilihan": [
+        "Zuhud",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Zuhud' membahas tentang zuhud dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Qurrotul Uyun membahas Zuhud dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Zuhud dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Rida' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Rida"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Rida' membahas tentang rida dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Qurrotul Uyun membahas Rida dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Qurrotul Uyun membahas Rida dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tawakkal' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Tawakkal"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Tawakkal' membahas tentang tawakkal dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Qurrotul Uyun membahas Tawakkal dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Tawakkal dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Sabar' Qurrotul Uyun?",
+      "pilihan": [
+        "Sabar",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Sabar' membahas tentang sabar dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Qurrotul Uyun membahas Sabar dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Sabar dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Syukur' Qurrotul Uyun?",
+      "pilihan": [
+        "Syukur",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Syukur' membahas tentang syukur dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Qurrotul Uyun membahas Syukur dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Syukur dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Khauf' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Khauf"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Khauf' membahas tentang khauf dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Qurrotul Uyun membahas Khauf dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Qurrotul Uyun membahas Khauf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Raja'' Qurrotul Uyun?",
+      "pilihan": [
+        "Raja'",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Raja'' membahas tentang raja' dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Qurrotul Uyun membahas Raja' dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Qurrotul Uyun membahas Raja' dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mahabbah' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Mahabbah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Mahabbah' membahas tentang mahabbah dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Qurrotul Uyun membahas Mahabbah dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Qurrotul Uyun membahas Mahabbah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Haya'' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Haya'",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Haya'' membahas tentang haya' dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Qurrotul Uyun membahas Haya' dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Qurrotul Uyun membahas Haya' dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tawadhu'' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Waris",
+        "Tawadhu'",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Tawadhu'' membahas tentang tawadhu' dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Qurrotul Uyun membahas Tawadhu' dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Tawadhu' dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Adab"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Adab' membahas tentang adab dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Qurrotul Uyun membahas Adab dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Qurrotul Uyun membahas Adab dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Ilmu' Qurrotul Uyun?",
+      "pilihan": [
+        "Hukum Waris",
+        "Ilmu",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Ilmu' membahas tentang ilmu dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Qurrotul Uyun membahas Ilmu dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Qurrotul Uyun membahas Ilmu dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Amal' Qurrotul Uyun?",
+      "pilihan": [
+        "Amal",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Amal' membahas tentang amal dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Qurrotul Uyun membahas Amal dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Amal dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Dzikir' Qurrotul Uyun?",
+      "pilihan": [
+        "Dzikir",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Dzikir' membahas tentang dzikir dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Qurrotul Uyun membahas Dzikir dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Qurrotul Uyun membahas Dzikir dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Doa' Qurrotul Uyun?",
+      "pilihan": [
+        "Doa",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Doa' membahas tentang doa dalam Qurrotul Uyun."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Qurrotul Uyun membahas Doa dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qurrotul Uyun membahas Doa dalam konteks ilmu dan ibadah."
+    }
+  ]
+}

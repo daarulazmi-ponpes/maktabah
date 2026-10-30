@@ -1,0 +1,750 @@
+{
+  "kitab": "Muwatta Imam Malik",
+  "slug": "muwatta",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mukadimah' Muwatta Imam Malik?",
+      "pilihan": [
+        "Mukadimah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Mukadimah' membahas tentang mukadimah dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Muwatta Imam Malik membahas Mukadimah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Mukadimah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Zakat' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Zakat",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Zakat' membahas tentang zakat dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Muwatta Imam Malik membahas Zakat dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Zakat dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Puasa Ramadhan' Muwatta Imam Malik?",
+      "pilihan": [
+        "Puasa Ramadhan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Puasa Ramadhan' membahas tentang puasa ramadhan dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Muwatta Imam Malik membahas Puasa Ramadhan dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Puasa Ramadhan dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Wakaf' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Wakaf",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Wakaf' membahas tentang wakaf dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Muwatta Imam Malik membahas Wakaf dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Wakaf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Haji' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Haji"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Haji' membahas tentang haji dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Muwatta Imam Malik membahas Haji dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Haji dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Masjid' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Fadhilah Masjid"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Fadhilah Masjid' membahas tentang fadhilah masjid dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Muwatta Imam Malik membahas Fadhilah Masjid dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Muwatta Imam Malik membahas Fadhilah Masjid dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Shalat' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Shalat",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Shalat' membahas tentang shalat dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Muwatta Imam Malik membahas Shalat dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Shalat dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Zakat Fitrah' Muwatta Imam Malik?",
+      "pilihan": [
+        "Zakat Fitrah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Zakat Fitrah' membahas tentang zakat fitrah dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Muwatta Imam Malik membahas Zakat Fitrah dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Zakat Fitrah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Jual Beli' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Jual Beli",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Jual Beli' membahas tentang jual beli dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Muwatta Imam Malik membahas Jual Beli dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Jual Beli dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Sewa' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Sewa"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Sewa' membahas tentang sewa dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Muwatta Imam Malik membahas Sewa dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Muwatta Imam Malik membahas Sewa dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Pinjaman' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Pinjaman",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Pinjaman' membahas tentang pinjaman dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Muwatta Imam Malik membahas Pinjaman dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Pinjaman dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Wasiat' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Wasiat",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Wasiat' membahas tentang wasiat dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Muwatta Imam Malik membahas Wasiat dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Muwatta Imam Malik membahas Wasiat dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Waris' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Waris"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Waris' membahas tentang waris dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Muwatta Imam Malik membahas Waris dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Waris dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Nikah' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Nikah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Nikah' membahas tentang nikah dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Muwatta Imam Malik membahas Nikah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Nikah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Perceraian' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Perceraian"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Perceraian' membahas tentang perceraian dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Muwatta Imam Malik membahas Perceraian dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Muwatta Imam Malik membahas Perceraian dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Sumpah' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Sumpah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Sumpah' membahas tentang sumpah dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Muwatta Imam Malik membahas Sumpah dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Muwatta Imam Malik membahas Sumpah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Nazar' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Nazar"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Nazar' membahas tentang nazar dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Muwatta Imam Malik membahas Nazar dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Nazar dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Jihad' Muwatta Imam Malik?",
+      "pilihan": [
+        "Jihad",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Jihad' membahas tentang jihad dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Muwatta Imam Malik membahas Jihad dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Muwatta Imam Malik membahas Jihad dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Hudud' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hudud",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Hudud' membahas tentang hudud dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Muwatta Imam Malik membahas Hudud dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Hudud dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Diyat' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Diyat"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Diyat' membahas tentang diyat dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Muwatta Imam Malik membahas Diyat dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Diyat dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Hukum Peminum' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Hukum Peminum",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Hukum Peminum' membahas tentang hukum peminum dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Muwatta Imam Malik membahas Hukum Peminum dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Muwatta Imam Malik membahas Hukum Peminum dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Hukum Pencuri' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Pencuri"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Hukum Pencuri' membahas tentang hukum pencuri dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Muwatta Imam Malik membahas Hukum Pencuri dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Hukum Pencuri dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Hukum Zina' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Hukum Zina",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Hukum Zina' membahas tentang hukum zina dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Muwatta Imam Malik membahas Hukum Zina dalam konteks?",
+      "pilihan": [
+        "Ekonomi",
+        "Politik",
+        "Ilmu dan ibadah",
+        "Sains"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Muwatta Imam Malik membahas Hukum Zina dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Qadzaf' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Qadzaf",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Qadzaf' membahas tentang qadzaf dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Muwatta Imam Malik membahas Qadzaf dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Qadzaf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Murtad' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Murtad",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Murtad' membahas tentang murtad dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Muwatta Imam Malik membahas Murtad dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Murtad dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Pemberontak' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Pidana",
+        "Hukum Waris",
+        "Pemberontak",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bab 'Pemberontak' membahas tentang pemberontak dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Muwatta Imam Malik membahas Pemberontak dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Pemberontak dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Hukum Waris' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Waris",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bab 'Hukum Waris' membahas tentang hukum waris dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Muwatta Imam Malik membahas Hukum Waris dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Hukum Waris dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Faraidh' Muwatta Imam Malik?",
+      "pilihan": [
+        "Faraidh",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Faraidh' membahas tentang faraidh dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Muwatta Imam Malik membahas Faraidh dalam konteks?",
+      "pilihan": [
+        "Politik",
+        "Ilmu dan ibadah",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Muwatta Imam Malik membahas Faraidh dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Aqiqah' Muwatta Imam Malik?",
+      "pilihan": [
+        "Aqiqah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Aqiqah' membahas tentang aqiqah dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Muwatta Imam Malik membahas Aqiqah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Muwatta Imam Malik membahas Aqiqah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Kurban' Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Kurban"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab 'Kurban' membahas tentang kurban dalam Muwatta Imam Malik."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Muwatta Imam Malik membahas Kurban dalam konteks?",
+      "pilihan": [
+        "Sains",
+        "Politik",
+        "Ekonomi",
+        "Ilmu dan ibadah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Muwatta Imam Malik membahas Kurban dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Apa yang dibahas dalam bab terakhir Muwatta Imam Malik?",
+      "pilihan": [
+        "Hukum Perdagangan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Kurban dan Aqiqah"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Bab terakhir Muwatta Imam Malik membahas tentang Kurban dan Aqiqah."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Muwatta Imam Malik ditulis oleh?",
+      "pilihan": [
+        "Imam Syafi'i",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Malik bin Anas"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Muwatta ditulis oleh Imam Malik bin Anas (w. 179 H), salah satu imam mazhab empat."
+    }
+  ]
+}

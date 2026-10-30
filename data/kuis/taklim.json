@@ -4,206 +4,123 @@
   "soal": [
     {
       "babId": "bab-0",
-      "pertanyaan": "Kitab Ta'lim Al-Muta'allim ditulis oleh?",
-      "pilihan": ["Imam Nawawi", "Imam al-Ghazali", "Imam Syafi'i", "Imam Bukhari"],
-      "jawabanBenar": 0,
-      "penjelasan": "Kitab Ta'lim Al-Muta'allim ditulis oleh Imam Nawawi sebagai panduan bagi pelajar dalam menuntut ilmu."
+      "pertanyaan": "Kitab Ta'lim Al-Muta'allim disusun oleh siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Imam Bukhari",
+        "Imam Al-Ghazali",
+        "Imam Muslim"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Ta'lim Al-Muta'allim disusun oleh Imam Al-Ghazali (450-505 H), seorang ulama besar yang dikenal sebagai Hujjatul Islam."
     },
     {
       "babId": "bab-0",
-      "pertanyaan": "Ta'lim Al-Muta'allim artinya?",
-      "pilihan": ["Pendidikan Pelajar", "Pendidikan Guru", "Pendidikan Orang Tua", "Pendidikan Anak"],
-      "jawabanBenar": 0,
-      "penjelasan": "Ta'lim Al-Muta'allim artinya 'Pendidikan Pelajar', yaitu kitab yang berisi panduan bagi pelajar dalam menuntut ilmu."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Hakikat ilmu menurut Islam adalah?",
-      "pilihan": ["Pengetahuan tentang dunia", "Pengetahuan tentang Allah dan ciptaan-Nya", "Pengetahuan tentang harta", "Pengetahuan tentang kekuasaan"],
+      "pertanyaan": "Apa tujuan penyusunan kitab Ta'lim Al-Muta'allim?",
+      "pilihan": [
+        "Menggantikan Al-Quran",
+        "Panduan bagi pelajar dalam menuntut ilmu",
+        "Membahas ilmu tafsir",
+        "Membahas ilmu hadits"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Hakikat ilmu menurut Islam adalah pengetahuan tentang Allah dan ciptaan-Nya."
+      "penjelasan": "Ta'lim Al-Muta'allim adalah panduan bagi pelajar (muta'allim) dalam menuntut ilmu dengan adab dan niat yang benar."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Fiqih artinya?",
-      "pilihan": ["Memahami hukum-hukum Allah", "Memahami bahasa Arab", "Memahami sejarah", "Memahami matematika"],
-      "jawabanBenar": 0,
-      "penjelasan": "Fiqih artinya memahami hukum-hukum Allah yang berkaitan dengan ibadah dan muamalah."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Keutamaan ilmu dalam Islam adalah?",
-      "pilihan": ["Tidak ada keutamaannya", "Ilmu adalah cahaya dan petunjuk", "Ilmu hanya untuk dunia", "Ilmu tidak penting"],
+      "pertanyaan": "Menurut Ta'lim Al-Muta'allim, apa hakikat ilmu?",
+      "pilihan": [
+        "Hanya pengetahuan",
+        "Pengetahuan yang bermanfaat untuk mengenal Allah dan menjalaninya",
+        "Hanya untuk dunia",
+        "Hanya untuk akhirat"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Keutamaan ilmu dalam Islam adalah ilmu sebagai cahaya dan petunjuk bagi manusia."
+      "penjelasan": "Hakikat ilmu adalah pengetahuan yang bermanfaat untuk mengenal Allah dan menjalankan perintah-Nya."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Ta'lim Al-Muta'allim, apa keutamaan ilmu?",
+      "pilihan": [
+        "Tidak ada keutamaan",
+        "Ilmu lebih utama dari ibadah, karena menjadi dasar ibadah",
+        "Hanya untuk ulama",
+        "Hanya untuk dunia"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Ta'lim Al-Muta'allim menjelaskan bahwa ilmu lebih utama dari ibadah karena ilmu menjadi dasar dan pedoman ibadah."
     },
     {
       "babId": "bab-2",
-      "pertanyaan": "Niat dalam belajar hendaknya?",
-      "pilihan": ["Karena ingin terkenal", "Karena ingin kaya", "Karena Allah SWT", "Karena ingin dipuji"],
-      "jawabanBenar": 2,
-      "penjelasan": "Niat dalam belajar hendaknya karena Allah SWT, bukan karena dunia."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Belajar dengan niat yang benar akan?",
-      "pilihan": ["Tidak ada manfaatnya", "Mendapat pahala", "Mendapat dosa", "Tidak ada perubahan"],
+      "pertanyaan": "Menurut Ta'lim Al-Muta'allim, apa niat yang benar dalam menuntut ilmu?",
+      "pilihan": [
+        "Untuk mendapat pujian",
+        "Karena Allah dan untuk menjalankan perintah-Nya",
+        "Untuk mendapat harta",
+        "Untuk mendapat jabatan"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Belajar dengan niat yang benar akan mendapat pahala dari Allah SWT."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Adab pelajar terhadap guru adalah?",
-      "pilihan": ["Membangkang", "Hormat dan patuh", "Mengabaikan", "Mengejek"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab pelajar terhadap guru adalah hormat dan patuh kepada mereka."
+      "penjelasan": "Niat yang benar dalam menuntut ilmu adalah karena Allah dan untuk menjalankan perintah-Nya, bukan untuk pujian atau harta."
     },
     {
       "babId": "bab-3",
-      "pertanyaan": "Pelajar hendaknya belajar dengan?",
-      "pilihan": ["Sombong", "Tawaduk dan ikhlas", "Riya'", "Takabur"],
+      "pertanyaan": "Menurut Ta'lim Al-Muta'allim, apa adab kepada guru?",
+      "pilihan": [
+        "Tidak ada adab khusus",
+        "Menghormati, mendengarkan, dan menaati guru",
+        "Hanya menghormati",
+        "Hanya mendengarkan"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Pelajar hendaknya belajar dengan tawaduk dan ikhlas."
+      "penjelasan": "Adab kepada guru adalah menghormati, mendengarkan, dan menaati guru dalam hal-hal yang baik."
     },
     {
       "babId": "bab-4",
-      "pertanyaan": "Ilmu yang wajib dipelajari adalah?",
-      "pilihan": ["Ilmu yang tidak bermanfaat", "Ilmu yang berkaitan dengan ibadah", "Ilmu yang dilarang", "Ilmu yang tidak penting"],
+      "pertanyaan": "Menurut Ta'lim Al-Muta'allim, apa yang dimaksud dengan adab belajar?",
+      "pilihan": [
+        "Hanya datang ke kelas",
+        "Menjalankan semua adab dalam menuntut ilmu",
+        "Hanya membaca buku",
+        "Hanya mendengarkan guru"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Ilmu yang wajib dipelajari adalah ilmu yang berkaitan dengan ibadah dan kehidupan sehari-hari."
-    },
-    {
-      "babId": "bab-4",
-      "pertanyaan": "Ilmu fardhu kifayah adalah?",
-      "pilihan": ["Ilmu yang wajib bagi semua", "Ilmu yang wajib bagi sebagian umat", "Ilmu yang tidak penting", "Ilmu yang dilarang"],
-      "jawabanBenar": 1,
-      "penjelasan": "Ilmu fardhu kifayah adalah ilmu yang wajib bagi sebagian umat, seperti ilmu kedokteran dan hukum."
-    },
-    {
-      "babId": "bab-5",
-      "pertanyaan": "Cara belajar yang benar adalah?",
-      "pilihan": ["Belajar sendiri saja", "Belajar dari guru yang kompeten", "Tidak perlu belajar", "Belajar dari sumber yang tidak jelas"],
-      "jawabanBenar": 1,
-      "penjelasan": "Cara belajar yang benar adalah belajar dari guru yang kompeten dan terpercaya."
+      "penjelasan": "Adab belajar adalah menjalankan semua adab dalam menuntut ilmu, termasuk niat, menghormati guru, dan istiqamah."
     },
     {
       "babId": "bab-5",
-      "pertanyaan": "Konsistensi dalam belajar akan?",
-      "pilihan": ["Tidak ada manfaatnya", "Membawa kesuksesan", "Membawa kegagalan", "Tidak ada perubahan"],
+      "pertanyaan": "Menurut Ta'lim Al-Muta'allim, apa keutamaan sabar dalam belajar?",
+      "pilihan": [
+        "Tidak ada keutamaan",
+        "Sabar adalah kunci keberhasilan dalam menuntut ilmu",
+        "Hanya untuk orang kuat",
+        "Hanya untuk orang sakit"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Konsistensi dalam belajar akan membawa kesuksesan dan pemahaman yang mendalam."
+      "penjelasan": "Ta'lim Al-Muta'allim menjelaskan bahwa sabar adalah kunci keberhasilan dalam menuntut ilmu."
     },
     {
       "babId": "bab-6",
-      "pertanyaan": "Adab menuntut ilmu adalah?",
-      "pilihan": ["Sombong", "Tawaduk dan sabar", "Riya'", "Takabur"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab menuntut ilmu adalah tawaduk dan sabar dalam proses belajar."
-    },
-    {
-      "babId": "bab-6",
-      "pertanyaan": "Pelajar hendaknya menghindari?",
-      "pilihan": ["Kebaikan", "Keburukan dan maksiat", "Ketaatan", "Kesabaran"],
-      "jawabanBenar": 1,
-      "penjelasan": "Pelajar hendaknya menghindari keburukan dan maksiat agar fokus dalam belajar."
-    },
-    {
-      "babId": "bab-7",
-      "pertanyaan": "Manfaat ilmu bagi kehidupan adalah?",
-      "pilihan": ["Tidak ada manfaatnya", "Menjadi petunjuk dan cahaya", "Menjerumuskan", "Tidak ada perubahan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Manfaat ilmu bagi kehidupan adalah menjadi petunjuk dan cahaya bagi manusia."
+      "pertanyaan": "Menurut Ta'lim Al-Muta'allim, apa yang dimaksud dengan istiqamah?",
+      "pilihan": [
+        "Selalu konsisten dalam belajar dan beramal",
+        "Hanya belajar",
+        "Hanya beramal",
+        "Hanya berdoa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Istiqamah adalah selalu konsisten dalam belajar dan beramal, tidak mudah menyerah atau terpengaruh."
     },
     {
       "babId": "bab-7",
-      "pertanyaan": "Ilmu tanpa amal bagai?",
-      "pilihan": ["Pohon yang berbuah", "Pohon yang tidak berbuah", "Bunga yang harum", "Air yang jernih"],
+      "pertanyaan": "Menurut Ta'lim Al-Muta'allim, apa hubungan antara ilmu dan amal?",
+      "pilihan": [
+        "Tidak ada hubungan",
+        "Ilmu tanpa amal seperti pohon tanpa buah",
+        "Amal tanpa ilmu lebih baik",
+        "Ilmu lebih penting dari amal"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Ilmu tanpa amal bagai pohon yang tidak berbuah, karena ilmu harus diimplementasikan dalam kehidupan."
-    },
-    {
-      "babId": "bab-8",
-      "pertanyaan": "Amal tanpa ilmu bagai?",
-      "pilihan": ["Orang yang sehat", "Orang yang buta", "Orang yang kaya", "Orang yang pintar"],
-      "jawabanBenar": 1,
-      "penjelasan": "Amal tanpa ilmu bagai orang yang buta, karena tidak tahu arah yang benar."
-    },
-    {
-      "babId": "bab-8",
-      "pertanyaan": "Hubungan ilmu dan amal adalah?",
-      "pilihan": ["Tidak ada hubungan", "Saling melengkapi", "Saling bertentangan", "Tidak penting"],
-      "jawabanBenar": 1,
-      "penjelasan": "Hubungan ilmu dan amal adalah saling melengkapi, ilmu harus diimplementasikan dalam amal."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Pelajar hendaknya selalu?",
-      "pilihan": ["Malas", "Rajin dan tekun", "Membangkang", "Mengabaikan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Pelajar hendaknya selalu rajin dan tekun dalam belajar."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Kesabaran dalam belajar akan?",
-      "pilihan": ["Tidak ada manfaatnya", "Membawa kesuksesan", "Membawa kegagalan", "Tidak ada perubahan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Kesabaran dalam belajar akan membawa kesuksesan dan pemahaman yang mendalam."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Doa sebelum belajar hendaknya?",
-      "pilihan": ["Tidak perlu berdoa", "Memohon kemudahan dari Allah", "Berdoa untuk dunia", "Berdoa untuk harta"],
-      "jawabanBenar": 1,
-      "penjelasan": "Doa sebelum belajar hendaknya memohon kemudahan dari Allah SWT."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Setelah belajar hendaknya?",
-      "pilihan": ["Lupa", "Mengamalkan dan menyebarkan ilmu", "Menyembunyikan ilmu", "Membanggakan ilmu"],
-      "jawabanBenar": 1,
-      "penjelasan": "Setelah belajar hendaknya mengamalkan dan menyebarkan ilmu kepada orang lain."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Menyebarkan ilmu adalah?",
-      "pilihan": ["Tidak penting", "Wajib dan sunnah", "Haram", "Makruh"],
-      "jawabanBenar": 1,
-      "penjelasan": "Menyebarkan ilmu adalah wajib dan sunnah, karena ilmu harus dibagikan kepada orang lain."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Menyembunyikan ilmu adalah?",
-      "pilihan": ["Boleh", "Dilarang", "Wajib", "Sunnah"],
-      "jawabanBenar": 1,
-      "penjelasan": "Menyembunyikan ilmu adalah dilarang, karena ilmu harus dibagikan kepada orang lain."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Guru yang baik adalah?",
-      "pilihan": ["Yang sombong", "Yang tawaduk dan sabar", "Yang riya'", "Yang takabur"],
-      "jawabanBenar": 1,
-      "penjelasan": "Guru yang baik adalah yang tawaduk dan sabar dalam mengajar."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Adab guru terhadap murid adalah?",
-      "pilihan": ["Membenci", "Mengasihi dan membimbing", "Mengabaikan", "Mengejek"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adab guru terhadap murid adalah mengasihi dan membimbing mereka dengan baik."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Tujuan menuntut ilmu adalah?",
-      "pilihan": ["Untuk dunia saja", "Untuk mengenal Allah dan bermanfaat", "Untuk harta", "Untuk kekuasaan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Tujuan menuntut ilmu adalah untuk mengenal Allah dan bermanfaat bagi sesama."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Ilmu yang bermanfaat adalah?",
-      "pilihan": ["Ilmu yang tidak diamalkan", "Ilmu yang diamalkan dan disebarkan", "Ilmu yang disembunyikan", "Ilmu yang dibanggakan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Ilmu yang bermanfaat adalah ilmu yang diamalkan dan disebarkan kepada orang lain."
+      "penjelasan": "Ta'lim Al-Muta'allim menjelaskan bahwa ilmu tanpa amal seperti pohon tanpa buah, keduanya harus berjalan bersama."
     }
   ]
 }

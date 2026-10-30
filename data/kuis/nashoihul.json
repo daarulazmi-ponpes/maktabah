@@ -4,563 +4,123 @@
   "soal": [
     {
       "babId": "bab-0",
-      "pertanyaan": "Nashoihul Ibad artinya?",
-      "pilihan": ["Nasihat bagi Hamba", "Nasihat bagi Guru", "Nasihat bagi Pelajar", "Nasihat bagi Orang Tua"],
-      "jawabanBenar": 0,
-      "penjelasan": "Nashoihul Ibad artinya 'Nasihat bagi Hamba', yaitu kitab yang berisi nasihat-nasihat bagi hamba Allah."
+      "pertanyaan": "Kitab Nashoihul Ibad disusun oleh siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Imam Bukhari",
+        "Imam Al-Ghazali",
+        "Imam Muslim"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Nashoihul Ibad disusun oleh Imam Al-Ghazali (450-505 H), seorang ulama besar yang dikenal sebagai Hujjatul Islam."
     },
     {
       "babId": "bab-0",
-      "pertanyaan": "Kitab Nashoihul Ibad ditulis oleh?",
-      "pilihan": ["Imam Nawawi", "Imam al-Ghazali", "Imam Syafi'i", "Imam Bukhari"],
+      "pertanyaan": "Apa tujuan penyusunan kitab Nashoihul Ibad?",
+      "pilihan": [
+        "Menggantikan Al-Quran",
+        "Nasihat bagi hamba Allah dalam menjalani hidup",
+        "Membahas ilmu tafsir",
+        "Membahas ilmu hadits"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Kitab Nashoihul Ibad ditulis oleh Imam al-Ghazali sebagai nasihat bagi hamba Allah."
+      "penjelasan": "Nashoihul Ibad berisi nasihat-nasihat bagi hamba Allah dalam menjalani hidup dengan benar dan meraih kebahagiaan dunia akhirat."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Maqolah artinya?",
-      "pilihan": ["Pernyataan", "Pertanyaan", "Jawaban", "Perintah"],
-      "jawabanBenar": 0,
-      "penjelasan": "Maqolah artinya pernyataan, yaitu pernyataan atau nasihat yang disampaikan dalam kitab."
-    },
-    {
-      "babId": "bab-1",
-      "pertanyaan": "Nasihat pertama dalam kitab adalah?",
-      "pilihan": ["Mencintai dunia", "Mencintai Allah", "Mencintai harta", "Mencintai kekuasaan"],
+      "pertanyaan": "Menurut Nashoihul Ibad, apa yang dimaksud dengan nasihat?",
+      "pilihan": [
+        "Hanya saran",
+        "Petunjuk yang bermanfaat untuk kebaikan dunia dan akhirat",
+        "Hanya perintah",
+        "Hanya larangan"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Nasihat pertama dalam kitab adalah mencintai Allah dengan segenap hati."
+      "penjelasan": "Nasihat adalah petunjuk yang bermanfaat untuk kebaikan dunia dan akhirat, bukan hanya saran biasa."
     },
     {
       "babId": "bab-2",
-      "pertanyaan": "Cinta kepada Allah ditunjukkan dengan?",
-      "pilihan": ["Mendurhakai", "Mentaati", "Mengabaikan", "Membenci"],
+      "pertanyaan": "Menurut Nashoihul Ibad, apa keutamaan sabar?",
+      "pilihan": [
+        "Tidak ada keutamaan",
+        "Sabar adalah cahaya yang menerangi hati",
+        "Hanya untuk orang kuat",
+        "Hanya untuk orang sakit"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Cinta kepada Allah ditunjukkan dengan mentaati perintah-Nya dan menjauhi larangan-Nya."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Takut kepada Allah artinya?",
-      "pilihan": ["Takut pada manusia", "Takut pada azab Allah", "Takut pada hewan", "Takut pada alam"],
-      "jawabanBenar": 1,
-      "penjelasan": "Takut kepada Allah artinya takut pada azab Allah karena dosa-dosa yang dilakukan."
+      "penjelasan": "Nashoihul Ibad menjelaskan bahwa sabar adalah cahaya yang menerangi hati dan mendekatkan kepada Allah."
     },
     {
       "babId": "bab-3",
-      "pertanyaan": "Harap kepada Allah artinya?",
-      "pilihan": ["Harap pada manusia", "Harap pada rahmat Allah", "Harap pada harta", "Harap pada kekuasaan"],
+      "pertanyaan": "Menurut Nashoihul Ibad, apa yang dimaksud dengan zuhud?",
+      "pilihan": [
+        "Tidak memiliki harta",
+        "Mengosongkan hati dari cinta dunia",
+        "Tidak bekerja",
+        "Tidak menikah"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Harap kepada Allah artinya harap pada rahmat Allah yang luas."
-    },
-    {
-      "babId": "bab-3",
-      "pertanyaan": "Bersyukur kepada Allah adalah?",
-      "pilihan": ["Mengucap syukur", "Mengabaikan", "Membenci", "Meragukan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Bersyukur kepada Allah adalah mengucap syukur atas nikmat yang diberikan."
+      "penjelasan": "Zuhud adalah mengosongkan hati dari cinta dunia dan mengarahkannya kepada akhirat, bukan berarti tidak memiliki harta."
     },
     {
       "babId": "bab-4",
-      "pertanyaan": "Tawakal kepada Allah artinya?",
-      "pilihan": ["Serahkan segala urusan pada Allah", "Tidak berusaha", "Pasrah tanpa usaha", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Tawakal kepada Allah artinya menyerahkan segala urusan pada Allah setelah berusaha."
-    },
-    {
-      "babId": "bab-4",
-      "pertanyaan": "Sabar artinya?",
-      "pilihan": ["Tidak tahan", "Tahan dan kuat", "Marah", "Benci"],
+      "pertanyaan": "Menurut Nashoihul Ibad, apa keutamaan taubat?",
+      "pilihan": [
+        "Tidak ada keutamaan",
+        "Taubat menghapus dosa seperti tidak pernah ada",
+        "Hanya untuk orang kaya",
+        "Hanya untuk orang miskin"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Sabar artinya tahan dan kuat dalam menghadapi cobaan dan kesulitan."
+      "penjelasan": "Taubat menghapus dosa seperti tidak pernah ada, Allah mencintai hamba-Nya yang bertaubat."
     },
     {
       "babId": "bab-5",
-      "pertanyaan": "Ridha kepada Allah artinya?",
-      "pilihan": ["Menerima ketetapan Allah", "Menolak", "Meragukan", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Ridha kepada Allah artinya menerima ketetapan Allah dengan ikhlas."
-    },
-    {
-      "babId": "bab-5",
-      "pertanyaan": "Ikhlas artinya?",
-      "pilihan": ["Karena manusia", "Karena Allah", "Karena harta", "Karena kekuasaan"],
+      "pertanyaan": "Menurut Nashoihul Ibad, apa yang dimaksud dengan tawakkal?",
+      "pilihan": [
+        "Serba pasrah tanpa usaha",
+        "Berserah diri kepada Allah setelah berusaha",
+        "Tidak perlu berusaha",
+        "Hanya berdoa"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Ikhlas artinya berbuat hanya karena Allah, bukan karena manusia atau dunia."
+      "penjelasan": "Tawakkal adalah berserah diri kepada Allah setelah berusaha dengan maksimal, bukan pasrah tanpa usaha."
     },
     {
       "babId": "bab-6",
-      "pertanyaan": "Tawaduk artinya?",
-      "pilihan": ["Sombong", "Rendah hati", "Riya'", "Takabur"],
+      "pertanyaan": "Menurut Nashoihul Ibad, apa keutamaan mengingat Allah (dzikir)?",
+      "pilihan": [
+        "Tidak ada keutamaan",
+        "Dzikir menenangkan hati dan mendekatkan kepada Allah",
+        "Hanya untuk ulama",
+        "Hanya untuk sufi"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Tawaduk artinya rendah hati, tidak sombong terhadap orang lain."
-    },
-    {
-      "babId": "bab-6",
-      "pertanyaan": "Zuhud artinya?",
-      "pilihan": ["Cinta dunia", "Tidak cinta dunia", "Cinta harta", "Cinta kekuasaan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Zuhud artinya tidak cinta dunia, lebih mengutamakan akhirat."
+      "penjelasan": "Nashoihul Ibad menjelaskan bahwa dzikir menenangkan hati dan mendekatkan kepada Allah, seperti air bagi tanaman."
     },
     {
       "babId": "bab-7",
-      "pertanyaan": "Wara' artinya?",
-      "pilihan": ["Jauh dari maksiat", "Dekat dari maksiat", "Tidak peduli", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Wara' artinya jauh dari maksiat dan hal-hal yang syubhat (meragukan)."
-    },
-    {
-      "babId": "bab-7",
-      "pertanyaan": "Taqwa artinya?",
-      "pilihan": ["Jauh dari Allah", "Dekat dari Allah", "Mengabaikan", "Membenci"],
+      "pertanyaan": "Menurut Nashoihul Ibad, apa yang dimaksud dengan ridha?",
+      "pilihan": [
+        "Selalu senang",
+        "Menerima ketetapan Allah dengan lapang dada",
+        "Tidak pernah sedih",
+        "Hanya menerima yang baik"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Taqwa artinya dekat dari Allah dengan mentaati perintah-Nya dan menjauhi larangan-Nya."
+      "penjelasan": "Ridha adalah menerima ketetapan Allah dengan lapang dada, baik dalam keadaan suka maupun duka."
     },
     {
       "babId": "bab-8",
-      "pertanyaan": "Mujahadah artinya?",
-      "pilihan": ["Berjuang untuk Allah", "Berjuang untuk dunia", "Berjuang untuk harta", "Berjuang untuk kekuasaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Mujahadah artinya berjuang untuk Allah dalam segala hal."
-    },
-    {
-      "babId": "bab-8",
-      "pertanyaan": "Muraqabah artinya?",
-      "pilihan": ["Merasa diawasi Allah", "Tidak merasa diawasi", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Muraqabah artinya merasa diawasi Allah dalam segala keadaan."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Muhasabah artinya?",
-      "pilihan": ["Introspeksi diri", "Menyalahkan orang lain", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Muhasabah artinya introspeksi diri untuk memperbaiki amal dan perilaku."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Munajat artinya?",
-      "pilihan": ["Berbicara dengan Allah", "Berbicara dengan manusia", "Berbicara dengan hewan", "Berbicara dengan alam"],
-      "jawabanBenar": 0,
-      "penjelasan": "Munajat artinya berbicara dengan Allah dalam doa dan dzikir."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Mujahadah nafsu artinya?",
-      "pilihan": ["Menundukkan nafsu", "Mengikuti nafsu", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Mujahadah nafsu artinya menundukkan nafsu agar tidak mengikuti hawa nafsu."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Hawa nafsu artinya?",
-      "pilihan": ["Keinginan yang baik", "Keinginan yang buruk", "Keinginan yang netral", "Tidak ada"],
+      "pertanyaan": "Menurut Nashoihul Ibad, apa hubungan antara ilmu dan amal?",
+      "pilihan": [
+        "Tidak ada hubungan",
+        "Ilmu tanpa amal seperti pohon tanpa buah",
+        "Amal tanpa ilmu lebih baik",
+        "Ilmu lebih penting dari amal"
+      ],
       "jawabanBenar": 1,
-      "penjelasan": "Hawa nafsu artinya keinginan yang buruk yang perlu ditundukkan."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Riya' artinya?",
-      "pilihan": ["Berbuat karena Allah", "Berbuat karena manusia", "Berbuat karena harta", "Berbuat karena kekuasaan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Riya' artinya berbuat karena ingin dilihat manusia, bukan karena Allah."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Takabur artinya?",
-      "pilihan": ["Rendah hati", "Sombong", "Ikhlas", "Tawaduk"],
-      "jawabanBenar": 1,
-      "penjelasan": "Takabur artinya sombong, merasa lebih baik dari orang lain."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Hasad artinya?",
-      "pilihan": ["Senang pada nikmat orang lain", "Dengki pada nikmat orang lain", "Tidak peduli", "Mengabaikan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Hasad artinya dengki pada nikmat yang diberikan Allah kepada orang lain."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Ghibah artinya?",
-      "pilihan": ["Mengucapkan keburukan orang lain", "Mengucapkan kebaikan", "Tidak berbicara", "Diam"],
-      "jawabanBenar": 0,
-      "penjelasan": "Ghibah artinya mengucapkan keburukan orang lain di belakangnya."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Namimah artinya?",
-      "pilihan": ["Memutus hubungan", "Mengadu domba", "Menjalin hubungan", "Bersatu"],
-      "jawabanBenar": 1,
-      "penjelasan": "Namimah artinya mengadu domba, memecah belah hubungan antara orang lain."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Kadzib artinya?",
-      "pilihan": ["Jujur", "Berbohong", "Diam", "Tidak berbicara"],
-      "jawabanBenar": 1,
-      "penjelasan": "Kadzib artinya berbohong, mengucapkan yang bukan-bukan."
-    },
-    {
-      "babId": "bab-14",
-      "pertanyaan": "Khianat artinya?",
-      "pilihan": ["Setia", "Tidak setia", "Jujur", "Amanah"],
-      "jawabanBenar": 1,
-      "penjelasan": "Khianat artinya tidak setia, mengkhianati amanah yang diberikan."
-    },
-    {
-      "babId": "bab-14",
-      "pertanyaan": "Amanah artinya?",
-      "pilihan": ["Tidak setia", "Setia", "Khianat", "Berbohong"],
-      "jawabanBenar": 1,
-      "penjelasan": "Amanah artinya setia, menjaga kepercayaan yang diberikan."
-    },
-    {
-      "babId": "bab-15",
-      "pertanyaan": "Adil artinya?",
-      "pilihan": ["Menyimpang", "Tidak memihak", "Memihak", "Zalim"],
-      "jawabanBenar": 1,
-      "penjelasan": "Adil artinya tidak memihak, memberikan hak kepada yang berhak."
-    },
-    {
-      "babId": "bab-15",
-      "pertanyaan": "Zalim artinya?",
-      "pilihan": ["Adil", "Menyimpang dari kebenaran", "Tidak memihak", "Berbuat baik"],
-      "jawabanBenar": 1,
-      "penjelasan": "Zalim artinya menyimpang dari kebenaran, berbuat tidak adil."
-    },
-    {
-      "babId": "bab-16",
-      "pertanyaan": "Sabar dalam menghadapi cobaan adalah?",
-      "pilihan": ["Marah", "Tahan dan kuat", "Menyerah", "Mengabaikan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Sabar dalam menghadapi cobaan adalah tahan dan kuat, tidak mengeluh."
-    },
-    {
-      "babId": "bab-16",
-      "pertanyaan": "Syukur dalam menerima nikmat adalah?",
-      "pilihan": ["Mengucap syukur", "Mengabaikan", "Membenci", "Meragukan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Syukur dalam menerima nikmat adalah mengucap syukur kepada Allah."
-    },
-    {
-      "babId": "bab-17",
-      "pertanyaan": "Tawakal setelah berusaha adalah?",
-      "pilihan": ["Serahkan pada Allah", "Tidak berusaha", "Pasrah", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Tawakal setelah berusaha adalah menyerahkan hasil pada Allah."
-    },
-    {
-      "babId": "bab-17",
-      "pertanyaan": "Ridha terhadap ketetapan Allah adalah?",
-      "pilihan": ["Menerima dengan ikhlas", "Menolak", "Meragukan", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Ridha terhadap ketetapan Allah adalah menerima dengan ikhlas."
-    },
-    {
-      "babId": "bab-18",
-      "pertanyaan": "Ikhlas dalam beribadah adalah?",
-      "pilihan": ["Karena Allah", "Karena manusia", "Karena harta", "Karena kekuasaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Ikhlas dalam beribadah adalah karena Allah semata."
-    },
-    {
-      "babId": "bab-18",
-      "pertanyaan": "Tawaduk dalam bergaul adalah?",
-      "pilihan": ["Sombong", "Rendah hati", "Riya'", "Takabur"],
-      "jawabanBenar": 1,
-      "penjelasan": "Tawaduk dalam bergaul adalah rendah hati, tidak sombong."
-    },
-    {
-      "babId": "bab-19",
-      "pertanyaan": "Zuhud terhadap dunia adalah?",
-      "pilihan": ["Cinta dunia", "Tidak cinta dunia", "Cinta harta", "Cinta kekuasaan"],
-      "jawabanBenar": 1,
-      "penjelasan": "Zuhud terhadap dunia adalah tidak cinta dunia, lebih mengutamakan akhirat."
-    },
-    {
-      "babId": "bab-19",
-      "pertanyaan": "Wara' terhadap hal syubhat adalah?",
-      "pilihan": ["Jauh dari syubhat", "Dekat dari syubhat", "Tidak peduli", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Wara' terhadap hal syubhat adalah jauh dari hal-hal yang meragukan."
-    },
-    {
-      "babId": "bab-20",
-      "pertanyaan": "Taqwa kepada Allah adalah?",
-      "pilihan": ["Jauh dari Allah", "Dekat dari Allah", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 1,
-      "penjelasan": "Taqwa kepada Allah adalah dekat dari Allah dengan mentaati perintah-Nya."
-    },
-    {
-      "babId": "bab-20",
-      "pertanyaan": "Mujahadah dalam beribadah adalah?",
-      "pilihan": ["Berjuang untuk Allah", "Berjuang untuk dunia", "Berjuang untuk harta", "Berjuang untuk kekuasaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Mujahadah dalam beribadah adalah berjuang untuk Allah dengan sungguh-sungguh."
-    },
-    {
-      "babId": "bab-21",
-      "pertanyaan": "Muraqabah dalam beramal adalah?",
-      "pilihan": ["Merasa diawasi Allah", "Tidak merasa diawasi", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Muraqabah dalam beramal adalah merasa diawasi Allah dalam segala hal."
-    },
-    {
-      "babId": "bab-21",
-      "pertanyaan": "Muhasabah diri adalah?",
-      "pilihan": ["Introspeksi diri", "Menyalahkan orang lain", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Muhasabah diri adalah introspeksi diri untuk memperbaiki amal."
-    },
-    {
-      "babId": "bab-22",
-      "pertanyaan": "Munajat kepada Allah adalah?",
-      "pilihan": ["Berbicara dengan Allah", "Berbicara dengan manusia", "Berbicara dengan hewan", "Berbicara dengan alam"],
-      "jawabanBenar": 0,
-      "penjelasan": "Munajat kepada Allah adalah berbicara dengan Allah dalam doa dan dzikir."
-    },
-    {
-      "babId": "bab-22",
-      "pertanyaan": "Mujahadah nafsu adalah?",
-      "pilihan": ["Menundukkan nafsu", "Mengikuti nafsu", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Mujahadah nafsu adalah menundukkan nafsu agar tidak mengikuti hawa nafsu."
-    },
-    {
-      "babId": "bab-23",
-      "pertanyaan": "Menghindari riya' adalah?",
-      "pilihan": ["Berbuat karena Allah", "Berbuat karena manusia", "Berbuat karena harta", "Berbuat karena kekuasaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari riya' adalah berbuat karena Allah, bukan karena manusia."
-    },
-    {
-      "babId": "bab-23",
-      "pertanyaan": "Menghindari takabur adalah?",
-      "pilihan": ["Rendah hati", "Sombong", "Riya'", "Takabur"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari takabur adalah rendah hati, tidak sombong."
-    },
-    {
-      "babId": "bab-24",
-      "pertanyaan": "Menghindari hasad adalah?",
-      "pilihan": ["Senang pada nikmat orang lain", "Dengki pada nikmat orang lain", "Tidak peduli", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari hasad adalah senang pada nikmat yang diberikan Allah kepada orang lain."
-    },
-    {
-      "babId": "bab-24",
-      "pertanyaan": "Menghindari ghibah adalah?",
-      "pilihan": ["Tidak mengucapkan keburukan orang lain", "Mengucapkan keburukan", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari ghibah adalah tidak mengucapkan keburukan orang lain di belakangnya."
-    },
-    {
-      "babId": "bab-25",
-      "pertanyaan": "Menghindari namimah adalah?",
-      "pilihan": ["Tidak mengadu domba", "Mengadu domba", "Memutus hubungan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari namimah adalah tidak mengadu domba, tidak memecah belah hubungan."
-    },
-    {
-      "babId": "bab-25",
-      "pertanyaan": "Menghindari kadzib adalah?",
-      "pilihan": ["Jujur", "Berbohong", "Diam", "Tidak berbicara"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari kadzib adalah jujur, tidak berbohong."
-    },
-    {
-      "babId": "bab-26",
-      "pertanyaan": "Menghindari khianat adalah?",
-      "pilihan": ["Setia", "Tidak setia", "Khianat", "Berbohong"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari khianat adalah setia, menjaga amanah yang diberikan."
-    },
-    {
-      "babId": "bab-26",
-      "pertanyaan": "Amanah dalam beramal adalah?",
-      "pilihan": ["Setia", "Tidak setia", "Khianat", "Berbohong"],
-      "jawabanBenar": 0,
-      "penjelasan": "Amanah dalam beramal adalah setia, menjaga kepercayaan yang diberikan."
-    },
-    {
-      "babId": "bab-27",
-      "pertanyaan": "Adil dalam bergaul adalah?",
-      "pilihan": ["Tidak memihak", "Memihak", "Zalim", "Menyimpang"],
-      "jawabanBenar": 0,
-      "penjelasan": "Adil dalam bergaul adalah tidak memihak, memberikan hak kepada yang berhak."
-    },
-    {
-      "babId": "bab-27",
-      "pertanyaan": "Menghindari zalim adalah?",
-      "pilihan": ["Adil", "Menyimpang dari kebenaran", "Memihak", "Zalim"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari zalim adalah adil, tidak menyimpang dari kebenaran."
-    },
-    {
-      "babId": "bab-28",
-      "pertanyaan": "Sabar dalam menghadapi musibah adalah?",
-      "pilihan": ["Tahan dan kuat", "Marah", "Menyerah", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Sabar dalam menghadapi musibah adalah tahan dan kuat, tidak mengeluh."
-    },
-    {
-      "babId": "bab-28",
-      "pertanyaan": "Syukur dalam menerima rezeki adalah?",
-      "pilihan": ["Mengucap syukur", "Mengabaikan", "Membenci", "Meragukan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Syukur dalam menerima rezeki adalah mengucap syukur kepada Allah."
-    },
-    {
-      "babId": "bab-29",
-      "pertanyaan": "Tawakal dalam mencari rezeki adalah?",
-      "pilihan": ["Berusaha dan serahkan pada Allah", "Tidak berusaha", "Pasrah", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Tawakal dalam mencari rezeki adalah berusaha dan menyerahkan hasil pada Allah."
-    },
-    {
-      "babId": "bab-29",
-      "pertanyaan": "Ridha terhadap rezeki Allah adalah?",
-      "pilihan": ["Menerima dengan ikhlas", "Menolak", "Meragukan", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Ridha terhadap rezeki Allah adalah menerima dengan ikhlas."
-    },
-    {
-      "babId": "bab-30",
-      "pertanyaan": "Ikhlas dalam bekerja adalah?",
-      "pilihan": ["Karena Allah", "Karena manusia", "Karena harta", "Karena kekuasaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Ikhlas dalam bekerja adalah karena Allah, bukan karena manusia."
-    },
-    {
-      "babId": "bab-30",
-      "pertanyaan": "Tawaduk dalam kesuksesan adalah?",
-      "pilihan": ["Rendah hati", "Sombong", "Riya'", "Takabur"],
-      "jawabanBenar": 0,
-      "penjelasan": "Tawaduk dalam kesuksesan adalah rendah hati, tidak sombong."
-    },
-    {
-      "babId": "bab-31",
-      "pertanyaan": "Zuhud dalam kekayaan adalah?",
-      "pilihan": ["Tidak cinta harta", "Cinta harta", "Cinta dunia", "Cinta kekuasaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Zuhud dalam kekayaan adalah tidak cinta harta, lebih mengutamakan akhirat."
-    },
-    {
-      "babId": "bab-31",
-      "pertanyaan": "Wara' dalam transaksi adalah?",
-      "pilihan": ["Jauh dari riba", "Dekat dari riba", "Tidak peduli", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Wara' dalam transaksi adalah jauh dari riba dan hal-hal yang syubhat."
-    },
-    {
-      "babId": "bab-32",
-      "pertanyaan": "Taqwa dalam berbisnis adalah?",
-      "pilihan": ["Jujur dan adil", "Curang dan zalim", "Berbohong", "Khianat"],
-      "jawabanBenar": 0,
-      "penjelasan": "Taqwa dalam berbisnis adalah jujur dan adil, tidak curang."
-    },
-    {
-      "babId": "bab-32",
-      "pertanyaan": "Mujahadah dalam mencari ilmu adalah?",
-      "pilihan": ["Berjuang untuk ilmu", "Malas", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Mujahadah dalam mencari ilmu adalah berjuang untuk ilmu dengan sungguh-sungguh."
-    },
-    {
-      "babId": "bab-33",
-      "pertanyaan": "Muraqabah dalam belajar adalah?",
-      "pilihan": ["Merasa diawasi Allah", "Tidak merasa diawasi", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Muraqabah dalam belajar adalah merasa diawasi Allah dalam proses belajar."
-    },
-    {
-      "babId": "bab-33",
-      "pertanyaan": "Muhasabah setelah belajar adalah?",
-      "pilihan": ["Introspeksi diri", "Menyalahkan orang lain", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Muhasabah setelah belajar adalah introspeksi diri untuk memperbaiki pemahaman."
-    },
-    {
-      "babId": "bab-34",
-      "pertanyaan": "Munajat setelah belajar adalah?",
-      "pilihan": ["Berdoa kepada Allah", "Berbicara dengan manusia", "Berbicara dengan hewan", "Berbicara dengan alam"],
-      "jawabanBenar": 0,
-      "penjelasan": "Munajat setelah belajar adalah berdoa kepada Allah untuk diberikan manfaat ilmu."
-    },
-    {
-      "babId": "bab-34",
-      "pertanyaan": "Mujahadah dalam mengamalkan ilmu adalah?",
-      "pilihan": ["Berjuang mengamalkan", "Malas", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Mujahadah dalam mengamalkan ilmu adalah berjuang mengamalkan ilmu dengan sungguh-sungguh."
-    },
-    {
-      "babId": "bab-35",
-      "pertanyaan": "Menghindari riya' dalam beramal adalah?",
-      "pilihan": ["Berbuat karena Allah", "Berbuat karena manusia", "Berbuat karena harta", "Berbuat karena kekuasaan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari riya' dalam beramal adalah berbuat karena Allah, bukan karena manusia."
-    },
-    {
-      "babId": "bab-35",
-      "pertanyaan": "Menghindari takabur dalam ilmu adalah?",
-      "pilihan": ["Rendah hati", "Sombong", "Riya'", "Takabur"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari takabur dalam ilmu adalah rendah hati, tidak sombong dengan ilmu."
-    },
-    {
-      "babId": "bab-36",
-      "pertanyaan": "Menghindari hasad dalam kesuksesan orang lain adalah?",
-      "pilihan": ["Senang", "Dengki", "Tidak peduli", "Mengabaikan"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari hasad dalam kesuksesan orang lain adalah senang, tidak dengki."
-    },
-    {
-      "babId": "bab-36",
-      "pertanyaan": "Menghindari ghibah dalam bergaul adalah?",
-      "pilihan": ["Tidak mengumpat", "Mengumpat", "Mengabaikan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari ghibah dalam bergaul adalah tidak mengumpat orang lain."
-    },
-    {
-      "babId": "bab-37",
-      "pertanyaan": "Menghindari namimah dalam persahabatan adalah?",
-      "pilihan": ["Tidak mengadu domba", "Mengadu domba", "Memutus hubungan", "Membenci"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari namimah dalam persahabatan adalah tidak mengadu domba."
-    },
-    {
-      "babId": "bab-37",
-      "pertanyaan": "Menghindari kadzib dalam berbicara adalah?",
-      "pilihan": ["Jujur", "Berbohong", "Diam", "Tidak berbicara"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari kadzib dalam berbicara adalah jujur, tidak berbohong."
-    },
-    {
-      "babId": "bab-38",
-      "pertanyaan": "Menghindari khianat dalam persahabatan adalah?",
-      "pilihan": ["Setia", "Tidak setia", "Khianat", "Berbohong"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari khianat dalam persahabatan adalah setia, tidak mengkhianati teman."
-    },
-    {
-      "babId": "bab-38",
-      "pertanyaan": "Amanah dalam persahabatan adalah?",
-      "pilihan": ["Setia", "Tidak setia", "Khianat", "Berbohong"],
-      "jawabanBenar": 0,
-      "penjelasan": "Amanah dalam persahabatan adalah setia, menjaga kepercayaan teman."
-    },
-    {
-      "babId": "bab-39",
-      "pertanyaan": "Adil dalam membagi tugas adalah?",
-      "pilihan": ["Tidak memihak", "Memihak", "Zalim", "Menyimpang"],
-      "jawabanBenar": 0,
-      "penjelasan": "Adil dalam membagi tugas adalah tidak memihak, memberikan tugas yang seimbang."
-    },
-    {
-      "babId": "bab-39",
-      "pertanyaan": "Menghindari zalim dalam memimpin adalah?",
-      "pilihan": ["Adil", "Menyimpang dari kebenaran", "Memihak", "Zalim"],
-      "jawabanBenar": 0,
-      "penjelasan": "Menghindari zalim dalam memimpin adalah adil, tidak menyimpang dari kebenaran."
+      "penjelasan": "Nashoihul Ibad menjelaskan bahwa ilmu tanpa amal seperti pohon tanpa buah, keduanya harus berjalan bersama."
     }
   ]
 }

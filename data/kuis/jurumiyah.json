@@ -4,579 +4,147 @@
   "soal": [
     {
       "babId": "bab-1",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Mukadimah' Jurumiyah?",
+      "pertanyaan": "Menurut Jurumiyah, apa definisi Kalam?",
       "pilihan": [
-        "Mukadimah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Lafadz yang terdiri dari beberapa kata",
+        "Lafadz yang murakkab (tersusun), mufid (bermanfaat), dan wadhi' (sesuai kaidah)",
+        "Setiap ucapan yang keluar dari mulut",
+        "Kata-kata yang memiliki arti"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Mukadimah' membahas tentang mukadimah dalam Jurumiyah."
+      "jawabanBenar": 1,
+      "penjelasan": "Jurumiyah mendefinisikan Kalam sebagai 'al-lafzul murakkabul mufidul wadhi'', yaitu lafadz yang tersusun, bermanfaat, dan sesuai kaidah."
     },
     {
       "babId": "bab-1",
-      "pertanyaan": "Jurumiyah membahas Mukadimah dalam konteks?",
+      "pertanyaan": "Menurut Jurumiyah, Kalam terbagi menjadi tiga jenis. Apa saja?",
       "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
+        "Isim, Fi'il, dan Harf",
+        "Mubtada, Khabar, dan Fi'il",
+        "Fa'il, Maf'ul, dan Na'at",
+        "Mufrod, Tsani, dan Jam'"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Mukadimah dalam konteks ilmu dan ibadah."
+      "penjelasan": "Jurumiyah menjelaskan bahwa Kalam terbagi menjadi Isim (kata benda), Fi'il (kata kerja), dan Harf (kata depan/hubung)."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Jurumiyah, Isim dikenali dengan tanda apa?",
+      "pilihan": [
+        "Qad, Sin, dan Sawa'",
+        "Khafad (jar), tanwin, dan masuknya Alif Lam",
+        "Ta' ta'nits dan Nun",
+        "Waw, Ba, dan Ta"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Isim dikenali dengan khafad (jar/turun), tanwin, dan masuknya Alif Lam serta huruf-huruf jar seperti min, ila, 'an, 'ala, fi, dll."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Jurumiyah, Fi'il dikenali dengan tanda apa?",
+      "pilihan": [
+        "Khafad dan tanwin",
+        "Qad, Sin, Sawa', dan Ta' ta'nits sakinah",
+        "Alif Lam dan huruf jar",
+        "Waw, Ba, dan Ta"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Fi'il dikenali dengan masuknya Qad, Sin, Sawa', dan Ta' ta'nits sakinah (ta' perempuan sukun)."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Menurut Jurumiyah, apa yang dimaksud dengan Harf?",
+      "pilihan": [
+        "Kata yang bisa dikenali sebagai Isim",
+        "Kata yang bisa dikenali sebagai Fi'il",
+        "Kata yang tidak bisa dikenali sebagai Isim maupun Fi'il",
+        "Kata yang selalu di-raf'kan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Harf adalah kata yang tidak bisa dikenali sebagai Isim maupun Fi'il, yaitu tidak menerima tanda-tanda Isim maupun Fi'il."
     },
     {
       "babId": "bab-2",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Huruf Hijaiyah' Jurumiyah?",
+      "pertanyaan": "Menurut Jurumiyah, apa yang dimaksud dengan I'rab?",
       "pilihan": [
-        "Huruf Hijaiyah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Perubahan harakat akhir kata",
+        "Menambahkan huruf di akhir kata",
+        "Menghapus huruf di akhir kata",
+        "Mengubah makna kata"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Huruf Hijaiyah' membahas tentang huruf hijaiyah dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-2",
-      "pertanyaan": "Jurumiyah membahas Huruf Hijaiyah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Huruf Hijaiyah dalam konteks ilmu dan ibadah."
+      "penjelasan": "I'rab adalah perubahan harakat akhir kata sesuai dengan kedudukannya dalam kalimat."
     },
     {
       "babId": "bab-3",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Makharijul Huruf' Jurumiyah?",
+      "pertanyaan": "Menurut Jurumiyah, tanda asli (ashli) untuk Rofa' adalah?",
       "pilihan": [
-        "Makharijul Huruf",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Fathah",
+        "Kasrah",
+        "Dammah",
+        "Sukun"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Makharijul Huruf' membahas tentang makharijul huruf dalam Jurumiyah."
+      "jawabanBenar": 2,
+      "penjelasan": "Tanda asli untuk Rofa' adalah Dammah, untuk Nashab adalah Fathah, untuk Jar adalah Kasrah, dan untuk Jazm adalah Sukun."
     },
     {
       "babId": "bab-3",
-      "pertanyaan": "Jurumiyah membahas Makharijul Huruf dalam konteks?",
+      "pertanyaan": "Menurut Jurumiyah, tanda asli untuk Nashab adalah?",
       "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
+        "Dammah",
+        "Kasrah",
+        "Fathah",
+        "Sukun"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Makharijul Huruf dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-4",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Sifatul Huruf' Jurumiyah?",
-      "pilihan": [
-        "Sifatul Huruf",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Sifatul Huruf' membahas tentang sifatul huruf dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-4",
-      "pertanyaan": "Jurumiyah membahas Sifatul Huruf dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Sifatul Huruf dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 2,
+      "penjelasan": "Tanda asli untuk Nashab adalah Fathah."
     },
     {
       "babId": "bab-5",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Hamzah' Jurumiyah?",
+      "pertanyaan": "Menurut Jurumiyah, Fi'il terbagi menjadi tiga jenis berdasarkan waktu. Apa saja?",
       "pilihan": [
-        "Hamzah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Fi'il Madhi, Mudhari', dan Amr",
+        "Fi'il Mubram, Mabni, dan Mu'rab",
+        "Fi'il Ma'lum, Majhul, dan Infi'ali",
+        "Fi'il Mufrad, Mutsanna, dan Jamak"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Hamzah' membahas tentang hamzah dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-5",
-      "pertanyaan": "Jurumiyah membahas Hamzah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Hamzah dalam konteks ilmu dan ibadah."
+      "penjelasan": "Fi'il terbagi menjadi Madhi (masa lalu), Mudhari' (masa sekarang/mendatang), dan Amr (perintah)."
     },
     {
       "babId": "bab-6",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Idgham' Jurumiyah?",
+      "pertanyaan": "Menurut Jurumiyah, Isim yang di-raf'kan antara lain adalah?",
       "pilihan": [
-        "Idgham",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Mubtada' dan Khabar",
+        "Fa'il dan Mubtada'",
+        "Mubtada', Khabar, dan Fa'il",
+        "Hanya Fa'il"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Idgham' membahas tentang idgham dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-6",
-      "pertanyaan": "Jurumiyah membahas Idgham dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Idgham dalam konteks ilmu dan ibadah."
+      "jawabanBenar": 2,
+      "penjelasan": "Isim yang di-raf'kan antara lain Mubtada', Khabar, dan Fa'il, serta isim-isim lainnya sesuai kaidah."
     },
     {
       "babId": "bab-7",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Ikhfa'' Jurumiyah?",
+      "pertanyaan": "Menurut Jurumiyah, apa yang dimaksud dengan Fa'il?",
       "pilihan": [
-        "Ikhfa'",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Pelaku perbuatan",
+        "Objek perbuatan",
+        "Sifat pelaku",
+        "Tempat perbuatan"
       ],
       "jawabanBenar": 0,
-      "penjelasan": "Bab 'Ikhfa'' membahas tentang ikhfa' dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-7",
-      "pertanyaan": "Jurumiyah membahas Ikhfa' dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Ikhfa' dalam konteks ilmu dan ibadah."
+      "penjelasan": "Fa'il adalah pelaku perbuatan, yaitu isim yang melakukan tindakan yang disebutkan dalam Fi'il."
     },
     {
       "babId": "bab-8",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Iqlab' Jurumiyah?",
+      "pertanyaan": "Menurut Jurumiyah, Mubtada' dan Khabar adalah unsur dari?",
       "pilihan": [
-        "Iqlab",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
+        "Kalimat Fi'liyah",
+        "Kalimat Isimiyah",
+        "Kalimat Shalah",
+        "Kalimat Tamyiz"
       ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Iqlab' membahas tentang iqlab dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-8",
-      "pertanyaan": "Jurumiyah membahas Iqlab dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Iqlab dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Qalqalah' Jurumiyah?",
-      "pilihan": [
-        "Qalqalah",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Qalqalah' membahas tentang qalqalah dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-9",
-      "pertanyaan": "Jurumiyah membahas Qalqalah dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Qalqalah dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Mad' Jurumiyah?",
-      "pilihan": [
-        "Mad",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Mad' membahas tentang mad dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-10",
-      "pertanyaan": "Jurumiyah membahas Mad dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Mad dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Waqaf' Jurumiyah?",
-      "pilihan": [
-        "Waqaf",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Waqaf' membahas tentang waqaf dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-11",
-      "pertanyaan": "Jurumiyah membahas Waqaf dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Waqaf dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Apa yang dibahas dalam bab 'Iwadh' Jurumiyah?",
-      "pilihan": [
-        "Iwadh",
-        "Hukum Waris",
-        "Hukum Pidana",
-        "Hukum Perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab 'Iwadh' membahas tentang iwadh dalam Jurumiyah."
-    },
-    {
-      "babId": "bab-12",
-      "pertanyaan": "Jurumiyah membahas Iwadh dalam konteks?",
-      "pilihan": [
-        "Ilmu dan ibadah",
-        "Politik",
-        "Ekonomi",
-        "Sains"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah membahas Iwadh dalam konteks ilmu dan ibadah."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-13 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-13 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-13 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-13",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-14",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-14 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-14 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-14 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-14",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-15",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-15 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-15 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-15 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-15",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-16",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-16 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-16 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-16 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-16",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-17",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-17 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-17 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-17 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-17",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-18",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-18 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-18 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-18 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-18",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-19",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-19 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-19 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-19 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-19",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-20",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-20 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-20 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-20 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-20",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-21",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-21 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-21 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-21 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-21",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-22",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-22 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-22 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-22 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-22",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-23",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-23 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-23 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-23 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-23",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
-    },
-    {
-      "babId": "bab-24",
-      "pertanyaan": "Apa yang dibahas dalam bab ke-24 Jurumiyah?",
-      "pilihan": [
-        "Bab ke-24 berisi pelajaran tentang tata bahasa Arab",
-        "Hukum waris",
-        "Hukum pidana",
-        "Hukum perdagangan"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Bab ke-24 Jurumiyah berisi pelajaran tentang tata bahasa Arab."
-    },
-    {
-      "babId": "bab-24",
-      "pertanyaan": "Jurumiyah membahas tentang?",
-      "pilihan": [
-        "Tata bahasa Arab",
-        "Hukum Islam",
-        "Sejarah Islam",
-        "Fiqih"
-      ],
-      "jawabanBenar": 0,
-      "penjelasan": "Jurumiyah adalah kitab nahwu yang membahas tata bahasa Arab."
+      "jawabanBenar": 1,
+      "penjelasan": "Mubtada' dan Khabar adalah dua unsur utama dari Kalimat Isimiyah (kalimat nominal)."
     }
   ]
 }

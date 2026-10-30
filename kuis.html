@@ -4,6 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#123c62">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <!-- Cache buster: v2 -->
   <title>Maktabah Daarul Azmi | Kuis Kitab</title>
 
   <link rel="icon" href="/assets/icons/logoDA.png" type="image/png">
@@ -185,9 +189,12 @@
       transition: all 0.2s;
       text-align: left;
     }
-    .quiz-option:hover:not([disabled]) {
+    .quiz-option:hover:not(.disabled) {
       border-color: var(--gold);
       background: var(--green-soft);
+    }
+    .quiz-option.disabled {
+      pointer-events: none;
     }
     .quiz-option:focus {
       outline: 2px solid var(--gold);
@@ -230,15 +237,20 @@
       border-radius: 10px;
       font-size: 13px;
       line-height: 1.6;
+      animation: feedbackSlide 0.3s ease-out;
+    }
+    @keyframes feedbackSlide {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
     }
     .quiz-feedback.correct {
       background: #f0fdf4;
-      border: 1px solid #bbf7d0;
+      border: 2px solid #bbf7d0;
       color: #166534;
     }
     .quiz-feedback.wrong {
       background: #fef2f2;
-      border: 1px solid #fecaca;
+      border: 2px solid #fecaca;
       color: #991b1b;
     }
 
@@ -482,23 +494,27 @@
   function playAnswerSound(isCorrect) {
     const AudioContext = window.AudioContext || window.webkitAudioContext;
     if (!AudioContext) return;
-    audioContext = audioContext || new AudioContext();
-    if (audioContext.state === "suspended") audioContext.resume();
-    const notes = isCorrect ? [660, 880] : [330, 220];
-    notes.forEach((frequency, index) => {
-      const startTime = audioContext.currentTime + index * 0.14;
-      const oscillator = audioContext.createOscillator();
-      const gain = audioContext.createGain();
-      oscillator.type = "sine";
-      oscillator.frequency.value = frequency;
-      gain.gain.setValueAtTime(0.0001, startTime);
-      gain.gain.exponentialRampToAtTime(0.18, startTime + 0.02);
-      gain.gain.exponentialRampToAtTime(0.0001, startTime + 0.13);
-      oscillator.connect(gain);
-      gain.connect(audioContext.destination);
-      oscillator.start(startTime);
-      oscillator.stop(startTime + 0.14);
-    });
+    try {
+      audioContext = audioContext || new AudioContext();
+      if (audioContext.state === "suspended") audioContext.resume();
+      const notes = isCorrect ? [660, 880] : [330, 220];
+      notes.forEach((frequency, index) => {
+        const startTime = audioContext.currentTime + index * 0.14;
+        const oscillator = audioContext.createOscillator();
+        const gain = audioContext.createGain();
+        oscillator.type = "sine";
+        oscillator.frequency.value = frequency;
+        gain.gain.setValueAtTime(0, startTime);
+        gain.gain.linearRampToAtTime(0.15, startTime + 0.02);
+        gain.gain.linearRampToAtTime(0, startTime + 0.13);
+        oscillator.connect(gain);
+        gain.connect(audioContext.destination);
+        oscillator.start(startTime);
+        oscillator.stop(startTime + 0.14);
+      });
+    } catch (e) {
+      // Silently fail if audio is not supported
+    }
   }
 
   function getKuisScore(babId) {
@@ -688,6 +704,47 @@
     renderQuestion();
   }
 
+  // Event delegation untuk quiz options (lebih reliable daripada attach per-element)
+  quizAreaEl.addEventListener("click", (e) => {
+    const optionBtn = e.target.closest(".quiz-option");
+    if (optionBtn && !optionBtn.classList.contains("disabled")) {
+      const index = parseInt(optionBtn.dataset.index);
+      selectAnswer(index);
+    }
+    const nextBtn = e.target.closest("#nextQuestion");
+    if (nextBtn) {
+      currentQuestionIndex++;
+      renderQuestion();
+    }
+    const finishBtn = e.target.closest("#finishQuiz");
+    if (finishBtn) {
+      showResults();
+    }
+    const retryBtn = e.target.closest("#retryQuiz");
+    if (retryBtn) {
+      startQuiz(currentBabId);
+    }
+    const backBtn = e.target.closest("#backSelector");
+    if (backBtn) {
+      quizAreaEl.innerHTML = "";
+      document.querySelectorAll(".bab-select-btn").forEach(btn => btn.classList.remove("active"));
+    }
+  });
+
+  // Keyboard navigation
+  quizAreaEl.addEventListener("keydown", (e) => {
+    const options = [...quizAreaEl.querySelectorAll(".quiz-option")];
+    const focused = document.activeElement;
+    const idx = options.indexOf(focused);
+    if (e.key === "ArrowDown" && idx < options.length - 1) {
+      e.preventDefault();
+      options[idx + 1].focus();
+    } else if (e.key === "ArrowUp" && idx > 0) {
+      e.preventDefault();
+      options[idx - 1].focus();
+    }
+  });
+
   // Render question
   function renderQuestion() {
     const q = currentQuestions[currentQuestionIndex];
@@ -712,25 +769,9 @@
           `).join("")}
         </div>
         <div id="quizFeedback"></div>
+        <div id="quizActions"></div>
       </div>
     `;
-
-    quizAreaEl.querySelectorAll(".quiz-option").forEach(btn => {
-      btn.addEventListener("click", () => selectAnswer(parseInt(btn.dataset.index)));
-    });
-
-    quizAreaEl.querySelector(".quiz-options").addEventListener("keydown", (e) => {
-      const options = [...quizAreaEl.querySelectorAll(".quiz-option")];
-      const focused = document.activeElement;
-      const idx = options.indexOf(focused);
-      if (e.key === "ArrowDown" && idx < options.length - 1) {
-        e.preventDefault();
-        options[idx + 1].focus();
-      } else if (e.key === "ArrowUp" && idx > 0) {
-        e.preventDefault();
-        options[idx - 1].focus();
-      }
-    });
 
     const firstOption = quizAreaEl.querySelector(".quiz-option");
     if (firstOption) firstOption.focus();
@@ -743,14 +784,23 @@
 
     const q = currentQuestions[currentQuestionIndex];
     const isCorrect = selectedIndex === q.jawabanBenar;
+
     playAnswerSound(isCorrect);
     const options = quizAreaEl.querySelectorAll(".quiz-option");
     const feedbackEl = document.getElementById("quizFeedback");
+    const actionsEl = document.getElementById("quizActions");
 
     if (isCorrect) correctCount++;
 
+    // Update skor di header
+    const scoreEl = quizAreaEl.querySelector(".quiz-score");
+    if (scoreEl) {
+      scoreEl.textContent = `Benar: ${correctCount}`;
+    }
+
+    // Nonaktifkan opsi dengan class, bukan disabled attribute
     options.forEach((opt, i) => {
-      opt.disabled = true;
+      opt.classList.add("disabled");
       opt.style.cursor = "default";
       if (i === q.jawabanBenar) {
         opt.classList.add("correct");
@@ -761,33 +811,34 @@
       }
     });
 
+    // Tampilkan feedback
     const feedbackClass = isCorrect ? "correct" : "wrong";
     const feedbackIcon = isCorrect ? "✓ Benar!" : "✗ Salah!";
+    const jawabanTeks = q.pilihan[q.jawabanBenar] || "";
     feedbackEl.innerHTML = `
       <div class="quiz-feedback ${feedbackClass}" role="alert">
-        <strong>${feedbackIcon}</strong> ${q.penjelasan}
+        <strong>${feedbackIcon}</strong>
+        ${!isCorrect ? `<br>Jawaban yang benar: <strong>${jawabanTeks}</strong>` : ''}
+        ${q.penjelasan ? `<br><br>${q.penjelasan}` : ''}
       </div>
     `;
 
+    // Tampilkan tombol di container yang sudah ada (event delegation menangani klik)
     const isLast = currentQuestionIndex >= currentQuestions.length - 1;
-    const actionsDiv = document.createElement("div");
-    actionsDiv.className = "quiz-actions";
     if (isLast) {
-      actionsDiv.innerHTML = `<button class="btn btn-gold" id="finishQuiz">Lihat Hasil →</button>`;
+      const skor = Math.round((correctCount / currentQuestions.length) * 100);
+      actionsEl.innerHTML = `
+        <div class="quiz-actions">
+          <button class="btn btn-gold" id="finishQuiz">Lihat Hasil (${skor}%) →</button>
+        </div>
+      `;
     } else {
-      actionsDiv.innerHTML = `<button class="btn btn-primary" id="nextQuestion">Pertanyaan Berikutnya →</button>`;
+      actionsEl.innerHTML = `
+        <div class="quiz-actions">
+          <button class="btn btn-primary" id="nextQuestion">Pertanyaan Berikutnya →</button>
+        </div>
+      `;
     }
-    feedbackEl.after(actionsDiv);
-
-    const btnId = isLast ? "finishQuiz" : "nextQuestion";
-    document.getElementById(btnId).addEventListener("click", () => {
-      if (isLast) {
-        showResults();
-      } else {
-        currentQuestionIndex++;
-        renderQuestion();
-      }
-    });
   }
 
   // Show results
@@ -816,14 +867,6 @@
         </div>
       </div>
     `;
-
-    document.getElementById("retryQuiz").addEventListener("click", () => {
-      startQuiz(currentBabId);
-    });
-    document.getElementById("backSelector").addEventListener("click", () => {
-      quizAreaEl.innerHTML = "";
-      document.querySelectorAll(".bab-select-btn").forEach(btn => btn.classList.remove("active"));
-    });
   }
 
   // Handle browser back/forward
