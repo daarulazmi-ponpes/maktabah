@@ -65,18 +65,8 @@ app.get("/api/kitab/:slug", async (req, res) => {
   res.json(result);
 });
 
-// Halaman root - katalog kitab
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "index.html"));
-});
-
-// Halaman assets (gambar, font, dll)
-app.get("/assets/*", (req, res) => {
-  const filePath = path.join(__dirname, "assets", req.params[0]);
-  res.sendFile(filePath);
-});
-
-// Sajikan file statis (index.html, assets, dll) - untuk development lokal
+// Sajikan file statis (index.html, assets, dll)
+// Vercel akan menangani static files secara otomatis melalui vercel.json
 app.use(express.static(__dirname, {
   setHeaders: (res, filePath) => {
     if (path.extname(filePath) === '.html') {
@@ -86,6 +76,11 @@ app.use(express.static(__dirname, {
     }
   }
 }));
+
+// Fallback untuk halaman root
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "index.html"));
+});
 
 // Routing untuk halaman pembaca kitab
 // /kitab/:slug/:bab HARUS didefinisikan SEBELUM /kitab/:slug
@@ -164,6 +159,12 @@ app.get("/api/kitab/:slug/kuis", async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`📚 Server Maktabah berjalan di http://localhost:${PORT}`);
-});
+// Export untuk Vercel serverless function
+module.exports = app;
+
+// Jalankan server hanya jika tidak di-deploy di Vercel (local development)
+if (process.env.NODE_ENV !== 'production') {
+  app.listen(PORT, () => {
+    console.log(`📚 Server Maktabah berjalan di http://localhost:${PORT}`);
+  });
+}
