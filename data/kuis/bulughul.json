@@ -1,0 +1,2622 @@
+{
+  "kitab": "Bulughul Maram",
+  "slug": "bulughul",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Bulughul Maram ditulis oleh siapa?",
+      "pilihan": [
+        "Imam Nawawi",
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Bukhari",
+        "Imam Muslim"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Bulughul Maram artinya?",
+      "pilihan": [
+        "Mencapai Tujuan",
+        "Mencapai Kesempurnaan",
+        "Mencapai Hukum",
+        "Mencapai Ilmu"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Bulughul Maram artinya 'Mencapai Kesempurnaan', yaitu mencapai hadits-hadits yang sempurna sebagai dalil hukum."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Air yang suci dan mensucikan adalah?",
+      "pilihan": [
+        "Air laut",
+        "Air hujan",
+        "Air sungai",
+        "Semua benar"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Air laut, hujan, sungai, dan semua air asli (mau') adalah suci dan mensucikan."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Air menjadi air musta'mal jika?",
+      "pilihan": [
+        "Digunakan untuk wudhu",
+        "Mengalir",
+        "Berwarna",
+        "Berbau"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Air yang digunakan untuk wudhu/mandi disebut air musta'mal (air kedua) yang masih suci tapi tidak mensucikan."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Bejana dari emas dan perak hukumnya untuk minum?",
+      "pilihan": [
+        "Wajib",
+        "Sunnah",
+        "Haram",
+        "Mubah"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Minum dari bejana emas dan perak haram bagi laki-laki muslim berdasarkan hadits shahih."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Bejana yang paling utama untuk minum adalah?",
+      "pilihan": [
+        "Emas",
+        "Perak",
+        "Perunggu",
+        "Kaca"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Bejana perunggu adalah yang paling utama untuk minum menurut hadits."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Najis mukaffarah adalah najis yang?",
+      "pilihan": [
+        "Dihapus dengan 1x bilas",
+        "Dihapus dengan 7x bilas",
+        "Cukup dengan tanah",
+        "Tidak perlu dibersihkan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Najis mukaffarah (najis berat) seperti air kencing laki-laki dibersihkan dengan 7x bilas, pertama dengan tanah."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Kucing termasuk hewan yang najis?",
+      "pilihan": [
+        "Ya, air liurnya najis",
+        "Tidak, air liurnya suci",
+        "Hanya kencingnya najis",
+        "Semua badannya najis"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Air liur kucing suci berdasarkan hadits yang menyatakan kucing menyucikan dengan meludah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Rukun wudhu yang pertama adalah?",
+      "pilihan": [
+        "Mencuci muka",
+        "Niat",
+        "Membaca basmalah",
+        "Mencuci tangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Niat adalah rukun wudhu yang pertama, dilakukan di dalam hati saat memulai wudhu."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Mencuci muka dalam wudhu batasnya dari?",
+      "pilihan": [
+        "Ujung rambut sampai dagu",
+        "Kening sampai leher",
+        "Mata sampai hidung",
+        "Telinga sampai pipi"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Batas mencuci muka dalam wudhu dari ujung rambut (puncak kepala) sampai dagu."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Mengusap khuff diperbolehkan selama?",
+      "pilihan": [
+        "1 hari malam",
+        "3 hari malam",
+        "7 hari malam",
+        "Selama perjalanan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Mengusap khuff diperbolehkan selama 3 hari malam bagi musafir dan 1 hari malam bagi mukim."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Khuff yang boleh diusap adalah?",
+      "pilihan": [
+        "Sandal terbuka",
+        "Sepatu tertutup",
+        "Kaos kaki tipis",
+        "Soket pendek"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Khuff yang boleh diusap adalah sepatu/kaos kaki tebal yang menutupi mata kaki."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Yang membatalkan wudhu adalah?",
+      "pilihan": [
+        "Keluarnya angin",
+        "Makan",
+        "Tidur duduk",
+        "Berjalan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Keluarnya angin dari depan atau belakang membatalkan wudhu berdasarkan ijma' ulama."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Tidur yang membatalkan wudhu adalah?",
+      "pilihan": [
+        "Tidur duduk",
+        "Tidur rebah nyenyak",
+        "Mengantuk",
+        "Berbaring sebentar"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Tidur rebah yang nyenyak hingga tidak tahu posisi pantat membatalkan wudhu."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Adab buang hajat yang pertama adalah?",
+      "pilihan": [
+        "Masuk dengan kaki kanan",
+        "Masuk dengan kaki kiri",
+        "Membaca doa",
+        "Berwudhu"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab masuk tempat buang hajat adalah masuk dengan kaki kiri dan membaca doa."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Saat buang hajat, hendaknya tidak menghadap ke?",
+      "pilihan": [
+        "Timur",
+        "Barat",
+        "Qiblat",
+        "Utara"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Hendaknya tidak menghadap atau membelakangi qiblat saat buang hajat."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Mandi wajib karena?",
+      "pilihan": [
+        "Haid",
+        "Jima'",
+        "Puasa",
+        "Shalat"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Mandi wajib karena jima' (bersetubuh) atau keluar mani dengan syahwat."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Rukun mandi wajib adalah?",
+      "pilihan": [
+        "Niat dan mengalirkan air ke seluruh badan",
+        "Mencuci kepala",
+        "Mencuci kaki",
+        "Berwudhu dulu"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Rukun mandi wajib adalah niat dan mengalirkan air ke seluruh badan termasuk rambut."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Tayamum dilakukan jika?",
+      "pilihan": [
+        "Sakit atau tidak ada air",
+        "Malas wudhu",
+        "Tidak ada waktu",
+        "Air dingin"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Tayamum dilakukan jika sakit yang menghalangi penggunaan air atau tidak menemukan air."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Media tayamum adalah?",
+      "pilihan": [
+        "Air",
+        "Tanah yang suci",
+        "Kain",
+        "Kertas"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Media tayamum adalah tanah, pasir, atau batu yang suci."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Haid adalah darah yang?",
+      "pilihan": [
+        "Karena sakit",
+        "Alami dari perempuan sehat",
+        "Karena luka",
+        "Dari hidung"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Haid adalah darah alami yang keluar dari rahim perempuan yang sehat tanpa sakit."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Perempuan haid tidak boleh?",
+      "pilihan": [
+        "Membaca Al-Quran sedikit",
+        "Shalat dan puasa",
+        "Bekerja",
+        "Makan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Perempuan haid tidak boleh shalat dan puasa, tetapi tetap berzikir dan berdzikir."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Waktu shalat Zhuhur dimulai dari?",
+      "pilihan": [
+        "Matahari terbit",
+        "Terlaluinya matahari",
+        "Siang hari",
+        "Matahari tinggi"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Waktu shalat Zhuhur dimulai dari terlalunya matahari (setelah istiwa')."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Waktu shalat Maghrib berakhir saat?",
+      "pilihan": [
+        "Tengah malam",
+        "Hilangnya fajar sorad",
+        "Bintang muncul",
+        "Malam gelap"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Waktu Maghrib berakhir saat hilangnya fajar sorad (sisa cahaya setelah matahari terbenam)."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Adzan untuk shalat Zhuhur dibaca?",
+      "pilihan": [
+        "1 kali",
+        "2 kali",
+        "3 kali",
+        "4 kali"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Adzan untuk shalat Zhuhur, Ashar, dan Maghrib dibaca 1 kali."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Khatimah adzan 'Qad qamatis shalah' dibaca saat?",
+      "pilihan": [
+        "Shalat Jumat",
+        "Shalat Id",
+        "Shalat Gerhana",
+        "Semua shalat"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Khatimah 'Qad qamatis shalah' dibaca setelah adzan kedua shalat Jumat."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Syarat shalat yang pertama adalah?",
+      "pilihan": [
+        "Berwudhu",
+        "Islam",
+        "Menutup aurat",
+        "Menghadap qiblat"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Islam adalah syarat shalat yang pertama, karena shalat tidak sah dari non-muslim."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Suci dari hadas besar adalah syarat?",
+      "pilihan": [
+        "Wudhu",
+        "Mandi",
+        "Tayamum",
+        "Tidak perlu"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Suci dari hadas besar memerlukan mandi wajib, bukan wudhu saja."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Sutrah dalam shalat berfungsi untuk?",
+      "pilihan": [
+        "Menghambat orang lewat",
+        "Tempat sujud",
+        "Menempelkan tangan",
+        "Menempelkan kaki"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Sutrah berfungsi untuk menghalangi orang yang lewat di depan shalat."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Hendaknya tidak melewati orang yang?",
+      "pilihan": [
+        "Duduk",
+        "Berdiri",
+        "Bershalat",
+        "Tidur"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Haram melewati orang yang sedang bershalat di antara dia dan sutrahnya."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Khusyu' dalam shalat artinya?",
+      "pilihan": [
+        "Berdiri tegak",
+        "Keheningan dan kerendahan hati",
+        "Membaca cepat",
+        "Mengangkat suara"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Khusyu' adalah keheningan dan kerendahan hati saat berhadapan dengan Allah dalam shalat."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Yang merusak khusyu' adalah?",
+      "pilihan": [
+        "Memusatkan hati",
+        "Berpikir hal duniawi",
+        "Mengingat Allah",
+        "Membaca Al-Quran"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Berpikir tentang hal-hal duniawi saat shalat merusak khusyu'."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Masjid yang paling utama adalah?",
+      "pilihan": [
+        "Masjid Nabawi",
+        "Masjidil Haram",
+        "Masjidil Aqsha",
+        "Masjid biasa"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Masjidil Haram di Mekkah adalah masjid paling utama, shalat di sana 100.000 kali lipat."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Shalat di Masjid Nabawi pahalanya?",
+      "pilihan": [
+        "10x lipat",
+        "1000x lipat",
+        "25.000x lipat",
+        "100.000x lipat"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Shalat di Masjid Nabawi pahalanya 25.000 kali lipat dibanding masjid lain."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Takbiratul ihram adalah?",
+      "pilihan": [
+        "Awal shalat",
+        "Akhir shalat",
+        "Sujud",
+        "Ruku'"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Takbiratul ihram adalah takbir pertama yang memulai shalat."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Letak tangan saat berdiri dalam shalat?",
+      "pilihan": [
+        "Kanan di atas kiri",
+        "Kiri di atas kanan",
+        "Di pinggang",
+        "Di dada"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Tangan kanan diletakkan di atas tangan kiri di atas dada saat berdiri dalam shalat."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Sujud sahwi dilakukan karena?",
+      "pilihan": [
+        "Lupa menambah atau mengurangi",
+        "Sengaja menambah",
+        "Sakit",
+        "Lapar"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Sujud sahwi dilakukan karena lupa menambah, mengurangi, atau meragukan shalat."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Sujud sahwi dilakukan?",
+      "pilihan": [
+        "Sebelum salam",
+        "Setelah salam",
+        "Di tengah rakaat",
+        "Saat ruku'"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Sujud sahwi bisa dilakukan sebelum atau setelah salam tergantung kondisi."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Shalat sunnah rawatib Zhuhur ada?",
+      "pilihan": [
+        "2 rakaat",
+        "4 rakaat",
+        "6 rakaat",
+        "8 rakaat"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Shalat sunnah rawatib Zhuhur ada 4 rakaat: 2 sebelum dan 2 setelah."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Shalat Tahajud dilakukan saat?",
+      "pilihan": [
+        "Siang hari",
+        "Tengah malam",
+        "Sebelum subuh",
+        "Setelah maghrib"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Shalat Tahajud dilakukan di tengah malam setelah bangun dari tidur."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Shalat berjama'ah pahalanya lebih utama dari sendirian?",
+      "pilihan": [
+        "10 derajat",
+        "20 derajat",
+        "27 derajat",
+        "50 derajat"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Shalat berjama'ah lebih utama 27 derajat dari shalat sendirian."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Imam shalat sebaiknya yang?",
+      "pilihan": [
+        "Paling kaya",
+        "Paling pandai Al-Quran",
+        "Paling muda",
+        "Paling tinggi"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Imam shalat sebaiknya yang paling pandai Al-Quran dan mengetahui sunnah."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Musafir boleh mengqashar shalat?",
+      "pilihan": [
+        "Tidak boleh",
+        "Boleh, 4 jadi 2",
+        "Boleh, 2 jadi 1",
+        "Boleh, 3 jadi 2"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Musafir boleh mengqashar shalat 4 rakaat menjadi 2 rakaat."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Jarak minimal untuk menjadi musafir?",
+      "pilihan": [
+        "1 km",
+        "8 farsakh (~48 km)",
+        "100 km",
+        "10 km"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Jarak minimal untuk menjadi musafir menurut jumhur ulama adalah 8 farsakh (sekitar 48 km)."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Shalat Jumat wajib bagi?",
+      "pilihan": [
+        "Semua muslim",
+        "Laki-laki muslim mukim",
+        "Perempuan",
+        "Anak kecil"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Shalat Jumat wajib 'ain bagi setiap laki-laki muslim yang mukim (bukan musafir)."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Khotbah Jumat ada?",
+      "pilihan": [
+        "1 kali",
+        "2 kali",
+        "3 kali",
+        "4 kali"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Khotbah Jumat ada 2 kali, sebelum shalat Jumat."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Shalat Khauf dilakukan saat?",
+      "pilihan": [
+        "Perang",
+        "Hujan",
+        "Pesta",
+        "Sakit"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Shalat Khauf adalah shalat yang dilakukan saat takut menghadapi musuh dalam perang."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Tujuan shalat khauf adalah?",
+      "pilihan": [
+        "Menjaga shalat saat perang",
+        "Menghormati musuh",
+        "Menunjukkan kekuatan",
+        "Beristirahat"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Tujuan shalat khauf adalah menjaga kewajiban shalat meskipun dalam keadaan perang."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Shalat Id dilakukan pada hari?",
+      "pilihan": [
+        "Senin-Kamis",
+        "Idul Fitri dan Idul Adha",
+        "Jumat",
+        "Setiap hari"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Shalat Id dilakukan pada hari Idul Fitri (1 Syawal) dan Idul Adha (10 Dzulhijjah)."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Shalat Id berapa rakaat?",
+      "pilihan": [
+        "1 rakaat",
+        "2 rakaat",
+        "3 rakaat",
+        "4 rakaat"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Shalat Id dilakukan 2 rakaat dengan tambahan takbir di setiap rakaat."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Shalat Gerhana dilakukan saat?",
+      "pilihan": [
+        "Gerhana matahari atau bulan",
+        "Hujan",
+        "Angin kencang",
+        "Gempa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Shalat Gerhana dilakukan saat terjadi gerhana matahari (kusuf) atau gerhana bulan (khusuf)."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Shalat Kusuf/Khusuf berapa rakaat?",
+      "pilihan": [
+        "1 rakaat",
+        "2 rakaat",
+        "3 rakaat",
+        "4 rakaat"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Shalat Gerhana dilakukan 2 rakaat dengan 2 kali ruku' di setiap rakaat."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Shalat Istisqa dilakukan untuk?",
+      "pilihan": [
+        "Meminta hujan",
+        "Meminta panas",
+        "Meminta angin",
+        "Meminta petir"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Shalat Istisqa adalah shalat untuk meminta hujan kepada Allah SWT."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Shalat Istisqa dilakukan saat?",
+      "pilihan": [
+        "Banjir",
+        "Kekeringan",
+        "Hujan lebat",
+        "Salju"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Shalat Istisqa dilakukan saat terjadi kekeringan yang parah."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Pakaian yang diperbolehkan adalah?",
+      "pilihan": [
+        "Suci dan menutup aurat",
+        "Kotor dan terbuka",
+        "Tipis tembus pandang",
+        "Sempit menempel"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Pakaian yang diperbolehkan adalah yang suci dan menutup aurat dengan sempurna."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Laki-laki dilarang memakai?",
+      "pilihan": [
+        "Kemeja",
+        "Celana",
+        "Emas dan sutra",
+        "Jaket"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Laki-laki dilarang memakai emas dan sutra murni berdasarkan hadits shahih."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Hukum menshalatkan jenazah adalah?",
+      "pilihan": [
+        "Wajib 'ain",
+        "Wajib kifayah",
+        "Sunnah",
+        "Makruh"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Menshalatkan jenazah hukumnya wajib kifayah, jika sebagian sudah shalat, yang lain terbebas."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Mandikan jenazah perempuan dilakukan oleh?",
+      "pilihan": [
+        "Laki-laki",
+        "Perempuan muslim",
+        "Siapa saja",
+        "Dilarang"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Mandikan jenazah perempuan dilakukan oleh perempuan muslim yang terpercaya."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Nisab zakat emas adalah?",
+      "pilihan": [
+        "50 dinar",
+        "85 gram",
+        "100 gram",
+        "7.5 gram"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Nisab zakat emas adalah 85 gram (setara 20 dinar) yang telah dimiliki selama 1 tahun."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Besarnya zakat maal adalah?",
+      "pilihan": [
+        "2.5%",
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Besarnya zakat maal (harta) adalah 2.5% dari total harta yang mencapai nisab."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Zakat Fitrah dikeluarkan saat?",
+      "pilihan": [
+        "Awal Ramadhan",
+        "Akhir Ramadhan sebelum Id",
+        "Setelah Id",
+        "Tengah Ramadhan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Zakat Fitrah dikeluarkan di akhir Ramadhan sebelum shalat Idul Fitri."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Besarnya Zakat Fitrah adalah?",
+      "pilihan": [
+        "1 kg beras",
+        "2.5 kg beras",
+        "5 kg beras",
+        "10 kg beras"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Besarnya Zakat Fitrah adalah sekitar 2.5 kg (1 sha') dari makanan pokok."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Shodaqoh berbeda dengan zakat karena?",
+      "pilihan": [
+        "Tidak ada nisab dan kadar tertentu",
+        "Wajib",
+        "Haram",
+        "Tidak ada pahalanya"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Shodaqoh tidak memiliki nisab dan kadar tertentu, bisa diberikan kapan saja dan berapa saja."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Shodaqoh yang paling utama adalah?",
+      "pilihan": [
+        "Saat sakit",
+        "Saat kemampuan masih ada",
+        "Saat kaya",
+        "Saat miskin"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Shodaqoh yang paling utama adalah saat kemampuan masih ada, sebelum datang sakit atau kematian."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Asnaf yang berhak menerima zakat ada?",
+      "pilihan": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Asnaf yang berhak menerima zakat ada 8: fakir, miskin, amil, muallaf, riqab, gharimin, fisabilillah, ibnus sabil."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Fakir adalah orang yang?",
+      "pilihan": [
+        "Kaya",
+        "Tidak memiliki sesuatu sama sekali",
+        "Memiliki sebagian kebutuhan",
+        "Bekerja"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Fakir adalah orang yang tidak memiliki sesuatu sama sekali untuk memenuhi kebutuhan hidup."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Puasa Ramadhan hukumnya?",
+      "pilihan": [
+        "Sunnah",
+        "Wajib",
+        "Makruh",
+        "Haram"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Puasa Ramadhan hukumnya wajib bagi setiap muslim yang baligh dan mampu."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Yang membatalkan puasa adalah?",
+      "pilihan": [
+        "Makan dan minum sengaja",
+        "Minum obat",
+        "Suntik",
+        "Gosok gigi"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Makan dan minum dengan sengaja di siang hari Ramadhan membatalkan puasa."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Puasa Arafah dilakukan pada tanggal?",
+      "pilihan": [
+        "8 Dzulhijjah",
+        "9 Dzulhijjah",
+        "10 Dzulhijjah",
+        "1 Syawal"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Puasa Arafah dilakukan pada tanggal 9 Dzulhijjah, hari para jamaah haji wukuf di Arafah."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Puasa yang haram dilakukan adalah?",
+      "pilihan": [
+        "Puasa Senin-Kamis",
+        "Puasa Hari Raya",
+        "Puasa Dawud",
+        "Puasa Arafah"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Puasa pada Hari Raya Idul Fitri dan Idul Adha adalah haram."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "I'tikaf dilakukan di?",
+      "pilihan": [
+        "Rumah",
+        "Masjid",
+        "Pasar",
+        "Kantor"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "I'tikaf dilakukan di masjid, berdiam diri untuk beribadah kepada Allah."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "I'tikaf yang paling utama dilakukan saat?",
+      "pilihan": [
+        "Awal Ramadhan",
+        "Tengah Ramadhan",
+        "10 hari terakhir Ramadhan",
+        "Setelah Ramadhan"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "I'tikaf yang paling utama adalah di 10 hari terakhir Ramadhan, sebagaimana yang dilakukan Rasulullah SAW."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Haji wajib bagi yang?",
+      "pilihan": [
+        "Mampu",
+        "Kaya saja",
+        "Miskin",
+        "Sakit"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Haji wajib bagi muslim yang mampu (istita'at), baik secara fisik maupun finansial."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Rukun haji yang pertama adalah?",
+      "pilihan": [
+        "Tawaf",
+        "Ihram",
+        "Sa'i",
+        "Wukuf"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Ihram (niat haji) adalah rukun haji yang pertama, dilakukan di miqat."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Miqat adalah?",
+      "pilihan": [
+        "Tempat niat haji",
+        "Tempat tawaf",
+        "Tempat sa'i",
+        "Tempat wukuf"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Miqat adalah batas tempat di mana jamaah haji memulai ihram untuk haji."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Miqat untuk penduduk Madinah adalah?",
+      "pilihan": [
+        "Dzul Hulaifah",
+        "Juhfah",
+        "Qarnul Manazil",
+        "Dzul Hulaifah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Miqat untuk penduduk Madinah adalah Dzul Hulaifah (kini disebut Abaar Ali)."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Ihram berarti?",
+      "pilihan": [
+        "Memakai pakaian ihram",
+        "Berniat melakukan ibadah haji/umrah",
+        "Tawaf",
+        "Sa'i"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Ihram berarti berniat melakukan ibadah haji atau umrah, disertai memakai pakaian ihram."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Pakaian ihram untuk laki-laki adalah?",
+      "pilihan": [
+        "Baju berkancing",
+        "Dua lembar kain tanpa jahitan",
+        "Kemeja",
+        "Celana"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Pakaian ihram untuk laki-laki adalah dua lembar kain putih tanpa jahitan."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Larangan ihram termasuk?",
+      "pilihan": [
+        "Memotong kuku",
+        "Memakai wangi-wangian",
+        "Menutup kepala bagi laki-laki",
+        "Semua benar"
+      ],
+      "jawabanBenar": 3,
+      "penjelasan": "Semua yang disebutkan adalah larangan ihram: memotong kuku, memakai wangi-wangian, dan menutup kepala."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Pelanggaran ihram tanpa sengaja dihukum dengan?",
+      "pilihan": [
+        "Denda",
+        "Tidak ada hukuman",
+        "Haji batal",
+        "Harus haji ulang"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Pelanggaran ihram tanpa sengaja dihukum dengan denda (dam) seperti menyembelih hewan."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Sifat haji yang paling afdhal adalah?",
+      "pilihan": [
+        "Tamattu'",
+        "Qiran",
+        "Ifrad",
+        "Semua sama"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Haji Tamattu' adalah yang paling afdhal menurut jumhur ulama, yaitu umrah dulu lalu haji."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Tawaf Ifadah dilakukan setelah?",
+      "pilihan": [
+        "Ihram",
+        "Wukuf di Arafah",
+        "Sa'i",
+        "Talq"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Tawaf Ifadah dilakukan setelah wukuf di Arafah dan melempar Jamarat Aqabah."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Haji Tamattu' adalah?",
+      "pilihan": [
+        "Umrah dulu lalu haji",
+        "Haji dan umrah bersamaan",
+        "Haji saja",
+        "Umrah saja"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Haji Tamattu' adalah melakukan umrah terlebih dahulu di bulan haji, kemudian melakukan haji."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Haji Qiran adalah?",
+      "pilihan": [
+        "Haji dan umrah digabung",
+        "Umrah dulu",
+        "Haji saja",
+        "Tidak ihram"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Haji Qiran adalah menggabungkan niat haji dan umrah dalam satu ihram."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Syarat jual beli yang utama adalah?",
+      "pilihan": [
+        "Barang halal",
+        "Barang mahal",
+        "Barang baru",
+        "Barang bekas"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Barang yang diperjualbelikan harus halal, bukan barang yang haram dikonsumsi."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Jual beli dengan riba hukumnya?",
+      "pilihan": [
+        "Halal",
+        "Sunnah",
+        "Haram",
+        "Mubah"
+      ],
+      "jawabanBenar": 2,
+      "penjelasan": "Jual beli dengan riba hukumnya haram, karena riba adalah dosa besar."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Khiyar artinya?",
+      "pilihan": [
+        "Hak memilih",
+        "Hak menjual",
+        "Hak membeli",
+        "Hak menolak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Khiyar adalah hak memilih untuk melanjutkan atau membatalkan transaksi jual beli."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Khiyar majlis berlaku selama?",
+      "pilihan": [
+        "1 hari",
+        "Selama masih di tempat transaksi",
+        "1 minggu",
+        "1 bulan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Khiyar majlis berlaku selama kedua belah pihak masih berada di tempat transaksi."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Riba artinya?",
+      "pilihan": [
+        "Berkurang",
+        "Bertambah/berlebihan",
+        "Sama",
+        "Hilang"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Riba artinya bertambah/berlebihan, yaitu penambahan dalam transaksi yang tidak sah."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Riba yang paling besar adalah?",
+      "pilihan": [
+        "Riba Qardh",
+        "Riba Nasiah",
+        "Riba Fadl",
+        "Riba Yadin"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Riba Nasiah (bunga pinjaman) adalah riba yang paling besar dan paling sering terjadi."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Rukhsah artinya?",
+      "pilihan": [
+        "Kesulitan",
+        "Keringanan",
+        "Kewajiban",
+        "Larangan"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Rukhsah artinya keringanan yang diberikan Allah dalam syariat Islam."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Contoh rukhsah dalam Islam adalah?",
+      "pilihan": [
+        "Tayamum saat tidak ada air",
+        "Shalat 5 waktu",
+        "Puasa Ramadhan",
+        "Haji"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Tayamum saat tidak ada air adalah contoh rukhsah (keringanan) dalam Islam."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Gadai dalam Islam disebut?",
+      "pilihan": [
+        "Rahn",
+        "Qardh",
+        "Syirkah",
+        "Wakalah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Gadai dalam Islam disebut Rahn, yaitu menahan barang sebagai jaminan utang."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Barang yang bisa digadai harus?",
+      "pilihan": [
+        "Berharga dan bisa dijual",
+        "Tidak berharga",
+        "Haram",
+        "Rusak"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Barang yang bisa digadai harus memiliki nilai dan bisa dijual untuk melunasi utang."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Taflis artinya?",
+      "pilihan": [
+        "Bangkrut",
+        "Kaya",
+        "Miskin",
+        "Bekerja"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Taflis artinya bangkrut, yaitu harta seseorang habis sehingga tidak mampu membayar utang."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Hajr artinya?",
+      "pilihan": [
+        "Mengurung harta",
+        "Membebaskan",
+        "Menjual",
+        "Membeli"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hajr artinya mengurung harta seseorang yang bodoh atau pemboros agar hartanya tidak habis."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Perdamaian (Sulh) hukumnya?",
+      "pilihan": [
+        "Haram",
+        "Sunnah",
+        "Makruh",
+        "Wajib"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Perdamaian (Sulh) hukumnya sunnah, karena dapat menyelesaikan perselisihan dengan baik."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Perdamaian lebih baik dari?",
+      "pilihan": [
+        "Litigasi",
+        "Perang",
+        "Pencurian",
+        "Pemerkosaan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Perdamaian lebih baik dari litigasi (gugatan hukum) karena menjaga hubungan baik."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Memindahkan utang diperbolehkan jika?",
+      "pilihan": [
+        "Dengan persetujuan",
+        "Tanpa izin",
+        "Paksa",
+        "Tipu"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Memindahkan utang diperbolehkan jika dengan persetujuan dari semua pihak yang terlibat."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Utang yang tidak dibayar adalah?",
+      "pilihan": [
+        "Hak orang lain",
+        "Hak sendiri",
+        "Tidak masalah",
+        "Boleh ditunda"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Utang adalah hak orang lain yang wajib dibayar, menunda pembayaran tanpa alasan adalah dosa."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Syirkah artinya?",
+      "pilihan": [
+        "Kerjasama bisnis",
+        "Persaingan",
+        "Perang",
+        "Pencurian"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Syirkah artinya kerjasama bisnis, yaitu perjanjian kerjasama antara dua pihak atau lebih."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Wakalah artinya?",
+      "pilihan": [
+        "Mewakilkan",
+        "Mengerjakan sendiri",
+        "Menolak",
+        "Menerima"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Wakalah artinya mewakilkan, yaitu menyerahkan suatu urusan kepada orang lain."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Iqrar artinya?",
+      "pilihan": [
+        "Pengakuan",
+        "Penolakan",
+        "Persetujuan",
+        "Permintaan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Iqrar artinya pengakuan, yaitu mengakui suatu hak atau utang yang ada pada diri sendiri."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Iqrar yang sah harus dari orang yang?",
+      "pilihan": [
+        "Baligh dan berakal",
+        "Anak kecil",
+        "Gila",
+        "Pingsan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Iqrar yang sah harus dari orang yang baligh dan berakal sehat."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Ariyah artinya?",
+      "pilihan": [
+        "Pinjaman",
+        "Jual beli",
+        "Sewa",
+        "Hadiah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Ariyah artinya pinjaman, yaitu meminjamkan barang kepada orang lain."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Pinjaman harus dikembalikan?",
+      "pilihan": [
+        "Dalam kondisi sama",
+        "Rusak",
+        "Tidak perlu",
+        "Dijual"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Pinjaman harus dikembalikan dalam kondisi yang sama saat meminjam."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Gasab artinya?",
+      "pilihan": [
+        "Mengambil harta orang dengan paksa",
+        "Meminjam",
+        "Mewarisi",
+        "Mendapat hadiah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Gasab artinya mengambil harta orang lain dengan paksa tanpa hak, yang hukumnya haram."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Hukum gasab adalah?",
+      "pilihan": [
+        "Halal",
+        "Haram",
+        "Sunnah",
+        "Mubah"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hukum gasab adalah haram, karena mengambil hak orang lain tanpa izin."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Syufah artinya?",
+      "pilihan": [
+        "Hak beli lebih dulu",
+        "Hak jual lebih dulu",
+        "Hak sewa",
+        "Hak pinjam"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Syufah adalah hak beli lebih dulu bagi pemilik saham dalam properti bersama."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Syufah berlaku untuk?",
+      "pilihan": [
+        "Properti bersama",
+        "Barang pribadi",
+        "Hewan",
+        "Tanah sendiri"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Syufah berlaku untuk properti bersama, seperti tanah atau rumah yang dimiliki bersama."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Qiradh dalam bisnis adalah?",
+      "pilihan": [
+        "Investasi modal",
+        "Pinjaman riba",
+        "Pencurian",
+        "Penipuan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qiradh adalah investasi modal, di mana pemilik modal memberikan dana kepada pengusaha."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Bagi hasil dalam Qiradh ditentukan?",
+      "pilihan": [
+        "Sebelum kerja",
+        "Setelah kerja",
+        "Tidak ada",
+        "Sama rata"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bagi hasil dalam Qiradh ditentukan sebelum kerja dimulai, sebagai kesepakatan kedua pihak."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Musyaqoh artinya?",
+      "pilihan": [
+        "Kesulitan",
+        "Kemudahan",
+        "Kekayaan",
+        "Kemiskinan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Musyaqoh artinya kesulitan, dalam konteks hukum Islam berkaitan dengan keringanan."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Islam memberikan keringanan bagi yang?",
+      "pilihan": [
+        "Mengalami kesulitan",
+        "Kaya",
+        "Sombong",
+        "Mudah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Islam memberikan keringanan bagi yang mengalami kesulitan, sesuai prinsip 'la haraj'."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Tanah dalam Islam bisa?",
+      "pilihan": [
+        "Dimiliki dan diperdagangkan",
+        "Hanya milik negara",
+        "Tidak bisa dijual",
+        "Hanya untuk pertanian"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Tanah dalam Islam bisa dimiliki dan diperdagangkan, selama tidak merugikan orang lain."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Membeli tanah untuk pembangunan masjid adalah?",
+      "pilihan": [
+        "Sedekah jariyah",
+        "Pencurian",
+        "Riba",
+        "Haram"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Membeli tanah untuk pembangunan masjid adalah sedekah jariyah yang pahalanya terus mengalir."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Wakaf artinya?",
+      "pilihan": [
+        "Menahan harta untuk amal",
+        "Menjual harta",
+        "Meminjamkan",
+        "Meminjam"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Wakaf artinya menahan harta untuk digunakan dalam amal kebaikan, seperti masjid atau sekolah."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Wakaf yang paling utama adalah?",
+      "pilihan": [
+        "Tanah masjid",
+        "Mobil",
+        "Telepon",
+        "Komputer"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Wakaf tanah masjid adalah yang paling utama karena manfaatnya terus mengalir."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Hibah artinya?",
+      "pilihan": [
+        "Memberikan hadiah",
+        "Menjual",
+        "Meminjam",
+        "Menyewa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hibah artinya memberikan hadiah atau pemberian secara sukarela tanpa imbalan."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Hibah bisa ditarik kembali?",
+      "pilihan": [
+        "Tidak, kecuali dari anak",
+        "Ya, kapan saja",
+        "Tidak pernah",
+        "Hanya 1 hari"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hibah tidak bisa ditarik kembali, kecuali dalam kondisi tertentu seperti hibah dari orang tua kepada anak."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Barang temuan (Luqathah) hendaknya?",
+      "pilihan": [
+        "Disimpan dan diumumkan",
+        "Dipakai sendiri",
+        "Dibuang",
+        "Dijual"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Barang temuan hendaknya disimpan dan diumumkan selama 1 tahun untuk mencari pemiliknya."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Jika pemilik barang temuan tidak ditemukan setelah 1 tahun?",
+      "pilihan": [
+        "Bisa digunakan untuk amal",
+        "Dibuang",
+        "Dipakai sendiri",
+        "Dijual"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Jika pemilik tidak ditemukan setelah 1 tahun, barang bisa digunakan untuk amal kebaikan."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Faraidh artinya?",
+      "pilihan": [
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdata",
+        "Hukum tata negara"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Faraidh artinya hukum waris dalam Islam, yang mengatur pembagian harta warisan."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Anak laki-laki mendapat waris?",
+      "pilihan": [
+        "Dua kali lipat anak perempuan",
+        "Sama dengan perempuan",
+        "Tidak dapat",
+        "Setengah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Anak laki-laki mendapat waris dua kali lipat anak perempuan, sesuai firman Allah."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Wasiat hendaknya untuk?",
+      "pilihan": [
+        "Orang yang bukan ahli waris",
+        "Ahli waris",
+        "Siapa saja",
+        "Musuh"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Wasiat hendaknya untuk orang yang bukan ahli waris, karena ahli waris sudah mendapat bagian."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Batas wasiat adalah?",
+      "pilihan": [
+        "1/3 harta",
+        "Semua harta",
+        "Setengah harta",
+        "Tidak ada batas"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Batas wasiat adalah 1/3 dari total harta, agar tidak merugikan ahli waris."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Titipan (Amanah) harus?",
+      "pilihan": [
+        "Dikembalikan",
+        "Dipakai",
+        "Dijual",
+        "Dibuang"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Titipan (Amanah) harus dikembalikan kepada pemiliknya dalam kondisi yang sama."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Mengkhianati titipan adalah?",
+      "pilihan": [
+        "Dosa besar",
+        "Halal",
+        "Sunnah",
+        "Tidak masalah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Mengkhianati titipan adalah dosa besar, karena Allah memerintahkan untuk menyampaikan amanah."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Nikah dalam Islam hukumnya?",
+      "pilihan": [
+        "Sunnah",
+        "Wajib jika mampu",
+        "Haram",
+        "Makruh"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Nikah dalam Islam hukumnya sunnah, tapi wajib bagi yang takut jatuh ke maksiat."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Walimah nikah hukumnya?",
+      "pilihan": [
+        "Sunnah",
+        "Wajib",
+        "Haram",
+        "Makruh"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Walimah nikah hukumnya sunnah, sebagai syiar dan perayaan pernikahan."
+    },
+    {
+      "babId": "bab-67",
+      "pertanyaan": "Pergaulan suami istri hendaknya?",
+      "pilihan": [
+        "Dengan kasih sayang",
+        "Dengan kekerasan",
+        "Dengan dingin",
+        "Dengan marah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Pergaulan suami istri hendaknya dengan kasih sayang dan kelembutan, sebagaimana ajaran Islam."
+    },
+    {
+      "babId": "bab-67",
+      "pertanyaan": "Suami wajib memberikan?",
+      "pilihan": [
+        "Nafkah",
+        "Kekerasan",
+        "Kemarahan",
+        "Pengabaian"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Suami wajib memberikan nafkah (makan, pakaian, tempat tinggal) kepada istri."
+    },
+    {
+      "babId": "bab-68",
+      "pertanyaan": "Kafaah dalam nikah artinya?",
+      "pilihan": [
+        "Kesetaraan",
+        "Ketidaksetaraan",
+        "Kekayaan",
+        "Kemiskinan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Kafaah dalam nikah artinya kesetaraan, terutama dalam hal agama dan akhlak."
+    },
+    {
+      "babId": "bab-68",
+      "pertanyaan": "Kafaah yang paling penting adalah?",
+      "pilihan": [
+        "Agama",
+        "Harta",
+        "Kedudukan",
+        "Kecantikan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Kafaah yang paling penting adalah agama, karena agama adalah fondasi kehidupan."
+    },
+    {
+      "babId": "bab-69",
+      "pertanyaan": "Maskawin artinya?",
+      "pilihan": [
+        "Mahar",
+        "Nafkah",
+        "Wakaf",
+        "Zakat"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Maskawin artinya mahar, yaitu pemberian dari suami kepada istri sebagai hak istri."
+    },
+    {
+      "babId": "bab-69",
+      "pertanyaan": "Mahar minimal adalah?",
+      "pilihan": [
+        "Sesuai kesepakatan",
+        "1 gram emas",
+        "1 juta rupiah",
+        "Tidak ada batas"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Mahar minimal sesuai kesepakatan, bisa berupa apa saja yang bernilai."
+    },
+    {
+      "babId": "bab-70",
+      "pertanyaan": "Walimah nikah berfungsi untuk?",
+      "pilihan": [
+        "Menyiarkan pernikahan",
+        "Menunjukkan kekayaan",
+        "Membanggakan",
+        "Pamer"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Walimah nikah berfungsi untuk menyiarkan pernikahan kepada masyarakat."
+    },
+    {
+      "babId": "bab-70",
+      "pertanyaan": "Walimah sebaiknya dilakukan?",
+      "pilihan": [
+        "Sederhana",
+        "Mewah",
+        "Mahal",
+        "Pamer"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Walimah sebaiknya dilakukan secara sederhana, tanpa pemborosan."
+    },
+    {
+      "babId": "bab-71",
+      "pertanyaan": "Pembagian giliran istri harus?",
+      "pilihan": [
+        "Adil",
+        "Menyukai satu",
+        "Mengabaikan",
+        "Semena-mena"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Pembagian giliran istri harus adil, memberikan waktu yang sama untuk setiap istri."
+    },
+    {
+      "babId": "bab-71",
+      "pertanyaan": "Poligami diperbolehkan maksimal?",
+      "pilihan": [
+        "4 istri",
+        "10 istri",
+        "Tidak terbatas",
+        "2 istri"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Poligami diperbolehkan maksimal 4 istri, dengan syarat bisa berlaku adil."
+    },
+    {
+      "babId": "bab-72",
+      "pertanyaan": "Khulu' artinya?",
+      "pilihan": [
+        "Cerai dengan pemberian istri",
+        "Cerai dari suami",
+        "Nikah ulang",
+        "Ruju'"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Khulu' adalah cerai di mana istri memberikan sesuatu kepada suami untuk melepaskan ikatan nikah."
+    },
+    {
+      "babId": "bab-72",
+      "pertanyaan": "Khulu' dilakukan jika?",
+      "pilihan": [
+        "Istri tidak bisa bertahan",
+        "Suami ingin",
+        "Wajib",
+        "Tidak diperbolehkan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Khulu' dilakukan jika istri tidak bisa bertahan dalam pernikahan dan ingin bercerai."
+    },
+    {
+      "babId": "bab-73",
+      "pertanyaan": "Thalaq artinya?",
+      "pilihan": [
+        "Perceraian",
+        "Pernikahan",
+        "Ruju'",
+        "Khulu'"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Thalaq artinya perceraian, yaitu putusnya ikatan nikah atas inisiatif suami."
+    },
+    {
+      "babId": "bab-73",
+      "pertanyaan": "Thalaq Raj'i bisa diruju' dalam masa?",
+      "pilihan": [
+        "Iddah",
+        "1 tahun",
+        "2 tahun",
+        "Selamanya"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Thalaq Raj'i bisa diruju' (kembali) dalam masa iddah tanpa nikah baru."
+    },
+    {
+      "babId": "bab-74",
+      "pertanyaan": "Ruju' artinya?",
+      "pilihan": [
+        "Kembali ke istri",
+        "Perceraian",
+        "Nikah baru",
+        "Khulu'"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Ruju' artinya kembali ke istri setelah thalaq raj'i dalam masa iddah."
+    },
+    {
+      "babId": "bab-74",
+      "pertanyaan": "Ruju' diperbolehkan maksimal?",
+      "pilihan": [
+        "Selama iddah",
+        "1 tahun",
+        "2 kali",
+        "3 kali"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Ruju' diperbolehkan selama masa iddah istri, setelah itu harus nikah baru."
+    },
+    {
+      "babId": "bab-75",
+      "pertanyaan": "Ila' artinya?",
+      "pilihan": [
+        "Sumpah suami tidak berhubungan",
+        "Sumpah istri",
+        "Nikah",
+        "Cerai"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Ila' adalah sumpah suami untuk tidak berhubungan dengan istri selama lebih dari 4 bulan."
+    },
+    {
+      "babId": "bab-75",
+      "pertanyaan": "Jika suami tetap bersumpah Ila' lebih dari 4 bulan?",
+      "pilihan": [
+        "Hakim memutus",
+        "Tidak ada tindakan",
+        "Wajib ruju'",
+        "Tidak sah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Jika suami tetap bersumpah Ila' lebih dari 4 bulan, hakim berhak memutus pernikahan."
+    },
+    {
+      "babId": "bab-76",
+      "pertanyaan": "Sumpah Lian adalah?",
+      "pilihan": [
+        "Sumpah antara suami istri",
+        "Sumpah sendiri",
+        "Sumpah saksi",
+        "Sumpah hakim"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Sumpah Lian adalah sumpah antara suami dan istri yang saling menuduh zina."
+    },
+    {
+      "babId": "bab-76",
+      "pertanyaan": "Akibat Lian adalah?",
+      "pilihan": [
+        "Perceraian",
+        "Nikah",
+        "Ruju'",
+        "Tidak ada"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Akibat Lian adalah perceraian yang tidak bisa diruju' kembali."
+    },
+    {
+      "babId": "bab-77",
+      "pertanyaan": "Iddah perempuan yang dicerai adalah?",
+      "pilihan": [
+        "3 kali haid",
+        "4 bulan 10 hari",
+        "6 bulan",
+        "1 tahun"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Iddah perempuan yang dicerai adalah 3 kali haid (3 bulan)."
+    },
+    {
+      "babId": "bab-77",
+      "pertanyaan": "Iddah perempuan janda adalah?",
+      "pilihan": [
+        "4 bulan 10 hari",
+        "3 kali haid",
+        "6 bulan",
+        "1 tahun"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Iddah perempuan janda (suami meninggal) adalah 4 bulan 10 hari."
+    },
+    {
+      "babId": "bab-78",
+      "pertanyaan": "Penyusuan (Rada') membuat?",
+      "pilihan": [
+        "Haram nikah",
+        "Boleh nikah",
+        "Wajib nikah",
+        "Tidak ada efek"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Penyusuan (Rada') membuat haram nikah, karena terbentuknya hubungan mahram."
+    },
+    {
+      "babId": "bab-78",
+      "pertanyaan": "Bayi yang disusui maksimal berapa kali?",
+      "pilihan": [
+        "5 kali sebelum 2 tahun",
+        "10 kali",
+        "Tidak terbatas",
+        "1 kali"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bayi yang disusui maksimal 5 kali sebelum usia 2 tahun, maka terbentuk hubungan susuan."
+    },
+    {
+      "babId": "bab-79",
+      "pertanyaan": "Nafaqoh artinya?",
+      "pilihan": [
+        "Biaya hidup",
+        "Zakat",
+        "Wakaf",
+        "Hibah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Nafaqoh artinya biaya hidup, yaitu kewajiban suami memberikan nafkah kepada istri dan anak."
+    },
+    {
+      "babId": "bab-79",
+      "pertanyaan": "Nafaqoh mencakup?",
+      "pilihan": [
+        "Makan, pakaian, tempat tinggal",
+        "Hanya makan",
+        "Hanya pakaian",
+        "Hanya rumah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Nafaqoh mencakup makan, pakaian, tempat tinggal, dan biaya hidup lainnya."
+    },
+    {
+      "babId": "bab-80",
+      "pertanyaan": "Pidana dalam Islam disebut?",
+      "pilihan": [
+        "Hudud",
+        "Denda",
+        "Teguran",
+        "Pujian"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Pidana dalam Islam disebut Hudud, yaitu hukuman yang telah ditentukan Allah dan Rasul-Nya."
+    },
+    {
+      "babId": "bab-80",
+      "pertanyaan": "Tujuan hukuman dalam Islam adalah?",
+      "pilihan": [
+        "Mencegah kejahatan",
+        "Membalas",
+        "Menghukum",
+        "Menyiksa"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Tujuan hukuman dalam Islam adalah mencegah kejahatan dan menjaga ketertiban masyarakat."
+    },
+    {
+      "babId": "bab-81",
+      "pertanyaan": "Denda (Diyat) diberikan kepada?",
+      "pilihan": [
+        "Korban atau ahli waris",
+        "Pelaku",
+        "Hakim",
+        "Negara"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Denda (Diyat) diberikan kepada korban atau ahli waris korban sebagai ganti rugi."
+    },
+    {
+      "babId": "bab-81",
+      "pertanyaan": "Diyat untuk pembunuhan tidak sengaja?",
+      "pilihan": [
+        "Dibayar pelaku",
+        "Tidak perlu",
+        "Dihukum mati",
+        "Dipenjara"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Diyat untuk pembunuhan tidak sengaja dibayar oleh pelaku atau keluarganya."
+    },
+    {
+      "babId": "bab-82",
+      "pertanyaan": "Darah dalam Islam harus?",
+      "pilihan": [
+        "Dihormati",
+        "Dibuang",
+        "Dijual",
+        "Dipakai"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Darah dalam Islam harus dihormati, karena Allah mengharamkan membunuh tanpa hak."
+    },
+    {
+      "babId": "bab-82",
+      "pertanyaan": "Membunuh satu orang sama dengan?",
+      "pilihan": [
+        "Membunuh semua manusia",
+        "Membunuh satu keluarga",
+        "Tidak apa-apa",
+        "Sunnah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Membunuh satu orang tanpa hak sama dengan membunuh semua manusia, sesuai firman Allah."
+    },
+    {
+      "babId": "bab-83",
+      "pertanyaan": "Pemberontak (Murtad) adalah?",
+      "pilihan": [
+        "Keluar dari Islam",
+        "Masuk Islam",
+        "Berbuat baik",
+        "Berbuat jahat"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Pemberontak (Murtad) adalah orang yang keluar dari Islam setelah masuk Islam."
+    },
+    {
+      "babId": "bab-83",
+      "pertanyaan": "Hukum bagi pemberontak yang menolak?",
+      "pilihan": [
+        "Hukum sesuai syariat",
+        "Dimaafkan",
+        "Diberi hadiah",
+        "Tidak ada"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hukum bagi pemberontak yang menolak kembali ke Islam adalah sesuai syariat Islam."
+    },
+    {
+      "babId": "bab-84",
+      "pertanyaan": "Penjahat yang mengganggu jalan disebut?",
+      "pilihan": [
+        "Mufsid fil ardh",
+        "Mujahid",
+        "Muallaf",
+        "Mukmin"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Penjahat yang mengganggu jalan disebut Mufsid fil ardh (penyebar kerusakan di bumi)."
+    },
+    {
+      "babId": "bab-84",
+      "pertanyaan": "Hukum bagi penjahat yang mengganggu?",
+      "pilihan": [
+        "Dihukum sesuai syariat",
+        "Dimaafkan",
+        "Diberi hadiah",
+        "Tidak ada"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Penjahat yang mengganggu dihukum sesuai syariat untuk menjaga ketertiban masyarakat."
+    },
+    {
+      "babId": "bab-85",
+      "pertanyaan": "Hukuman pelaku zina yang menikah adalah?",
+      "pilihan": [
+        "Rajam",
+        "100 cambuk",
+        "50 cambuk",
+        "Dipenjara"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hukuman pelaku zina yang sudah menikah adalah rajam menurut jumhur ulama."
+    },
+    {
+      "babId": "bab-85",
+      "pertanyaan": "Hukuman pelaku zina yang belum menikah?",
+      "pilihan": [
+        "100 cambuk",
+        "Rajam",
+        "Dipenjara",
+        "Tidak ada"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hukuman pelaku zina yang belum menikah adalah 100 cambuk dan diasingkan 1 tahun."
+    },
+    {
+      "babId": "bab-86",
+      "pertanyaan": "Qadzaf artinya?",
+      "pilihan": [
+        "Menuduh zina tanpa bukti",
+        "Menuduh mencuri",
+        "Menuduh berbohong",
+        "Menuduh malas"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Qadzaf artinya menuduh zina tanpa membawa 4 saksi, yang hukumnya haram."
+    },
+    {
+      "babId": "bab-86",
+      "pertanyaan": "Hukum qadzaf adalah?",
+      "pilihan": [
+        "80 cambuk",
+        "100 cambuk",
+        "50 cambuk",
+        "Tidak ada"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hukum qadzaf adalah 80 cambuk, sebagai hukuman bagi yang menuduh zina tanpa bukti."
+    },
+    {
+      "babId": "bab-87",
+      "pertanyaan": "Hukum pencuri yang memenuhi syarat adalah?",
+      "pilihan": [
+        "Potong tangan",
+        "Dipenjara",
+        "Dihukum mati",
+        "Dilepas"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hukum pencuri yang memenuhi syarat (nisab) adalah potong tangan kanan sebagai hukuman hudud."
+    },
+    {
+      "babId": "bab-87",
+      "pertanyaan": "Nisab pencurian adalah?",
+      "pilihan": [
+        "1/4 dinar",
+        "1 dinar",
+        "10 dinar",
+        "Tidak ada batas"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Nisab pencurian adalah 1/4 dinar (sekitar 4.25 gram emas) atau setara."
+    },
+    {
+      "babId": "bab-88",
+      "pertanyaan": "Hukum peminum khamar adalah?",
+      "pilihan": [
+        "80 cambuk",
+        "40 cambuk",
+        "20 cambuk",
+        "100 cambuk"
+      ],
+      "jawabanBenar": 1,
+      "penjelasan": "Hukum peminum khamar adalah 40 cambuk, meskipun ia mabuk atau tidak."
+    },
+    {
+      "babId": "bab-88",
+      "pertanyaan": "Khamar artinya?",
+      "pilihan": [
+        "Minuman memabukkan",
+        "Air putih",
+        "Susu",
+        "Jus"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Khamar artinya minuman memabukkan, yang hukumnya haram diminum."
+    },
+    {
+      "babId": "bab-89",
+      "pertanyaan": "Takzir artinya?",
+      "pilihan": [
+        "Hukuman yang tidak ditentukan",
+        "Hukuman yang ditentukan",
+        "Hukuman mati",
+        "Hukuman penjara"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Takzir adalah hukuman yang tidak ditentukan jumlahnya, diserahkan kepada hakim."
+    },
+    {
+      "babId": "bab-89",
+      "pertanyaan": "Takzir diberikan untuk?",
+      "pilihan": [
+        "Pelanggaran yang tidak ada hududnya",
+        "Zina",
+        "Pencurian",
+        "Khamar"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Takzir diberikan untuk pelanggaran yang tidak ada hukuman hududnya."
+    },
+    {
+      "babId": "bab-90",
+      "pertanyaan": "Jihad artinya?",
+      "pilihan": [
+        "Berusaha sekuat tenaga",
+        "Perang",
+        "Damai",
+        "Menyerah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Jihad artinya berusaha sekuat tenaga di jalan Allah, bukan hanya perang."
+    },
+    {
+      "babId": "bab-90",
+      "pertanyaan": "Jihad yang paling utama adalah?",
+      "pilihan": [
+        "Jihad dengan harta dan jiwa",
+        "Jihad dengan lisan",
+        "Jihad dengan tangan",
+        "Jihad dengan hati"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Jihad yang paling utama adalah jihad dengan harta dan jiwa di jalan Allah."
+    },
+    {
+      "babId": "bab-91",
+      "pertanyaan": "Upeti (Jizyah) dibayar oleh?",
+      "pilihan": [
+        "Ahlul Kitab",
+        "Muslim",
+        "Anak kecil",
+        "Orang gila"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Upeti (Jizyah) dibayar oleh Ahlul Kitab (Kristen dan Yahudi) yang hidup di bawah pemerintahan Islam."
+    },
+    {
+      "babId": "bab-91",
+      "pertanyaan": "Gencatan senjata diperbolehkan?",
+      "pilihan": [
+        "Ya, jika bermanfaat",
+        "Tidak pernah",
+        "Selalu",
+        "Haram"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Gencatan senjata diperbolehkan jika bermanfaat bagi umat Islam."
+    },
+    {
+      "babId": "bab-92",
+      "pertanyaan": "Berlomba dalam hal kebaikan adalah?",
+      "pilihan": [
+        "Disunnahkan",
+        "Dilarang",
+        "Haram",
+        "Makruh"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Berlomba dalam hal kebaikan disunnahkan, karena mendorong semangat beramal."
+    },
+    {
+      "babId": "bab-92",
+      "pertanyaan": "Rasulullah SAW mengajarkan berlomba dalam?",
+      "pilihan": [
+        "Kebaikan",
+        "Keburukan",
+        "Kekayaan",
+        "Kekuasaan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Rasulullah SAW mengajarkan berlomba dalam kebaikan, bukan dalam kejahatan."
+    },
+    {
+      "babId": "bab-93",
+      "pertanyaan": "Makanan yang halal adalah?",
+      "pilihan": [
+        "Yang tidak diharamkan Allah",
+        "Semua makanan",
+        "Hanya daging",
+        "Hanya buah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Makanan yang halal adalah yang tidak diharamkan Allah, seperti yang disebutkan dalam Al-Quran."
+    },
+    {
+      "babId": "bab-93",
+      "pertanyaan": "Daging babi hukumnya?",
+      "pilihan": [
+        "Haram",
+        "Halal",
+        "Sunnah",
+        "Mubah"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Daging babi hukumnya haram, karena Allah mengharamkannya dalam Al-Quran."
+    },
+    {
+      "babId": "bab-94",
+      "pertanyaan": "Buruan yang halal adalah?",
+      "pilihan": [
+        "Yang diburu dengan nama Allah",
+        "Semua buruan",
+        "Yang dibunuh tanpa nama Allah",
+        "Yang sakit"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Buruan yang halal adalah yang diburu dengan menyebut nama Allah."
+    },
+    {
+      "babId": "bab-94",
+      "pertanyaan": "Anjing pemburu yang halal makan buruannya?",
+      "pilihan": [
+        "Anjing yang terlatih",
+        "Semua anjing",
+        "Tidak ada",
+        "Kucing"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Buruan anjing yang terlatih dan menyebut nama Allah saat melepas, halal dimakan."
+    },
+    {
+      "babId": "bab-95",
+      "pertanyaan": "Kurban disembelih pada hari?",
+      "pilihan": [
+        "10 Dzulhijjah",
+        "1 Syawal",
+        "1 Ramadhan",
+        "1 Muharram"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Kurban disembelih pada hari 10 Dzulhijjah dan hari-hari Tasyriq (11, 12, 13 Dzulhijjah)."
+    },
+    {
+      "babId": "bab-95",
+      "pertanyaan": "Kurban hukumnya?",
+      "pilihan": [
+        "Sunnah Muakkad",
+        "Wajib",
+        "Haram",
+        "Makruh"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Kurban hukumnya sunnah muakkad menurut jumhur ulama, wajib menurut Hanafiyah."
+    },
+    {
+      "babId": "bab-96",
+      "pertanyaan": "Aqiqoh dilakukan saat?",
+      "pilihan": [
+        "Bayi lahir",
+        "Bayi besar",
+        "Bayi menikah",
+        "Bayi meninggal"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Aqiqoh dilakukan saat bayi lahir, pada hari ke-7 setelah kelahiran."
+    },
+    {
+      "babId": "bab-96",
+      "pertanyaan": "Aqiqoh untuk bayi laki-laki?",
+      "pilihan": [
+        "2 ekor kambing",
+        "1 ekor kambing",
+        "1 ekor sapi",
+        "Tidak ada"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Aqiqoh untuk bayi laki-laki adalah 2 ekor kambing, untuk perempuan 1 ekor kambing."
+    },
+    {
+      "babId": "bab-97",
+      "pertanyaan": "Sumpah yang sah harus?",
+      "pilihan": [
+        "Dengan nama Allah",
+        "Tanpa nama",
+        "Dengan nama orang",
+        "Dengan nama benda"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Sumpah yang sah harus dengan menyebut nama Allah."
+    },
+    {
+      "babId": "bab-97",
+      "pertanyaan": "Nazar kepada Allah hukumnya?",
+      "pilihan": [
+        "Wajib dilaksanakan",
+        "Tidak perlu",
+        "Haram",
+        "Makruh"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Nazar kepada Allah yang baik wajib dilaksanakan."
+    },
+    {
+      "babId": "bab-98",
+      "pertanyaan": "Memutuskan perkara harus berdasarkan?",
+      "pilihan": [
+        "Al-Quran dan Sunnah",
+        "Hanya akal",
+        "Hanya pendapat",
+        "Hanya hukum negara"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Memutuskan perkara harus berdasarkan Al-Quran dan Sunnah, bukan hanya akal."
+    },
+    {
+      "babId": "bab-98",
+      "pertanyaan": "Hakim yang adil harus?",
+      "pilihan": [
+        "Berilmu dan jujur",
+        "Kaya",
+        "Muda",
+        "Tinggi"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Hakim yang adil harus berilmu dan jujur, agar putusannya adil."
+    },
+    {
+      "babId": "bab-99",
+      "pertanyaan": "Saksi yang sah harus?",
+      "pilihan": [
+        "Muslim, baligh, adil",
+        "Siapa saja",
+        "Anak kecil",
+        "Orang gila"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Saksi yang sah harus muslim, baligh, dan adil (berakhlak baik)."
+    },
+    {
+      "babId": "bab-99",
+      "pertanyaan": "Jumlah saksi untuk tuduhan zina?",
+      "pilihan": [
+        "4 saksi",
+        "2 saksi",
+        "1 saksi",
+        "3 saksi"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Jumlah saksi untuk tuduhan zina adalah 4 saksi yang adil."
+    },
+    {
+      "babId": "bab-100",
+      "pertanyaan": "Dakwah dalam Islam harus dengan?",
+      "pilihan": [
+        "Hikmah dan nasihat baik",
+        "Kekerasan",
+        "Paksaan",
+        "Tipu daya"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Dakwah dalam Islam harus dengan hikmah dan nasihat yang baik, sesuai firman Allah."
+    },
+    {
+      "babId": "bab-100",
+      "pertanyaan": "Bukti dalam Islam harus?",
+      "pilihan": [
+        "Saksi atau iqrar",
+        "Dugaan",
+        "Kira-kira",
+        "Perkiraan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bukti dalam Islam harus berupa saksi yang adil atau iqrar (pengakuan)."
+    },
+    {
+      "babId": "bab-101",
+      "pertanyaan": "Memerdekakan budak adalah?",
+      "pilihan": [
+        "Amal saleh",
+        "Dosa",
+        "Tidak ada pahala",
+        "Haram"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Memerdekakan budak adalah amal saleh yang sangat utama dalam Islam."
+    },
+    {
+      "babId": "bab-101",
+      "pertanyaan": "Budak yang memerdekakan diri melalui?",
+      "pilihan": [
+        "Mukatabah",
+        "Pencurian",
+        "Pembunuhan",
+        "Kebohongan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Mukatabah adalah perjanjian antara tuan dan budak untuk memerdekakan diri dengan membayar."
+    },
+    {
+      "babId": "bab-101",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-101 Bulughul Maram?",
+      "pilihan": [
+        "Bab ke-101 berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-101 Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-101",
+      "pertanyaan": "Bulughul Maram ditulis oleh?",
+      "pilihan": [
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    },
+    {
+      "babId": "bab-102",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-102 Bulughul Maram?",
+      "pilihan": [
+        "Bab ke-102 berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-102 Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-102",
+      "pertanyaan": "Bulughul Maram ditulis oleh?",
+      "pilihan": [
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    },
+    {
+      "babId": "bab-103",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-103 Bulughul Maram?",
+      "pilihan": [
+        "Bab ke-103 berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-103 Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-103",
+      "pertanyaan": "Bulughul Maram ditulis oleh?",
+      "pilihan": [
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    },
+    {
+      "babId": "bab-104",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-104 Bulughul Maram?",
+      "pilihan": [
+        "Bab ke-104 berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-104 Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-104",
+      "pertanyaan": "Bulughul Maram ditulis oleh?",
+      "pilihan": [
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    },
+    {
+      "babId": "bab-105",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-105 Bulughul Maram?",
+      "pilihan": [
+        "Bab ke-105 berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-105 Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-105",
+      "pertanyaan": "Bulughul Maram ditulis oleh?",
+      "pilihan": [
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    },
+    {
+      "babId": "bab-106",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-106 Bulughul Maram?",
+      "pilihan": [
+        "Bab ke-106 berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-106 Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-106",
+      "pertanyaan": "Bulughul Maram ditulis oleh?",
+      "pilihan": [
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    },
+    {
+      "babId": "bab-107",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-107 Bulughul Maram?",
+      "pilihan": [
+        "Bab ke-107 berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-107 Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-107",
+      "pertanyaan": "Bulughul Maram ditulis oleh?",
+      "pilihan": [
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    },
+    {
+      "babId": "bab-107",
+      "pertanyaan": "Apa yang dibahas dalam bab terakhir Bulughul Maram?",
+      "pilihan": [
+        "Bab terakhir berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab terakhir Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-107",
+      "pertanyaan": "Bulughul Maram memiliki berapa bab?",
+      "pilihan": [
+        "107 bab",
+        "100 bab",
+        "50 bab",
+        "200 bab"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram memiliki 107 bab yang membahas berbagai aspek hukum Islam."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-14 Bulughul Maram?",
+      "pilihan": [
+        "Bab ke-14 berisi hadits tentang hukum Islam",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-14 Bulughul Maram berisi hadits-hadits tentang hukum Islam."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Bulughul Maram ditulis oleh?",
+      "pilihan": [
+        "Ibnu Hajar Al-Asqalani",
+        "Imam Nawawi",
+        "Imam al-Ghazali",
+        "Imam Syafi'i"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bulughul Maram ditulis oleh Imam Ibnu Hajar Al-Asqalani (w. 852 H)."
+    }
+  ]
+}

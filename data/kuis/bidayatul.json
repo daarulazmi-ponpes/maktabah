@@ -1,0 +1,258 @@
+{
+  "kitab": "Bidayatul Hidayah",
+  "slug": "bidayatul",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Kitab Bidayatul Hidayah ditulis oleh?",
+      "pilihan": ["Imam Nawawi", "Imam al-Ghazali", "Imam Syafi'i", "Imam Bukhari"],
+      "jawabanBenar": 1,
+      "penjelasan": "Kitab Bidayatul Hidayah ditulis oleh Imam al-Ghazali sebagai panduan praktis dalam beragama."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Bidayatul Hidayah artinya?",
+      "pilihan": ["Awal Ketaatan", "Awal Petunjuk", "Awal Kebahagiaan", "Awal Ilmu"],
+      "jawabanBenar": 1,
+      "penjelasan": "Bidayatul Hidayah artinya 'Awal Petunjuk', yaitu kitab yang menjadi awal petunjuk bagi seorang muslim dalam menjalani kehidupan."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Menasehati diri sendiri termasuk bagian dari?",
+      "pilihan": ["Muhasabah", "Munajat", "Mujahadah", "Muraqabah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Menasehati diri sendiri termasuk muhasabah, yaitu introspeksi diri untuk memperbaiki amal dan perilaku."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Seorang muslim hendaknya menasehati diri dengan?",
+      "pilihan": ["Mengabaikan dosa", "Selalu mengingat Allah", "Menyalahkan orang lain", "Berpura-pura saleh"],
+      "jawabanBenar": 1,
+      "penjelasan": "Seorang muslim hendaknya selalu mengingat Allah dalam segala keadaan sebagai bentuk menasehati diri."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Pokok dasar Islam ada berapa?",
+      "pilihan": ["3", "4", "5", "6"],
+      "jawabanBenar": 2,
+      "penjelasan": "Pokok dasar Islam ada 5, yaitu syahadat, shalat, zakat, puasa, dan haji."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Rukun Islam yang pertama adalah?",
+      "pilihan": ["Shalat", "Syahadat", "Puasa", "Zakat"],
+      "jawabanBenar": 1,
+      "penjelasan": "Rukun Islam yang pertama adalah syahadat, yaitu mengucapkan dua kalimat syahadat."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Aqidah seorang mukmin mencakup iman kepada?",
+      "pilihan": ["Allah saja", "Allah, malaikat, kitab, rasul, hari akhir, qada dan qadar", "Rasul saja", "Kitab saja"],
+      "jawabanBenar": 1,
+      "penjelasan": "Aqidah seorang mukmin mencakup iman kepada Allah, malaikat, kitab, rasul, hari akhir, dan qada serta qadar."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Berapa jumlah rukun iman?",
+      "pilihan": ["4", "5", "6", "7"],
+      "jawabanBenar": 2,
+      "penjelasan": "Rukun iman ada 6: iman kepada Allah, malaikat, kitab, rasul, hari akhir, dan qada serta qadar."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Amalan ketaatan yang paling utama adalah?",
+      "pilihan": ["Berpuasa", "Bershadaqah", "Shalat tepat waktu", "Haji"],
+      "jawabanBenar": 2,
+      "penjelasan": "Shalat tepat waktu adalah amalan ketaatan yang paling utama dan pertama kali hisab pada hari kiamat."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Amalan yang paling dicintai Allah adalah?",
+      "pilihan": ["Yang paling banyak", "Yang paling konsisten", "Yang paling berat", "Yang paling mudah"],
+      "jawabanBenar": 1,
+      "penjelasan": "Amalan yang paling dicintai Allah adalah yang paling konsisten dilakukan, meskipun sedikit."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Adab sebelum tidur yang pertama adalah?",
+      "pilihan": ["Membaca Al-Quran", "Berwudhu", "Makan malam", "Berolahraga"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab sebelum tidur yang pertama adalah berwudhu, sebagaimana disebutkan dalam hadits."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Doa yang dibaca saat hendak tidur adalah?",
+      "pilihan": ["Subhanallah", "Bismika Allahumma amutu wa ahya", "Alhamdulillah", "La ilaha illallah"],
+      "jawabanBenar": 1,
+      "penjelasan": "Doa saat hendak tidur adalah 'Bismika Allahumma amutu wa ahya' (Dengan nama-Mu Ya Allah aku mati dan aku hidup)."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Adab shalat yang pertama adalah?",
+      "pilihan": ["Berwudhu", "Membaca Al-Quran", "Berdzikir", "Berdzikir"],
+      "jawabanBenar": 0,
+      "penjelasan": "Adab shalat yang pertama adalah berwudhu untuk memastikan bersuci dari hadas kecil."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Saat shalat, pandangan hendaknya tertuju ke?",
+      "pilihan": ["Ke atas", "Ke tempat sujud", "Ke kiri", "Ke kanan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Saat shalat, pandangan hendaknya tertuju ke tempat sujud untuk menjaga kekhusyukan."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Imam shalat hendaknya dipilih yang?",
+      "pilihan": ["Yang paling kaya", "Yang paling pandai Al-Quran dan adil", "Yang paling tua", "Yang paling muda"],
+      "jawabanBenar": 1,
+      "penjelasan": "Imam shalat hendaknya dipilih yang paling pandai Al-Quran dan adil, sebagaimana disebutkan dalam hadits."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Hukum menjadi imam shalat bagi yang tidak mampu adalah?",
+      "pilihan": ["Wajib", "Boleh jika tidak ada yang lebih mampu", "Haram", "Makruh"],
+      "jawabanBenar": 1,
+      "penjelasan": "Boleh menjadi imam jika tidak ada yang lebih mampu, namun sebaiknya memilih yang paling layak."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Shalat Jumat hukumnya?",
+      "pilihan": ["Sunnah", "Wajib 'ain bagi laki-laki muslim", "Wajib kifayah", "Mubah"],
+      "jawabanBenar": 1,
+      "penjelasan": "Shalat Jumat hukumnya wajib 'ain bagi setiap laki-laki muslim yang memenuhi syarat."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Adab sebelum shalat Jumat adalah?",
+      "pilihan": ["Tidak mandi", "Mandi Jumat, memakai wangi-wangian, dan datang awal", "Datang terlambat", "Tidak bersuci"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab sebelum shalat Jumat adalah mandi Jumat, memakai wangi-wangian, dan datang awal."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Menghindari maksiat termasuk bagian dari?",
+      "pilihan": ["Taqwa", "Riya'", "Sum'ah", "Takabur"],
+      "jawabanBenar": 0,
+      "penjelasan": "Menghindari maksiat termasuk bagian dari taqwa, yaitu menjaga diri dari hal-hal yang dilarang Allah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Dosa yang paling besar adalah?",
+      "pilihan": ["Kecil", "Syirik", "Pencurian", "Dusta"],
+      "jawabanBenar": 1,
+      "penjelasan": "Syirik adalah dosa yang paling besar, yaitu menyekutukan Allah SWT."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Maksiat hati termasuk?",
+      "pilihan": ["Riya'", "Zakat", "Shalat", "Puasa"],
+      "jawabanBenar": 0,
+      "penjelasan": "Riya' adalah maksiat hati, yaitu berbuat baik karena ingin dilihat orang lain, bukan karena Allah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Penyakit hati yang lain selain riya' adalah?",
+      "pilihan": ["Tawaduk", "Takabur", "Sabar", "Syukur"],
+      "jawabanBenar": 1,
+      "penjelasan": "Takabur (sombong) adalah penyakit hati yang lain selain riya'."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Adab bergaul dengan orang lain adalah?",
+      "pilihan": ["Sombong", "Tawaduk dan ramah", "Membenci", "Mengabaikan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab bergaul dengan orang lain adalah tawaduk (rendah hati) dan ramah."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Seorang muslim hendaknya bergaul dengan?",
+      "pilihan": ["Kekerasan", "Akhlak yang baik", "Kebohongan", "Kedengkian"],
+      "jawabanBenar": 1,
+      "penjelasan": "Seorang muslim hendaknya bergaul dengan akhlak yang baik kepada semua orang."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Adab seorang alim adalah?",
+      "pilihan": ["Menyembunyikan ilmu", "Menyebarkan ilmu dengan tawaduk", "Membanggakan ilmu", "Menjual ilmu"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab seorang alim adalah menyebarkan ilmu dengan tawaduk, bukan untuk dibanggakan."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Ilmu tanpa adab bagai?",
+      "pilihan": ["Emas", "Api yang membakar", "Air yang menyegarkan", "Bunga yang harum"],
+      "jawabanBenar": 1,
+      "penjelasan": "Ilmu tanpa adab bagai api yang membakar, karena bisa merusak pemiliknya dan orang lain."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Adab seorang murid kepada guru adalah?",
+      "pilihan": ["Membangkang", "Hormat dan patuh", "Mengabaikan", "Mengejek"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab seorang murid kepada guru adalah hormat dan patuh."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Murid hendaknya belajar dengan?",
+      "pilihan": ["Sombong", "Ikhlas dan tawaduk", "Riya'", "Takabur"],
+      "jawabanBenar": 1,
+      "penjelasan": "Murid hendaknya belajar dengan ikhlas dan tawaduk."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Bergaul dengan anak hendaknya dengan?",
+      "pilihan": ["Kekerasan", "Kasihan dan sabar", "Keengganan", "Kemarahan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Bergaul dengan anak hendaknya dengan kasih sayang dan sabar."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Anak perlu diajarkan?",
+      "pilihan": ["Maksiat", "Akhlak mulia dan ibadah", "Kebohongan", "Kedengkian"],
+      "jawabanBenar": 1,
+      "penjelasan": "Anak perlu diajarkan akhlak mulia dan ibadah sejak dini."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Bergaul dengan orang awam hendaknya dengan?",
+      "pilihan": ["Kebencian", "Sabar dan menasihati", "Pengabaian", "Kekerasan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Bergaul dengan orang awam hendaknya dengan sabar dan menasihati dengan baik."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Menasihati orang lain hendaknya dengan?",
+      "pilihan": ["Keras", "Halus dan bijaksana", "Mengejek", "Memarahi"],
+      "jawabanBenar": 1,
+      "penjelasan": "Menasihati orang lain hendaknya dengan halus dan bijaksana."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Bergaul dengan saudara hendaknya dengan?",
+      "pilihan": ["Silaturahmi", "Putus hubungan", "Dengki", "Benci"],
+      "jawabanBenar": 0,
+      "penjelasan": "Bergaul dengan saudara hendaknya dengan silaturahmi, menjaga hubungan baik."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Silaturahmi artinya?",
+      "pilihan": ["Memutus hubungan", "Menjalin hubungan baik", "Menghindari orang", "Bermusuhan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Silaturahmi artinya menjalin hubungan baik dengan keluarga dan saudara."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Bergaul dengan kenalan hendaknya dengan?",
+      "pilihan": ["Kebohongan", "Kejujuran dan sopan santun", "Kekerasan", "Kebencian"],
+      "jawabanBenar": 1,
+      "penjelasan": "Bergaul dengan kenalan hendaknya dengan kejujuran dan sopan santun."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Pilih teman yang baik termasuk?",
+      "pilihan": ["Wajib", "Sunnah", "Makruh", "Haram"],
+      "jawabanBenar": 0,
+      "penjelasan": "Pilih teman yang baik adalah wajib, karena teman yang baik akan mempengaruhi akhlak kita."
+    }
+  ]
+}

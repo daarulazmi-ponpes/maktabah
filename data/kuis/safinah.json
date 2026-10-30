@@ -1,0 +1,111 @@
+{
+  "kitab": "Safinah An-Najah",
+  "slug": "safinah",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Safinah An-Najah artinya?",
+      "pilihan": ["Kapal Keselamatan", "Kapal Kebahagiaan", "Kapal Ilmu", "Kapal Ketaatan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Safinah An-Najah artinya 'Kapal Keselamatan', yaitu kitab yang menjadi kapal keselamatan bagi pembaca dalam mengarungi kehidupan."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Kitab Safinah An-Najah membahas tentang?",
+      "pilihan": ["Hukum waris", "Adab-adab Islam dan akhlak mulia", "Hukum pidana", "Hukum perdagangan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Kitab Safinah An-Najah membahas tentang adab-adab Islam dan akhlak mulia yang perlu diketahui setiap muslim."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab seorang muslim terhadap Allah adalah?",
+      "pilihan": ["Mendurhakai", "Bersyukur dan taat", "Mengabaikan", "Membenci"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab seorang muslim terhadap Allah adalah bersyukur dan taat kepada-Nya dalam segala keadaan."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap Rasulullah SAW adalah?",
+      "pilihan": ["Mengejek", "Mencintai dan mengikuti sunnahnya", "Mengabaikan", "Membenci"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap Rasulullah SAW adalah mencintai dan mengikuti sunnahnya dalam kehidupan sehari-hari."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap Al-Quran adalah?",
+      "pilihan": ["Melempar", "Menghormati dan membacanya dengan tartil", "Mengabaikan", "Meremehkan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap Al-Quran adalah menghormati dan membacanya dengan tartil (perlahan dan jelas)."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap orang tua adalah?",
+      "pilihan": ["Membangkang", "Birrul walidain (berbakti)", "Mengabaikan", "Mengejek"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap orang tua adalah birrul walidain, yaitu berbakti kepada mereka dengan baik."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap tetangga adalah?",
+      "pilihan": ["Mengganggu", "Berbuat baik dan menghormati", "Membenci", "Mengabaikan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap tetangga adalah berbuat baik dan menghormati mereka."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap guru adalah?",
+      "pilihan": ["Membangkang", "Hormat dan patuh", "Mengabaikan", "Mengejek"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap guru adalah hormat dan patuh kepada mereka."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap teman adalah?",
+      "pilihan": ["Mengkhianati", "Setia dan saling membantu", "Membenci", "Mengabaikan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap teman adalah setia dan saling membantu dalam kebaikan."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap diri sendiri adalah?",
+      "pilihan": ["Merusak", "Menjaga kesehatan dan akhlak", "Mengabaikan", "Meremehkan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap diri sendiri adalah menjaga kesehatan dan akhlak agar tetap baik."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap hewan adalah?",
+      "pilihan": ["Menyiksa", "Berbuat baik dan tidak menyakiti", "Mengabaikan", "Membenci"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap hewan adalah berbuat baik dan tidak menyakiti mereka."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab terhadap lingkungan adalah?",
+      "pilihan": ["Merusak", "Menjaga kebersihan dan kelestarian", "Mengabaikan", "Mencemari"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab terhadap lingkungan adalah menjaga kebersihan dan kelestarian alam."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab makan menurut Islam adalah?",
+      "pilihan": ["Makan dengan tangan kiri", "Membaca bismillah dan makan dengan tangan kanan", "Makan sambil berdiri", "Makan berlebihan"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab makan menurut Islam adalah membaca bismillah dan makan dengan tangan kanan."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab tidur menurut Islam adalah?",
+      "pilihan": ["Tidur tanpa wudhu", "Berwudhu dan membaca doa", "Tidur terlambat", "Tidur tanpa doa"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab tidur menurut Islam adalah berwudhu dan membaca doa sebelum tidur."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Adab berbicara menurut Islam adalah?",
+      "pilihan": ["Berbohong", "Berbicara yang baik atau diam", "Mengumpat", "Mengghibah"],
+      "jawabanBenar": 1,
+      "penjelasan": "Adab berbicara menurut Islam adalah berbicara yang baik atau diam, sebagaimana disebutkan dalam hadits."
+    }
+  ]
+}

@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#123c62">
+  <title>Maktabah Daarul Azmi | Kuis Kitab</title>
+
+  <link rel="icon" href="/assets/icons/logoDA.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --green: #123c62;
+      --green-dark: #0d2b48;
+      --green-soft: #e9f1f8;
+      --gold: #d9ac55;
+      --ink: #263747;
+      --muted: #77838d;
+      --line: #e7ebef;
+      --paper: #f7f8f6;
+      --white: #fff;
+      --correct: #22c55e;
+      --wrong: #ef4444;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "DM Sans", Arial, sans-serif;
+      font-size: 14px;
+      line-height: 1.65;
+    }
+    a { text-decoration: none; color: inherit; }
+    button, input { font: inherit; }
+
+    /* HEADER */
+    .site-header {
+      position: sticky;
+      z-index: 20;
+      top: 0;
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.97);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(12px);
+    }
+    .header-inner {
+      display: flex;
+      width: min(1200px, calc(100% - 48px));
+      height: 64px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      margin: auto;
+    }
+    .brand { display: inline-flex; align-items: center; gap: 12px; }
+    .brand-logo { width: 38px; height: 38px; flex: 0 0 38px; object-fit: contain; }
+    .brand-copy { display: grid; line-height: 1.35; }
+    .brand-copy strong { font-size: 15px; font-weight: 700; }
+    .brand-copy > span { color: var(--muted); font-size: 9px; }
+
+    .header-actions { display: inline-flex; align-items: center; gap: 10px; }
+    .header-back {
+      display: inline-flex; align-items: center; gap: 6px;
+      color: var(--green); font-size: 11px; font-weight: 600;
+    }
+    .header-back:hover { color: var(--green-dark); }
+    .header-back span { color: var(--gold); font-size: 15px; }
+
+    /* MAIN */
+    .main-wrap {
+      max-width: 800px;
+      margin: 32px auto;
+      padding: 0 24px;
+    }
+
+    .page-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--green);
+      margin-bottom: 4px;
+    }
+    .page-subtitle {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 24px;
+    }
+
+    /* BAB SELECTOR */
+    .bab-selector {
+      display: grid;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+    .bab-select-btn {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      padding: 14px 18px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--white);
+      color: var(--ink);
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: left;
+    }
+    .bab-select-btn:hover {
+      border-color: var(--gold);
+      background: var(--green-soft);
+    }
+    .bab-select-btn.active {
+      border-color: var(--gold);
+      background: var(--green-soft);
+      box-shadow: 0 0 0 1px var(--gold);
+    }
+    .bab-select-btn .bab-info {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .bab-select-btn .bab-title {
+      font-weight: 600;
+      font-size: 13px;
+    }
+    .bab-select-btn .bab-meta {
+      font-size: 11px;
+      color: var(--muted);
+    }
+    .bab-select-btn .bab-score {
+      font-size: 11px;
+      color: var(--gold);
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    /* QUIZ AREA */
+    .quiz-container { min-height: 300px; }
+
+    .quiz-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 18px;
+      background: var(--green-soft);
+      border-radius: 10px;
+      margin-bottom: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--green);
+    }
+    .quiz-progress { color: var(--gold); }
+    .quiz-score { }
+
+    .quiz-question h3 {
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      line-height: 1.5;
+    }
+
+    .quiz-options {
+      display: grid;
+      gap: 10px;
+    }
+    .quiz-option {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      width: 100%;
+      padding: 14px 18px;
+      border: 2px solid var(--line);
+      border-radius: 10px;
+      background: var(--white);
+      color: var(--ink);
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: left;
+    }
+    .quiz-option:hover:not([disabled]) {
+      border-color: var(--gold);
+      background: var(--green-soft);
+    }
+    .quiz-option:focus {
+      outline: 2px solid var(--gold);
+      outline-offset: 2px;
+    }
+    .option-letter {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: var(--green-soft);
+      color: var(--green);
+      font-weight: 700;
+      font-size: 13px;
+      flex: 0 0 32px;
+    }
+    .quiz-option.correct {
+      border-color: var(--correct);
+      background: #f0fdf4;
+    }
+    .quiz-option.correct .option-letter {
+      background: var(--correct);
+      color: var(--white);
+    }
+    .quiz-option.wrong {
+      border-color: var(--wrong);
+      background: #fef2f2;
+    }
+    .quiz-option.wrong .option-letter {
+      background: var(--wrong);
+      color: var(--white);
+    }
+
+    /* FEEDBACK */
+    .quiz-feedback {
+      margin-top: 16px;
+      padding: 14px 18px;
+      border-radius: 10px;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+    .quiz-feedback.correct {
+      background: #f0fdf4;
+      border: 1px solid #bbf7d0;
+      color: #166534;
+    }
+    .quiz-feedback.wrong {
+      background: #fef2f2;
+      border: 1px solid #fecaca;
+      color: #991b1b;
+    }
+
+    /* BUTTONS */
+    .quiz-actions {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 10px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-primary {
+      background: var(--green);
+      color: var(--white);
+    }
+    .btn-primary:hover { background: var(--green-dark); }
+    .btn-gold {
+      background: var(--gold);
+      color: var(--white);
+    }
+    .btn-gold:hover { background: #c49a44; }
+    .btn-secondary {
+      background: var(--white);
+      color: var(--ink);
+      border: 1px solid var(--line);
+    }
+    .btn-secondary:hover { background: var(--paper); }
+
+    /* RESULT */
+    .quiz-result {
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .result-icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+    }
+    .quiz-result h2 {
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--green);
+      margin-bottom: 8px;
+    }
+    .result-score {
+      font-size: 48px;
+      font-weight: 700;
+      color: var(--gold);
+      margin: 16px 0;
+    }
+    .quiz-result p {
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 8px;
+    }
+
+    /* EMPTY STATE */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+    .empty-icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+    }
+    .empty-state h3 {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 8px;
+    }
+    .empty-state p {
+      font-size: 13px;
+    }
+
+    /* LOADING */
+    .loading-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+    .loading-spinner {
+      width: 36px;
+      height: 36px;
+      border: 3px solid var(--line);
+      border-top-color: var(--gold);
+      border-radius: 50%;
+      margin: 0 auto 16px;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ERROR */
+    .error-state {
+      text-align: center;
+      padding: 60px 20px;
+    }
+    .error-state h3 {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--wrong);
+      margin-bottom: 8px;
+    }
+    .error-state p {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+
+    /* SEARCH */
+    .search-box {
+      position: relative;
+      margin-bottom: 16px;
+    }
+    .search-box input {
+      width: 100%;
+      padding: 10px 14px 10px 38px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      font-size: 13px;
+      background: var(--white);
+      color: var(--ink);
+    }
+    .search-box input:focus {
+      outline: none;
+      border-color: var(--gold);
+    }
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    /* FOOTER */
+    .site-footer {
+      text-align: center;
+      padding: 32px 24px;
+      color: var(--muted);
+      font-size: 12px;
+      border-top: 1px solid var(--line);
+      margin-top: 48px;
+    }
+    .site-footer a { color: var(--gold); }
+    .site-footer a:hover { text-decoration: underline; }
+
+    /* RESPONSIVE */
+    @media (max-width: 640px) {
+      .main-wrap { margin: 20px auto; padding: 0 16px; }
+      .page-title { font-size: 18px; }
+      .quiz-question h3 { font-size: 15px; }
+      .quiz-option { padding: 12px 14px; font-size: 13px; }
+      .option-letter { width: 28px; height: 28px; font-size: 12px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="/" aria-label="Maktabah Daarul Azmi, beranda">
+      <img class="brand-logo" src="/assets/icons/logoDA.png" alt="">
+      <span class="brand-copy">
+        <strong>Maktabah</strong>
+        <span>Pondok Pesantren Daarul Azmi</span>
+      </span>
+    </a>
+    <div class="header-actions">
+      <a class="header-back" id="backToKitab" href="#">
+        <span aria-hidden="true">←</span> Baca Kitab
+      </a>
+      <a class="header-back" href="/">
+        Katalog
+      </a>
+    </div>
+  </div>
+</header>
+
+<!-- MAIN -->
+<main class="main-wrap">
+  <h1 class="page-title">📝 Tantangan Kuis</h1>
+  <p class="page-subtitle">Pilih Bab, lalu jawab pertanyaan untuk menguji pemahamanmu.</p>
+
+  <div id="kuisStatus" class="loading-state">
+    <div class="loading-spinner"></div>
+    <p>Memuat data kuis...</p>
+  </div>
+
+  <div id="babSelector" class="bab-selector" style="display:none;"></div>
+  <div id="quizArea" class="quiz-container"></div>
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <p>Maktabah — Pondok Pesantren Daarul Azmi</p>
+  <p><a href="https://daarulazmi.ponpes.id" target="_blank" rel="noopener">daarulazmi.ponpes.id</a></p>
+</footer>
+
+<script>
+(function () {
+  const babSelectorEl = document.getElementById("babSelector");
+  const quizAreaEl = document.getElementById("quizArea");
+  const kuisStatusEl = document.getElementById("kuisStatus");
+  const backToKitabEl = document.getElementById("backToKitab");
+
+  let babData = [];
+  let kuisData = [];
+  let currentBabId = "";
+  let currentQuestions = [];
+  let currentQuestionIndex = 0;
+  let correctCount = 0;
+  let answered = false;
+  let audioContext;
+
+  const letters = ["A", "B", "C", "D", "E"];
+
+  // Extract slug from URL: /kuis/{slug} or /kuis/{slug}/{bab}
+  const pathParts = window.location.pathname.split("/").filter(Boolean);
+  const slug = pathParts[1] || "";
+
+  // Update back link
+  if (slug) {
+    backToKitabEl.href = `/kitab/${slug}`;
+  }
+
+  function playAnswerSound(isCorrect) {
+    const AudioContext = window.AudioContext || window.webkitAudioContext;
+    if (!AudioContext) return;
+    audioContext = audioContext || new AudioContext();
+    if (audioContext.state === "suspended") audioContext.resume();
+    const notes = isCorrect ? [660, 880] : [330, 220];
+    notes.forEach((frequency, index) => {
+      const startTime = audioContext.currentTime + index * 0.14;
+      const oscillator = audioContext.createOscillator();
+      const gain = audioContext.createGain();
+      oscillator.type = "sine";
+      oscillator.frequency.value = frequency;
+      gain.gain.setValueAtTime(0.0001, startTime);
+      gain.gain.exponentialRampToAtTime(0.18, startTime + 0.02);
+      gain.gain.exponentialRampToAtTime(0.0001, startTime + 0.13);
+      oscillator.connect(gain);
+      gain.connect(audioContext.destination);
+      oscillator.start(startTime);
+      oscillator.stop(startTime + 0.14);
+    });
+  }
+
+  function getKuisScore(babId) {
+    try {
+      const stored = localStorage.getItem("maktabah_kuis_" + slug);
+      if (stored) {
+        const scores = JSON.parse(stored);
+        return scores[babId] || 0;
+      }
+    } catch (e) {}
+    return 0;
+  }
+
+  function saveKuisScore(babId, score) {
+    try {
+      const stored = localStorage.getItem("maktabah_kuis_" + slug);
+      const scores = stored ? JSON.parse(stored) : {};
+      scores[babId] = score;
+      localStorage.setItem("maktabah_kuis_" + slug, JSON.stringify(scores));
+    } catch (e) {}
+  }
+
+  // Load quiz data
+  async function loadData() {
+    if (!slug) {
+      kuisStatusEl.innerHTML = `
+        <div class="error-state">
+          <h3>Kitab tidak dipilih</h3>
+          <p>Pilih kitab dari katalog terlebih dahulu.</p>
+          <a href="/"><button class="btn btn-primary">Kembali ke Katalog</button></a>
+        </div>`;
+      return;
+    }
+
+    try {
+      if (!location.hostname || location.protocol === "file:") {
+        throw new TypeError("Server tidak terdeteksi");
+      }
+
+      const response = await fetch(`/api/kitab/${slug}/kuis`);
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      const payload = await response.json();
+      babData = payload.bab || [];
+      kuisData = payload.kuis || [];
+
+      if (babData.length === 0) {
+        kuisStatusEl.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">📝</div>
+            <h3>Data kuis belum tersedia</h3>
+            <p>Soal kuis untuk kitab ini belum tersedia. Silakan baca kitab terlebih dahulu.</p>
+            <a href="/kitab/${slug}"><button class="btn btn-primary" style="margin-top:16px;">Baca Kitab</button></a>
+          </div>`;
+        return;
+      }
+
+      kuisStatusEl.style.display = "none";
+      babSelectorEl.style.display = "grid";
+      renderBabSelector();
+
+      // Check URL for specific bab
+      const babNomor = pathParts[2];
+      if (babNomor) {
+        const babId = "bab-" + babNomor;
+        const bab = babData.find(b => b.id === babId || b.nomor == babNomor);
+        if (bab) startQuiz(bab.id);
+      }
+    } catch (error) {
+      let message;
+      if (!location.hostname || location.protocol === "file:") {
+        message = "Server tidak berjalan. Jalankan &quot;npm start&quot; lalu buka http://localhost:3000.";
+      } else if (error instanceof TypeError) {
+        message = "Tidak dapat menghubungi server.";
+      } else {
+        message = `Gagal memuat data kuis: ${error.message}`;
+      }
+      kuisStatusEl.innerHTML = `
+        <div class="error-state">
+          <h3>Gagal memuat kuis</h3>
+          <p>${message}</p>
+          <a href="/"><button class="btn btn-primary">Kembali ke Katalog</button></a>
+        </div>`;
+    }
+  }
+
+  // Render bab selector
+  function renderBabSelector() {
+    const searchInput = document.createElement("div");
+    searchInput.className = "search-box";
+    searchInput.innerHTML = `
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input id="babSearch" type="search" placeholder="Cari bab..." aria-label="Cari bab" autocomplete="off">
+    `;
+    babSelectorEl.innerHTML = "";
+    babSelectorEl.appendChild(searchInput);
+
+    const listContainer = document.createElement("div");
+    listContainer.id = "babList";
+
+    const babWithQuestions = new Set(kuisData.map(q => q.babId));
+    let visibleCount = 0;
+    babData.forEach((bab) => {
+      const questionCount = kuisData.filter(q => q.babId === bab.id).length;
+      // Hanya tampilkan bab yang memiliki soal kuis
+      if (questionCount === 0) return;
+      visibleCount++;
+
+      const btn = document.createElement("button");
+      btn.className = "bab-select-btn";
+      btn.setAttribute("data-title", bab.judul || "");
+      btn.setAttribute("aria-label", `Kuis Bab ${bab.nomor}: ${bab.judul}`);
+
+      const existingScore = getKuisScore(bab.id);
+
+      btn.innerHTML = `
+        <div class="bab-info">
+          <span class="bab-title">Bab ${bab.nomor}: ${bab.judul}</span>
+          <span class="bab-meta">${questionCount} soal</span>
+        </div>
+        ${existingScore > 0 ? `<span class="bab-score">Skor: ${existingScore}%</span>` : ""}
+      `;
+
+      btn.addEventListener("click", () => startQuiz(bab.id));
+      listContainer.appendChild(btn);
+    });
+
+    // Jika tidak ada bab dengan soal sama sekali
+    if (visibleCount === 0) {
+      kuisStatusEl.style.display = "block";
+      kuisStatusEl.innerHTML = `
+        <div class="empty-state">
+          <div class="empty-icon">📝</div>
+          <h3>Soal kuis belum tersedia</h3>
+          <p>Soal kuis untuk kitab ini sedang dalam proses penyusunan. Silakan baca kitab terlebih dahulu.</p>
+          <a href="/kitab/${slug}"><button class="btn btn-primary" style="margin-top:16px;">Baca Kitab</button></a>
+        </div>`;
+    }
+    babSelectorEl.appendChild(listContainer);
+
+    // Search
+    document.getElementById("babSearch").addEventListener("input", (e) => {
+      const query = e.target.value.trim().toLowerCase();
+      const buttons = listContainer.querySelectorAll(".bab-select-btn");
+      buttons.forEach(btn => {
+        const title = btn.dataset.title || "";
+        btn.style.display = title.toLowerCase().includes(query) ? "" : "none";
+      });
+    });
+  }
+
+  // Start quiz
+  function startQuiz(babId) {
+    currentBabId = babId;
+    currentQuestions = kuisData.filter(q => q.babId === babId);
+    currentQuestionIndex = 0;
+    correctCount = 0;
+    answered = false;
+
+    if (currentQuestions.length === 0) {
+      quizAreaEl.innerHTML = `
+        <div class="empty-state">
+          <div class="empty-icon">📝</div>
+          <h3>Belum ada kuis</h3>
+          <p>Soal kuis untuk Bab ini belum tersedia.</p>
+        </div>`;
+      return;
+    }
+
+    // Highlight active bab button
+    document.querySelectorAll(".bab-select-btn").forEach(btn => {
+      const babTitle = btn.getAttribute("aria-label") || "";
+      const bab = babData.find(b => b.id === babId);
+      btn.classList.toggle("active", bab && babTitle.includes(bab.judul));
+    });
+
+    // Update URL
+    const bab = babData.find(b => b.id === babId);
+    if (bab) {
+      const newUrl = `/kuis/${slug}/${bab.nomor}`;
+      if (window.location.pathname !== newUrl) {
+        history.pushState({ bab: bab.nomor }, "", newUrl);
+      }
+    }
+
+    renderQuestion();
+  }
+
+  // Render question
+  function renderQuestion() {
+    const q = currentQuestions[currentQuestionIndex];
+    const total = currentQuestions.length;
+    const progress = `${currentQuestionIndex + 1} / ${total}`;
+    answered = false;
+
+    quizAreaEl.innerHTML = `
+      <div class="quiz-header">
+        <span class="quiz-progress">${progress}</span>
+        <span class="quiz-score">Benar: ${correctCount}</span>
+      </div>
+      <div class="quiz-question" role="region" aria-label="Pertanyaan ${currentQuestionIndex + 1}">
+        <h3>${q.pertanyaan}</h3>
+        <div class="quiz-options" role="radiogroup" aria-label="Pilihan jawaban">
+          ${q.pilihan.map((pilihan, i) => `
+            <button class="quiz-option" role="radio" aria-checked="false"
+                    data-index="${i}" aria-label="Pilihan ${letters[i]}: ${pilihan}">
+              <span class="option-letter">${letters[i]}</span>
+              <span>${pilihan}</span>
+            </button>
+          `).join("")}
+        </div>
+        <div id="quizFeedback"></div>
+      </div>
+    `;
+
+    quizAreaEl.querySelectorAll(".quiz-option").forEach(btn => {
+      btn.addEventListener("click", () => selectAnswer(parseInt(btn.dataset.index)));
+    });
+
+    quizAreaEl.querySelector(".quiz-options").addEventListener("keydown", (e) => {
+      const options = [...quizAreaEl.querySelectorAll(".quiz-option")];
+      const focused = document.activeElement;
+      const idx = options.indexOf(focused);
+      if (e.key === "ArrowDown" && idx < options.length - 1) {
+        e.preventDefault();
+        options[idx + 1].focus();
+      } else if (e.key === "ArrowUp" && idx > 0) {
+        e.preventDefault();
+        options[idx - 1].focus();
+      }
+    });
+
+    const firstOption = quizAreaEl.querySelector(".quiz-option");
+    if (firstOption) firstOption.focus();
+  }
+
+  // Select answer
+  function selectAnswer(selectedIndex) {
+    if (answered) return;
+    answered = true;
+
+    const q = currentQuestions[currentQuestionIndex];
+    const isCorrect = selectedIndex === q.jawabanBenar;
+    playAnswerSound(isCorrect);
+    const options = quizAreaEl.querySelectorAll(".quiz-option");
+    const feedbackEl = document.getElementById("quizFeedback");
+
+    if (isCorrect) correctCount++;
+
+    options.forEach((opt, i) => {
+      opt.disabled = true;
+      opt.style.cursor = "default";
+      if (i === q.jawabanBenar) {
+        opt.classList.add("correct");
+        opt.setAttribute("aria-checked", "true");
+      }
+      if (i === selectedIndex && !isCorrect) {
+        opt.classList.add("wrong");
+      }
+    });
+
+    const feedbackClass = isCorrect ? "correct" : "wrong";
+    const feedbackIcon = isCorrect ? "✓ Benar!" : "✗ Salah!";
+    feedbackEl.innerHTML = `
+      <div class="quiz-feedback ${feedbackClass}" role="alert">
+        <strong>${feedbackIcon}</strong> ${q.penjelasan}
+      </div>
+    `;
+
+    const isLast = currentQuestionIndex >= currentQuestions.length - 1;
+    const actionsDiv = document.createElement("div");
+    actionsDiv.className = "quiz-actions";
+    if (isLast) {
+      actionsDiv.innerHTML = `<button class="btn btn-gold" id="finishQuiz">Lihat Hasil →</button>`;
+    } else {
+      actionsDiv.innerHTML = `<button class="btn btn-primary" id="nextQuestion">Pertanyaan Berikutnya →</button>`;
+    }
+    feedbackEl.after(actionsDiv);
+
+    const btnId = isLast ? "finishQuiz" : "nextQuestion";
+    document.getElementById(btnId).addEventListener("click", () => {
+      if (isLast) {
+        showResults();
+      } else {
+        currentQuestionIndex++;
+        renderQuestion();
+      }
+    });
+  }
+
+  // Show results
+  function showResults() {
+    const actualScore = Math.round((correctCount / currentQuestions.length) * 100);
+    saveKuisScore(currentBabId, actualScore);
+
+    const icon = actualScore >= 80 ? "🏆" : actualScore >= 50 ? "👍" : "💪";
+    const message = actualScore >= 80
+      ? "Luar biasa! Pemahamanmu sangat baik!"
+      : actualScore >= 50
+      ? "Bagus! Terus tingkatkan belajarmu!"
+      : "Jangan menyerah! Coba lagi untuk meningkatkan skor.";
+
+    quizAreaEl.innerHTML = `
+      <div class="quiz-result" role="region" aria-label="Hasil kuis">
+        <div class="result-icon">${icon}</div>
+        <h2>Kuis Selesai!</h2>
+        <div class="result-score">${actualScore}%</div>
+        <p>${correctCount} dari ${currentQuestions.length} jawaban benar</p>
+        <p>${message}</p>
+        <div class="quiz-actions" style="margin-top:24px;">
+          <button class="btn btn-primary" id="retryQuiz">Coba Lagi</button>
+          <button class="btn btn-secondary" id="backSelector">Pilih Bab Lain</button>
+          <a href="/kitab/${slug}" class="btn btn-gold">Baca Kitab</a>
+        </div>
+      </div>
+    `;
+
+    document.getElementById("retryQuiz").addEventListener("click", () => {
+      startQuiz(currentBabId);
+    });
+    document.getElementById("backSelector").addEventListener("click", () => {
+      quizAreaEl.innerHTML = "";
+      document.querySelectorAll(".bab-select-btn").forEach(btn => btn.classList.remove("active"));
+    });
+  }
+
+  // Handle browser back/forward
+  window.addEventListener("popstate", (event) => {
+    const newPathParts = window.location.pathname.split("/").filter(Boolean);
+    const newSlug = newPathParts[1] || "";
+
+    if (newSlug && newSlug !== slug) {
+      window.location.reload();
+      return;
+    }
+
+    if (event.state && event.state.bab) {
+      const bab = babData.find(b => b.nomor == event.state.bab);
+      if (bab) startQuiz(bab.id);
+    } else if (newPathParts[2]) {
+      const bab = babData.find(b => b.nomor == newPathParts[2]);
+      if (bab) startQuiz(bab.id);
+    }
+  });
+
+  // Init
+  loadData();
+})();
+</script>
+
+</body>
+</html>

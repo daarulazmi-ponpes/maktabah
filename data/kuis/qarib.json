@@ -1,0 +1,258 @@
+{
+  "kitab": "Fathul Qorib",
+  "slug": "qarib",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Fathul Qorib artinya?",
+      "pilihan": ["Pembukaan yang Dekat", "Pembukaan yang Jauh", "Pembukaan yang Sulit", "Pembukaan yang Mudah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Fathul Qorib artinya 'Pembukaan yang Dekat', yaitu kitab yang membahas hukum fikih secara ringkas."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Kitab Fathul Qorib ditulis oleh?",
+      "pilihan": ["Imam al-Sanusi", "Imam Nawawi", "Imam Syafi'i", "Imam Bukhari"],
+      "jawabanBenar": 0,
+      "penjelasan": "Kitab Fathul Qorib ditulis oleh Imam al-Sanusi sebagai ringkasan hukum fikih."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Taharah artinya?",
+      "pilihan": ["Bersuci", "Bernajis", "Berwudhu", "Mandi"],
+      "jawabanBenar": 0,
+      "penjelasan": "Taharah artinya bersuci, yaitu membersihkan diri dari hadas dan najis."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Wudhu adalah?",
+      "pilihan": ["Bersuci dari hadas kecil", "Bersuci dari hadas besar", "Bersuci dari najis", "Bersuci dari darah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Wudhu adalah bersuci dari hadas kecil dengan mencuci anggota badan tertentu."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Shalat hukumnya?",
+      "pilihan": ["Wajib", "Sunnah", "Haram", "Makruh"],
+      "jawabanBenar": 0,
+      "penjelasan": "Shalat hukumnya wajib bagi setiap muslim yang baligh dan berakal."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Shalat fardhu ada berapa waktu?",
+      "pilihan": ["3", "4", "5", "6"],
+      "jawabanBenar": 2,
+      "penjelasan": "Shalat fardhu ada 5 waktu: Subuh, Dzuhur, Ashar, Maghrib, dan Isya."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Zakat hukumnya?",
+      "pilihan": ["Wajib", "Sunnah", "Haram", "Makruh"],
+      "jawabanBenar": 0,
+      "penjelasan": "Zakat hukumnya wajib bagi muslim yang memiliki harta mencapai nisab."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Nisab zakat emas adalah?",
+      "pilihan": ["75 gram", "50 gram", "100 gram", "200 gram"],
+      "jawabanBenar": 0,
+      "penjelasan": "Nisab zakat emas adalah 75 gram yang telah mencapai satu haul."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Puasa Ramadhan hukumnya?",
+      "pilihan": ["Wajib", "Sunnah", "Haram", "Makruh"],
+      "jawabanBenar": 0,
+      "penjelasan": "Puasa Ramadhan hukumnya wajib bagi setiap muslim yang baligh dan berakal."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Pembatal puasa adalah?",
+      "pilihan": ["Makan dan minum dengan sengaja", "Minum air tanpa sengaja", "Makan tanpa sengaja", "Berkumur"],
+      "jawabanBenar": 0,
+      "penjelasan": "Pembatal puasa adalah makan dan minum dengan sengaja di siang hari Ramadhan."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Haji hukumnya?",
+      "pilihan": ["Wajib sekali seumur hidup", "Wajib setiap tahun", "Sunnah", "Haram"],
+      "jawabanBenar": 0,
+      "penjelasan": "Haji hukumnya wajib sekali seumur hidup bagi muslim yang mampu."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Rukun haji adalah?",
+      "pilihan": ["Ihram, wukuf, tawaf, sa'i", "Hanya ihram", "Hanya wukuf", "Hanya tawaf"],
+      "jawabanBenar": 0,
+      "penjelasan": "Rukun haji adalah ihram, wukuf di Arafah, tawaf ifadah, dan sa'i."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Nikah hukumnya?",
+      "pilihan": ["Sunnah", "Wajib", "Haram", "Makruh"],
+      "jawabanBenar": 0,
+      "penjelasan": "Nikah hukumnya sunnah, namun menjadi wajib bagi yang takut jatuh ke dalam maksiat."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Rukun nikah adalah?",
+      "pilihan": ["Wali, ijab-qabul, saksi", "Hanya wali", "Hanya ijab-qabul", "Hanya saksi"],
+      "jawabanBenar": 0,
+      "penjelasan": "Rukun nikah adalah wali, ijab-qabul, dan saksi."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Pembunuhan hukumnya?",
+      "pilihan": ["Haram", "Boleh", "Wajib", "Sunnah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Pembunuhan hukumnya haram, kecuali dalam hal-hal yang diperbolehkan syariat."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Hukum qishash adalah?",
+      "pilihan": ["Balasan seimbang", "Tidak ada balasan", "Hukum mati", "Hukum penjara"],
+      "jawabanBenar": 0,
+      "penjelasan": "Hukum qishash adalah balasan seimbang, seperti 'mata ganti mata'."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Pencurian hukumnya?",
+      "pilihan": ["Haram", "Boleh", "Wajib", "Sunnah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Pencurian hukumnya haram, karena mengambil harta orang lain tanpa izin."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Hukum potong tangan untuk pencuri adalah?",
+      "pilihan": ["Hadd", "Qishash", "Diyat", "Ta'zir"],
+      "jawabanBenar": 0,
+      "penjelasan": "Hukum potong tangan untuk pencuri adalah had, yaitu hukuman yang ditetapkan Allah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Riba hukumnya?",
+      "pilihan": ["Haram", "Boleh", "Wajib", "Sunnah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Riba hukumnya haram, karena merupakan transaksi yang dilarang oleh Allah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Jenis riba adalah?",
+      "pilihan": ["Riba nasi'ah dan riba fadhl", "Hanya riba nasi'ah", "Hanya riba fadhl", "Tidak ada jenis"],
+      "jawabanBenar": 0,
+      "penjelasan": "Jenis riba adalah riba nasi'ah (riba pinjaman) dan riba fadhl (riba pertukaran)."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Sumpah hukumnya?",
+      "pilihan": ["Boleh jika benar", "Haram", "Wajib", "Sunnah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Sumpah hukumnya boleh jika benar, namun haram jika palsu."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Kayyif (sumpah palsu) hukumnya?",
+      "pilihan": ["Haram", "Boleh", "Wajib", "Sunnah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Kayyif (sumpah palsu) hukumnya haram, karena berdusta dengan nama Allah."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Nadzar hukumnya?",
+      "pilihan": ["Boleh", "Haram", "Wajib", "Makruh"],
+      "jawabanBenar": 0,
+      "penjelasan": "Nadzar hukumnya boleh, namun wajib dilaksanakan jika sudah diucapkan."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Melaksanakan nadzar adalah?",
+      "pilihan": ["Wajib", "Sunnah", "Haram", "Makruh"],
+      "jawabanBenar": 0,
+      "penjelasan": "Melaksanakan nadzar adalah wajib, karena sudah berjanji kepada Allah."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Jihad hukumnya?",
+      "pilihan": ["Wajib kifayah", "Wajib 'ain", "Sunnah", "Haram"],
+      "jawabanBenar": 0,
+      "penjelasan": "Jihad hukumnya wajib kifayah, yaitu wajib bagi sebagian umat jika ada ancaman."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Syarat jihad adalah?",
+      "pilihan": ["Muslim, baligh, berakal, mampu", "Hanya muslim", "Hanya baligh", "Hanya berakal"],
+      "jawabanBenar": 0,
+      "penjelasan": "Syarat jihad adalah muslim, baligh, berakal, dan mampu."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Waris hukumnya?",
+      "pilihan": ["Wajib dibagi", "Boleh tidak dibagi", "Haram dibagi", "Sunnah dibagi"],
+      "jawabanBenar": 0,
+      "penjelasan": "Waris hukumnya wajib dibagi sesuai dengan ketentuan syariat."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Ahli waris primer adalah?",
+      "pilihan": ["Anak dan istri", "Saudara", "Paman", "Bibi"],
+      "jawabanBenar": 0,
+      "penjelasan": "Ahli waris primer adalah anak dan istri, sesuai hukum waris Islam."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Wasiat hukumnya?",
+      "pilihan": ["Sunnah", "Wajib", "Haram", "Makruh"],
+      "jawabanBenar": 0,
+      "penjelasan": "Wasiat hukumnya sunnah, yaitu memberikan harta kepada orang yang bukan ahli waris."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Syarat wasiat adalah?",
+      "pilihan": ["Tidak lebih dari 1/3 harta", "Semua harta", "Tidak ada batas", "Wajib semua harta"],
+      "jawabanBenar": 0,
+      "penjelasan": "Syarat wasiat adalah tidak lebih dari 1/3 harta, karena 2/3 sisanya untuk ahli waris."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Muamalah artinya?",
+      "pilihan": ["Transaksi", "Ibadah", "Akhlak", "Aqidah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Muamalah artinya transaksi, yaitu hubungan antar manusia dalam kehidupan sehari-hari."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Prinsip muamalah adalah?",
+      "pilihan": ["Adil dan jujur", "Curang dan zalim", "Berbohong", "Khianat"],
+      "jawabanBenar": 0,
+      "penjelasan": "Prinsip muamalah adalah adil dan jujur, tidak curang dan zalim."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Jual beli hukumnya?",
+      "pilihan": ["Boleh", "Haram", "Wajib", "Makruh"],
+      "jawabanBenar": 0,
+      "penjelasan": "Jual beli hukumnya boleh, asalkan memenuhi syarat-syarat yang ditetapkan syariat."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Syarat jual beli adalah?",
+      "pilihan": ["Kesepakatan, barang jelas, harga jelas", "Hanya kesepakatan", "Hanya barang jelas", "Hanya harga jelas"],
+      "jawabanBenar": 0,
+      "penjelasan": "Syarat jual beli adalah kesepakatan, barang jelas, dan harga jelas."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Akhlak artinya?",
+      "pilihan": ["Perilaku", "Ibadah", "Aqidah", "Muamalah"],
+      "jawabanBenar": 0,
+      "penjelasan": "Akhlak artinya perilaku, yaitu cara seseorang bertindak dalam kehidupan sehari-hari."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Akhlak yang baik adalah?",
+      "pilihan": ["Jujur, adil, sabar", "Dusta, zalim, marah", "Khianat, curang, sombong", "Riya', takabur, hasad"],
+      "jawabanBenar": 0,
+      "penjelasan": "Akhlak yang baik adalah jujur, adil, sabar, dan sifat-sifat mulia lainnya."
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "kitab": "Uqudulujain",
+  "slug": "uqudulujain",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mukadimah' Uqudulujain?",
+      "pilihan": [
+        "Mukadimah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Mukadimah' membahas tentang mukadimah dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Uqudulujain membahas Mukadimah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Mukadimah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Huruf Hijaiyah' Uqudulujain?",
+      "pilihan": [
+        "Huruf Hijaiyah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Huruf Hijaiyah' membahas tentang huruf hijaiyah dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Uqudulujain membahas Huruf Hijaiyah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Huruf Hijaiyah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Makharijul Huruf' Uqudulujain?",
+      "pilihan": [
+        "Makharijul Huruf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Makharijul Huruf' membahas tentang makharijul huruf dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Uqudulujain membahas Makharijul Huruf dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Makharijul Huruf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Sifatul Huruf' Uqudulujain?",
+      "pilihan": [
+        "Sifatul Huruf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Sifatul Huruf' membahas tentang sifatul huruf dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Uqudulujain membahas Sifatul Huruf dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Sifatul Huruf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Hamzah' Uqudulujain?",
+      "pilihan": [
+        "Hamzah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Hamzah' membahas tentang hamzah dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Uqudulujain membahas Hamzah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Hamzah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Idgham' Uqudulujain?",
+      "pilihan": [
+        "Idgham",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Idgham' membahas tentang idgham dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Uqudulujain membahas Idgham dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Idgham dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Ikhfa'' Uqudulujain?",
+      "pilihan": [
+        "Ikhfa'",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Ikhfa'' membahas tentang ikhfa' dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Uqudulujain membahas Ikhfa' dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Ikhfa' dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Iqlab' Uqudulujain?",
+      "pilihan": [
+        "Iqlab",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Iqlab' membahas tentang iqlab dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Uqudulujain membahas Iqlab dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Iqlab dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Qalqalah' Uqudulujain?",
+      "pilihan": [
+        "Qalqalah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Qalqalah' membahas tentang qalqalah dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Uqudulujain membahas Qalqalah dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Qalqalah dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mad' Uqudulujain?",
+      "pilihan": [
+        "Mad",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Mad' membahas tentang mad dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Uqudulujain membahas Mad dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Mad dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Waqaf' Uqudulujain?",
+      "pilihan": [
+        "Waqaf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Waqaf' membahas tentang waqaf dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Uqudulujain membahas Waqaf dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Waqaf dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Iwadh' Uqudulujain?",
+      "pilihan": [
+        "Iwadh",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Iwadh' membahas tentang iwadh dalam Uqudulujain."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Uqudulujain membahas Iwadh dalam konteks?",
+      "pilihan": [
+        "Ilmu dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain membahas Iwadh dalam konteks ilmu dan ibadah."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-13 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-13 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-13 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-14 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-14 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-14 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-15 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-15 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-15 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-16 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-16 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-16 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-17 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-17 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-17 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-18 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-18 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-18 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-19 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-19 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-19 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-20 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-20 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-20 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-21 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-21 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-21 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-22 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-22 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-22 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-23 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-23 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-23 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-24 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-24 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-24 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-25 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-25 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-25 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Apa yang dibahas dalam bab ke-26 Uqudulujain?",
+      "pilihan": [
+        "Bab ke-26 berisi pelajaran tentang tata bahasa Arab",
+        "Hukum waris",
+        "Hukum pidana",
+        "Hukum perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab ke-26 Uqudulujain berisi pelajaran tentang tata bahasa Arab."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Uqudulujain membahas tentang?",
+      "pilihan": [
+        "Tata bahasa Arab",
+        "Hukum Islam",
+        "Sejarah Islam",
+        "Fiqih"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Uqudulujain adalah kitab nahwu yang membahas tata bahasa Arab."
+    }
+  ]
+}

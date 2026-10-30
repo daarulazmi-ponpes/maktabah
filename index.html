@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#123c62">
+  <meta name="description" content="Maktabah Daarul Azmi - Perpustakaan kitab digital untuk belajar dan mendalami khazanah keilmuan Islam.">
+  <title>Maktabah — Pondok Pesantren Daarul Azmi</title>
+
+  <link rel="icon" href="assets/icons/logoDA.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --green: #123c62;
+      --green-dark: #0d2b48;
+      --green-soft: #e9f1f8;
+      --gold: #d9ac55;
+      --ink: #263747;
+      --muted: #77838d;
+      --line: #e7ebef;
+      --paper: #f7f8f6;
+      --white: #fff;
+      --shadow: 0 5px 22px rgba(23, 53, 40, 0.03);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "DM Sans", Arial, sans-serif;
+      font-size: 14px;
+      line-height: 1.65;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    button, input {
+      font: inherit;
+    }
+
+    /* HEADER */
+
+    .site-header {
+      position: sticky;
+      z-index: 20;
+      top: 0;
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.97);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(12px);
+    }
+
+    .header-inner {
+      display: flex;
+      width: min(1200px, calc(100% - 48px));
+      height: 76px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      margin: auto;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-logo {
+      width: 45px;
+      height: 45px;
+      flex: 0 0 45px;
+      object-fit: contain;
+    }
+
+    .brand-copy {
+      display: grid;
+      line-height: 1.35;
+    }
+
+    .brand-copy strong {
+      font-size: 17px;
+      font-weight: 700;
+    }
+
+    .brand-copy > span {
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    .header-nav {
+      display: flex;
+      align-items: center;
+      gap: clamp(14px, 2.5vw, 36px);
+      margin-left: auto;
+    }
+
+    .header-nav a {
+      color: #65717b;
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    .header-nav a:hover,
+    .header-nav a.is-current {
+      color: var(--green);
+    }
+
+    .header-nav a.is-current {
+      font-weight: 700;
+    }
+
+    .header-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--green);
+      font-size: 11px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .header-link span {
+      color: var(--gold);
+      font-size: 15px;
+    }
+
+    /* HERO */
+
+    .hero {
+      color: white;
+      background: #123c50;
+    }
+
+    .hero-inner {
+      display: grid;
+      width: min(1200px, calc(100% - 48px));
+      grid-template-columns: minmax(0, 1fr) minmax(350px, 0.87fr);
+      align-items: center;
+      gap: clamp(40px, 7vw, 110px);
+      margin: auto;
+      padding: 66px 0;
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      color: var(--gold);
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .hero-copy .eyebrow {
+      color: #e8c879;
+    }
+
+    .hero h1 {
+      margin: 20px 0 18px;
+      font-size: clamp(48px, 6vw, 78px);
+      font-weight: 500;
+      letter-spacing: -0.055em;
+      line-height: 1.08;
+    }
+
+    .hero h1 span {
+      color: #f0d99f;
+      font-family: Georgia, serif;
+      font-weight: 500;
+    }
+
+    .hero-description {
+      margin: 0;
+      color: #d4e0e4;
+      font-size: clamp(14px, 1.35vw, 17px);
+      line-height: 1.9;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 32px;
+    }
+
+    .hero-primary {
+      display: inline-flex;
+      min-height: 48px;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 0 18px;
+      color: #293747;
+      background: var(--gold);
+      border: 1px solid var(--gold);
+      border-radius: 7px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: transform 0.18s ease, background 0.18s ease;
+    }
+
+    .hero-primary:hover {
+      transform: translateY(-2px);
+    }
+
+    .hero-stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 24px;
+      margin: 32px 0 0;
+      color: #d5e0e3;
+      font-family: monospace;
+      font-size: 10px;
+      letter-spacing: 0.12em;
+    }
+
+    /* HERO PREVIEW CARD */
+
+    .preview-card {
+      padding: clamp(22px, 3vw, 38px);
+      color: var(--ink);
+      background: #fffefa;
+      border: 1px solid rgba(255, 255, 255, 0.65);
+      border-radius: 13px;
+      box-shadow: 0 22px 65px rgba(0, 0, 0, 0.12);
+    }
+
+    .preview-heading {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: #75818b;
+      font-family: monospace;
+      font-size: 11px;
+      letter-spacing: 0.1em;
+    }
+
+    .preview-heading > span:last-child {
+      color: #246477;
+      font-size: 22px;
+    }
+
+    .preview-card h2 {
+      margin: 21px 0 0;
+      font-size: 26px;
+      font-weight: 600;
+    }
+
+    .preview-meta {
+      margin: 4px 0 0;
+      color: #77838d;
+      font-size: 12px;
+    }
+
+    .preview-arabic {
+      margin: 24px 0 8px;
+      color: #173d4d;
+      font-family: "Noto Naskh Arabic", serif;
+      font-size: 32px;
+      line-height: 1.8;
+      text-align: center;
+    }
+
+    .preview-translation {
+      min-height: 48px;
+      margin: 0 0 20px;
+      color: #697780;
+      font-size: 13px;
+      line-height: 1.8;
+      text-align: center;
+    }
+
+    .preview-reader-link {
+      display: flex;
+      min-height: 46px;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 12px;
+      padding: 0 16px;
+      color: white;
+      background: #286677;
+      border-radius: 7px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    .preview-reader-link:hover {
+      background: #20596a;
+    }
+
+    .preview-reader-link span {
+      font-size: 18px;
+    }
+
+    /* FEATURE STRIP */
+
+    .feature-strip {
+      display: grid;
+      width: min(1200px, calc(100% - 48px));
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+      margin: 0 auto;
+      padding: 23px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .feature-item {
+      display: flex;
+      min-width: 0;
+      align-items: center;
+      gap: 12px;
+      padding: 9px;
+    }
+
+    .feature-icon {
+      display: grid;
+      width: 42px;
+      height: 42px;
+      flex: 0 0 42px;
+      place-items: center;
+      color: #2a6876;
+      background: #f8f4e9;
+      border-radius: 10px;
+      font-size: 19px;
+    }
+
+    .feature-item > span:last-child {
+      display: grid;
+      min-width: 0;
+    }
+
+    .feature-item strong {
+      color: #374851;
+      font-size: 12px;
+    }
+
+    .feature-item small {
+      color: #849097;
+      font-size: 10px;
+      line-height: 1.5;
+    }
+
+    /* CATALOG SECTION */
+
+    .catalog-section {
+      width: min(1200px, calc(100% - 48px));
+      margin: 46px auto 50px;
+    }
+
+    .catalog-heading {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .catalog-heading h2 {
+      margin: 0;
+      color: #31414a;
+      font-family: Georgia, serif;
+      font-size: 26px;
+      font-weight: 600;
+    }
+
+    .catalog-heading > a {
+      color: var(--green);
+      font-size: 11px;
+      font-weight: 700;
+    }
+
+    .catalog-heading > a span {
+      margin-left: 5px;
+      color: var(--gold);
+    }
+
+    /* FILTERS */
+
+    .list-filters {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-bottom: 18px;
+    }
+
+    .filter-chip {
+      padding: 5px 10px;
+      color: #78838b;
+      background: transparent;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 9px;
+      transition: 0.16s;
+    }
+
+    .filter-chip:hover,
+    .filter-chip.is-active {
+      color: white;
+      background: var(--green);
+      border-color: var(--green);
+    }
+
+    .list-status {
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    /* BOOK GRID */
+
+    .book-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+    }
+
+    .book-card {
+      display: flex;
+      min-height: 94px;
+      align-items: center;
+      gap: 12px;
+      padding: 14px;
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      transition: border-color 0.16s ease, transform 0.16s ease;
+      cursor: pointer;
+    }
+
+    .book-card:hover {
+      border-color: #b6c8d8;
+      transform: translateY(-2px);
+    }
+
+    .book-cover-mini {
+      display: grid;
+      width: 50px;
+      height: 66px;
+      flex: 0 0 50px;
+      place-items: center;
+      background: var(--cover, #254354);
+      border-radius: 4px;
+      color: #e7d3a4;
+      font-family: Georgia, serif;
+      font-size: 9px;
+      text-align: center;
+      padding: 4px;
+      line-height: 1.3;
+      box-shadow: 3px 3px 0 #8e7043;
+    }
+
+    .book-card-copy {
+      display: grid;
+      min-width: 0;
+      flex: 1;
+    }
+
+    .book-card-copy strong {
+      overflow: hidden;
+      color: #3c4b53;
+      font-size: 12px;
+      font-weight: 600;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .book-card-copy small {
+      color: #89949a;
+      font-size: 9px;
+    }
+
+    .book-card-arabic {
+      color: var(--green);
+      font-family: "Noto Naskh Arabic", serif;
+      font-size: 16px;
+    }
+
+    .book-card-category {
+      display: inline-block;
+      margin-top: 4px;
+      padding: 2px 6px;
+      color: var(--green);
+      background: var(--green-soft);
+      border-radius: 10px;
+      font-size: 8px;
+      font-weight: 600;
+    }
+
+    .empty-state {
+      grid-column: 1 / -1;
+      padding: 35px;
+      text-align: center;
+      border: 1px dashed var(--line);
+      border-radius: 12px;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    .empty-state strong {
+      display: block;
+      color: var(--ink);
+      font-family: Georgia, serif;
+      font-size: 20px;
+      margin-bottom: 5px;
+    }
+
+    /* SEARCH BOX */
+
+    .search-box {
+      display: flex;
+      height: 42px;
+      align-items: center;
+      gap: 9px;
+      margin-bottom: 18px;
+      padding: 0 11px;
+      background: #f8f9f7;
+      border: 1px solid #e8ece8;
+      border-radius: 6px;
+    }
+
+    .search-icon {
+      color: #75827b;
+      font-size: 23px;
+      line-height: 1;
+      transform: rotate(-20deg);
+    }
+
+    .search-box input {
+      width: 100%;
+      min-width: 0;
+      padding: 0;
+      color: var(--ink);
+      background: transparent;
+      border: 0;
+      outline: 0;
+      font-size: 12px;
+    }
+
+    .search-box input::placeholder {
+      color: #9aa39e;
+    }
+
+    .search-box:focus-within {
+      border-color: #91acc3;
+      box-shadow: 0 0 0 3px rgba(18, 60, 98, 0.08);
+    }
+
+    /* ABOUT SECTION */
+
+    .about-section {
+      width: min(1200px, calc(100% - 48px));
+      margin: 0 auto 48px;
+      padding: 30px;
+      background: var(--green);
+      color: #f7f0e4;
+      border-radius: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 35px;
+    }
+
+    .about-section h2 {
+      margin: 0 0 10px;
+      font-family: Georgia, serif;
+      font-size: 26px;
+      font-weight: 600;
+    }
+
+    .about-section p {
+      max-width: 650px;
+      color: #c1cbd0;
+      font-size: 13px;
+      line-height: 1.9;
+    }
+
+    .about-button {
+      background: var(--gold);
+      color: var(--green);
+      padding: 14px 20px;
+      border-radius: 7px;
+      white-space: nowrap;
+      font-size: 12px;
+      font-weight: 700;
+      transition: transform 0.18s ease;
+    }
+
+    .about-button:hover {
+      transform: translateY(-2px);
+    }
+
+    /* FOOTER */
+
+    .site-footer {
+      display: flex;
+      width: min(1200px, calc(100% - 48px));
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin: 0 auto;
+      padding: 20px 0 26px;
+      border-top: 1px solid #e4e9e4;
+    }
+
+    .site-footer p {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 0;
+      color: #89928c;
+      font-size: 10px;
+    }
+
+    .footer-logo {
+      width: 30px;
+      height: 30px;
+      object-fit: contain;
+    }
+
+    .site-footer a {
+      color: var(--green);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    /* RESPONSIVE */
+
+    @media (max-width: 860px) {
+      .header-inner {
+        gap: 14px;
+      }
+
+      .header-nav {
+        gap: 14px;
+      }
+
+      .header-link {
+        font-size: 0;
+      }
+
+      .header-link span {
+        font-size: 16px;
+      }
+
+      .hero-inner {
+        grid-template-columns: minmax(0, 1fr) minmax(330px, 0.92fr);
+        gap: 25px;
+      }
+
+      .hero h1 {
+        font-size: clamp(42px, 6vw, 60px);
+      }
+
+      .feature-strip {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .book-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .about-section {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+
+    @media (max-width: 680px) {
+      .header-inner {
+        width: min(100% - 28px, 520px);
+        height: 66px;
+      }
+
+      .brand-logo {
+        width: 38px;
+        height: 38px;
+        flex-basis: 38px;
+      }
+
+      .brand-copy strong {
+        font-size: 15px;
+      }
+
+      .brand-copy > span {
+        font-size: 9px;
+      }
+
+      .header-nav {
+        display: none;
+      }
+
+      .header-link {
+        font-size: 0;
+      }
+
+      .hero-inner {
+        width: min(100% - 28px, 520px);
+        grid-template-columns: 1fr;
+        gap: 28px;
+        padding: 43px 0 34px;
+      }
+
+      .hero h1 {
+        margin-top: 15px;
+        font-size: clamp(43px, 12vw, 58px);
+      }
+
+      .hero-description {
+        font-size: 13px;
+      }
+
+      .hero-actions {
+        margin-top: 23px;
+      }
+
+      .hero-primary {
+        min-height: 44px;
+        padding-inline: 13px;
+        font-size: 10px;
+      }
+
+      .hero-stats {
+        gap: 13px;
+        margin-top: 23px;
+        font-size: 8px;
+      }
+
+      .feature-strip,
+      .catalog-section,
+      .about-section {
+        width: min(100% - 28px, 520px);
+      }
+
+      .feature-strip {
+        gap: 4px;
+        padding-block: 12px;
+      }
+
+      .feature-item {
+        gap: 8px;
+        padding: 7px 2px;
+      }
+
+      .feature-icon {
+        width: 34px;
+        height: 34px;
+        flex-basis: 34px;
+        font-size: 16px;
+      }
+
+      .feature-item strong {
+        font-size: 10px;
+      }
+
+      .feature-item small {
+        font-size: 8px;
+      }
+
+      .catalog-section {
+        margin: 32px auto 34px;
+      }
+
+      .catalog-heading h2 {
+        font-size: 23px;
+      }
+
+      .book-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+      }
+
+      .book-card {
+        min-height: 72px;
+        gap: 7px;
+        padding: 9px;
+      }
+
+      .book-cover-mini {
+        width: 40px;
+        height: 54px;
+        flex-basis: 40px;
+        font-size: 8px;
+      }
+
+      .book-card-arabic {
+        display: none;
+      }
+
+      .about-section {
+        margin-bottom: 32px;
+        padding: 20px;
+      }
+
+      .about-section h2 {
+        font-size: 22px;
+      }
+
+      .site-footer {
+        width: min(100% - 28px, 520px);
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 5px;
+        padding-top: 15px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        scroll-behavior: auto !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="./" aria-label="Maktabah Daarul Azmi, beranda">
+      <img class="brand-logo" src="assets/icons/logoDA.png" alt="">
+      <span class="brand-copy">
+        <strong>Maktabah</strong>
+        <span>Pondok Pesantren Daarul Azmi</span>
+      </span>
+    </a>
+    <nav class="header-nav" aria-label="Navigasi utama">
+      <a class="is-current" href="#beranda">Beranda</a>
+      <a href="#katalog">Katalog Kitab</a>
+      <a href="#tentang">Tentang</a>
+    </nav>
+    <a class="header-link" href="https://daarulazmi.ponpes.id/" target="_blank" rel="noopener noreferrer">
+      Situs Daarul Azmi <span aria-hidden="true">↗</span>
+    </a>
+  </div>
+</header>
+
+<main id="main-content">
+
+  <!-- HERO -->
+  <section class="hero" id="beranda">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">MAKTABAH DIGITAL / KHazanah ISLAM</p>
+        <h1>Kitab-kitab.<br><span>Dekat setiap hari.</span></h1>
+        <p class="hero-description">
+          Baca matan. Pahami maknanya. Dalami syarahnya.<br>
+          Kitab-kitab pilihan dalam satu ruang belajar.
+        </p>
+        <div class="hero-actions">
+          <a class="hero-primary" href="#katalog"><span aria-hidden="true">▤</span> Jelajahi kitab</a>
+        </div>
+        <p class="hero-stats">
+          <span id="statTotal">KITAB</span>
+          <span>MATAN • MAKNA • SYARAH</span>
+        </p>
+      </div>
+
+      <article class="preview-card" aria-label="Pratinjau Maktabah">
+        <div class="preview-heading">
+          <span id="preview-kicker">MAKTABAH DAARUL AZMI</span>
+          <span aria-hidden="true">▤</span>
+        </div>
+        <h2 id="preview-title">Perpustakaan Digital</h2>
+        <p class="preview-meta" id="preview-meta">Koleksi kitab pilihan untuk belajar dan mendalami khazanah keilmuan Islam.</p>
+        <p class="preview-arabic" lang="ar" dir="rtl">مكتبة دار الأعزمي</p>
+        <p class="preview-translation">Ruang belajar terbuka bagi santri dan masyarakat untuk mempelajari kitab-kitab klasik Islam.</p>
+        <a class="preview-reader-link" href="#katalog">Buka katalog kitab <span aria-hidden="true">→</span></a>
+      </article>
+    </div>
+  </section>
+
+  <!-- FEATURE STRIP -->
+  <section class="feature-strip" aria-label="Fitur Maktabah">
+    <a class="feature-item" href="#katalog">
+      <span class="feature-icon" aria-hidden="true">▤</span>
+      <span><strong>Katalog Kitab</strong><small>Koleksi kitab pilihan</small></span>
+    </a>
+    <a class="feature-item" href="#katalog">
+      <span class="feature-icon" aria-hidden="true">۞</span>
+      <span><strong>Teks Arab</strong><small>Matan kitab asli</small></span>
+    </a>
+    <a class="feature-item" href="#katalog">
+      <span class="feature-icon" aria-hidden="true">⌘</span>
+      <span><strong>Terjemahan</strong><small>Terjemahan Indonesia</small></span>
+    </a>
+    <a class="feature-item" href="#katalog">
+      <span class="feature-icon" aria-hidden="true">⌕</span>
+      <span><strong>Pencarian</strong><small>Temukan kitab dengan cepat</small></span>
+    </a>
+  </section>
+
+  <!-- KATALOG -->
+  <section class="catalog-section" id="katalog">
+    <div class="catalog-heading">
+      <div>
+        <p class="eyebrow">KOLEKSI PILIHAN</p>
+        <h2>Jelajahi Perpustakaan</h2>
+      </div>
+      <p class="list-status" id="bookCount">Memuat daftar kitab…</p>
+    </div>
+
+    <!-- SEARCH -->
+    <form class="search-box" id="searchForm">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input
+        type="search"
+        id="searchInput"
+        aria-label="Cari kitab"
+        placeholder="Cari judul kitab, pengarang, atau kategori..."
+        autocomplete="off"
+      >
+    </form>
+
+    <p id="apiStatus" class="list-status" role="status" aria-live="polite">
+      Memuat koleksi kitab dari katalog...
+    </p>
+
+    <!-- FILTER KATEGORI -->
+    <div class="list-filters" id="categoryFilters" aria-label="Filter kategori"></div>
+
+    <div class="book-grid" id="bookGrid"></div>
+  </section>
+
+  <!-- TENTANG -->
+  <section class="about-section" id="tentang">
+    <div>
+      <h2>Belajar kitab dengan lebih terarah.</h2>
+      <p>
+        Maktabah dirancang sebagai ruang belajar terbuka
+        bagi santri dan masyarakat. Setiap materi dapat
+        dikembangkan dengan teks Arab, terjemah, makna
+        per kata, syarah, audio, serta latihan pemahaman
+        yang ditinjau oleh pengajar.
+      </p>
+    </div>
+    <a href="#katalog" class="about-button">
+      Mulai Menjelajah →
+    </a>
+  </section>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <p>
+    <img class="footer-logo" src="assets/icons/logoDA.png" alt="">
+    <span>Maktabah Daarul Azmi</span>
+  </p>
+  <p>
+    <a href="https://daarulazmi.ponpes.id/" target="_blank" rel="noopener noreferrer">Situs Daarul Azmi</a>
+    · Menuntut ilmu, menumbuhkan adab.
+  </p>
+</footer>
+
+
+<script>
+  const API_URL = "/api/kitab";
+  const coverColors = ["#214653", "#53634b", "#754b37", "#344a70", "#6b4c36", "#365b4c"];
+  const bookGrid = document.getElementById("bookGrid");
+  const apiStatus = document.getElementById("apiStatus");
+  const searchInput = document.getElementById("searchInput");
+  const categoryFilters = document.getElementById("categoryFilters");
+  let books = [];
+  let activeCategory = "Semua";
+
+  function escapeHTML(value = "") {
+    return String(value).replace(/[&<>"']/g, char => ({
+      "&": "&amp;",
+      "<": "&lt;",
+      ">": "&gt;",
+      '"': "&quot;",
+      "'": "&#39;"
+    })[char]);
+  }
+
+  function firstValue(record, keys, fallback = "") {
+    for (const key of keys) {
+      const value = record?.[key];
+      if (value !== undefined && value !== null && String(value).trim()) {
+        return String(value).trim();
+      }
+    }
+    return fallback;
+  }
+
+  function extractBooks(payload) {
+    const data = payload?.data;
+    const rows = Array.isArray(data)
+      ? data
+      : data?.kitab || data?.items || data?.results;
+
+    if (!Array.isArray(rows)) {
+      throw new Error("Format data katalog dari API tidak dikenali.");
+    }
+
+    return rows.map(item => ({
+      id: firstValue(item, ["id"]),
+      title: firstValue(item, ["nama", "judul", "nama_kitab", "title"]),
+      arabicTitle: firstValue(item, ["nama_arab", "judul_arab"]),
+      author: firstValue(item, ["pengarang", "penulis", "author"], "Pengarang belum dicantumkan"),
+      authorArabic: firstValue(item, ["pengarang_arab", "penulis_arab"]),
+      category: firstValue(item, ["kategori", "category"], "Lainnya"),
+      description: firstValue(item, ["deskripsi", "description", "keterangan"]),
+      slug: firstValue(item, ["slug"]),
+      chapterCount: firstValue(item, ["total_bab", "jumlah_bab", "bab_count", "jumlahBab"]),
+      mazhab: firstValue(item, ["mazhab"]),
+      bahasa: firstValue(item, ["bahasa"]),
+      fitur: firstValue(item, ["fitur"]),
+      tahunLahir: firstValue(item, ["tahun_lahir"]),
+      tahunWafat: firstValue(item, ["tahun_wafat"])
+    })).filter(item => item.title);
+  }
+
+  function renderFilters() {
+    const categories = [...new Set(books.map(book => book.category))]
+      .sort((a, b) => a.localeCompare(b, "id"));
+    const options = ["Semua", ...categories];
+
+    if (!options.includes(activeCategory)) activeCategory = "Semua";
+
+    categoryFilters.innerHTML = options.map(category => `
+      <button class="filter-chip${category === activeCategory ? " is-active" : ""}"
+              type="button" data-category="${escapeHTML(category)}"
+              aria-pressed="${category === activeCategory}">
+        ${category === "Semua" ? "Semua Kitab" : escapeHTML(category)}
+      </button>
+    `).join("");
+
+    categoryFilters.querySelectorAll(".filter-chip").forEach(button => {
+      button.addEventListener("click", () => {
+        activeCategory = button.dataset.category;
+        renderFilters();
+        renderBooks();
+      });
+    });
+  }
+
+  function renderBooks() {
+    const keyword = searchInput.value.trim().toLocaleLowerCase("id");
+    const filteredBooks = books.filter(book => {
+      const matchesCategory = activeCategory === "Semua" || book.category === activeCategory;
+      const searchableText = [
+        book.title, book.arabicTitle, book.author, book.authorArabic,
+        book.category, book.description, book.mazhab, book.fitur
+      ]
+        .join(" ").toLocaleLowerCase("id");
+      return matchesCategory && searchableText.includes(keyword);
+    });
+
+    document.getElementById("bookCount").textContent =
+      `${filteredBooks.length} dari ${books.length} koleksi`;
+
+    if (!filteredBooks.length) {
+      bookGrid.innerHTML = `
+        <div class="empty-state">
+          <strong>${books.length ? "Kitab belum ditemukan" : "Katalog belum dimuat"}</strong>
+          ${books.length ? "Coba kata kunci atau kategori lain." : "Klik tombol \"Muat Katalog Kitab\" untuk menampilkan koleksi."}
+        </div>`;
+      return;
+    }
+
+    bookGrid.innerHTML = filteredBooks.map(book => {
+      const colorIndex = Math.abs([...book.title].reduce((sum, char) => sum + char.charCodeAt(0), 0)) % coverColors.length;
+      const hasSlug = !!book.slug;
+      return `
+        <article class="book-card"${hasSlug ? ` onclick="window.location.href='/kitab/${escapeHTML(book.slug)}'"` : ""}>
+          <div class="book-cover-mini" style="--cover:${coverColors[colorIndex]}">
+            ${escapeHTML(book.title.substring(0, 15))}
+          </div>
+          <div class="book-card-copy">
+            <strong>${escapeHTML(book.title)}</strong>
+            <small>${escapeHTML(book.author)}</small>
+            <span class="book-card-category">${escapeHTML(book.category)}</span>
+          </div>
+          ${book.arabicTitle ? `<span class="book-card-arabic">${escapeHTML(book.arabicTitle.substring(0, 12))}</span>` : ""}
+        </article>`;
+    }).join("");
+  }
+
+  function setStatus(message, kind = "") {
+    apiStatus.textContent = message;
+    apiStatus.className = `list-status${kind ? ` ${kind}` : ""}`;
+  }
+
+  async function loadBooks() {
+    setStatus("Mengambil katalog kitab dari API...", "");
+
+    try {
+      if (!location.hostname || location.protocol === "file:") {
+        throw new TypeError("Server tidak terdeteksi");
+      }
+
+      const response = await fetch(API_URL);
+
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}));
+        if (response.status === 500 && errorData.error?.includes("X_API_KEY")) {
+          throw new Error(errorData.error);
+        }
+        throw new Error(`API mengembalikan kesalahan (HTTP ${response.status}).`);
+      }
+
+      const payload = await response.json();
+      const loadedBooks = extractBooks(payload);
+      books = loadedBooks;
+      activeCategory = "Semua";
+      renderFilters();
+      renderBooks();
+
+      // Update stats
+      document.getElementById("statTotal").textContent = `${books.length} KITAB`;
+      setStatus(`Katalog berhasil dimuat: ${books.length} kitab tersedia.`, "success");
+    } catch (error) {
+      let message;
+      if (!location.hostname || location.protocol === "file:") {
+        message = "Server tidak berjalan. Buka terminal di folder proyek, jalankan perintah \"npm start\", lalu buka http://localhost:3000 di browser.";
+      } else if (error instanceof TypeError) {
+        message = "Tidak dapat menghubungi server. Pastikan server berjalan dengan menjalankan \"npm start\" di terminal, lalu buka http://localhost:3000.";
+      } else {
+        message = error.message;
+      }
+      setStatus(message, "error");
+    }
+  }
+
+  // Muat katalog otomatis saat halaman dibuka
+  loadBooks();
+
+  document.getElementById("searchForm").addEventListener("submit", event => {
+    event.preventDefault();
+    renderBooks();
+  });
+  searchInput.addEventListener("input", renderBooks);
+
+  renderBooks();
+</script>
+
+</body>
+</html>

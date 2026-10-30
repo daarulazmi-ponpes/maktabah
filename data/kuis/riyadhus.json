@@ -1,0 +1,2502 @@
+{
+  "kitab": "Riyadhus Shalihin",
+  "slug": "riyadhus",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Mukaddimah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Mukaddimah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Mukaddimah' membahas tentang mukaddimah dalam Islam."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Riyadhus Shalihin membahas Mukaddimah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Mukaddimah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Iman dan Rukunnya' Riyadhus Shalihin?",
+      "pilihan": [
+        "Iman dan Rukunnya",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Iman dan Rukunnya' membahas tentang iman dan rukunnya dalam Islam."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Riyadhus Shalihin membahas Iman dan Rukunnya dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Iman dan Rukunnya dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Islam dan Rukunnya' Riyadhus Shalihin?",
+      "pilihan": [
+        "Islam dan Rukunnya",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Islam dan Rukunnya' membahas tentang islam dan rukunnya dalam Islam."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Riyadhus Shalihin membahas Islam dan Rukunnya dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Islam dan Rukunnya dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Ihsan' Riyadhus Shalihin?",
+      "pilihan": [
+        "Ihsan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Ihsan' membahas tentang ihsan dalam Islam."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Riyadhus Shalihin membahas Ihsan dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Ihsan dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tauhid' Riyadhus Shalihin?",
+      "pilihan": [
+        "Tauhid",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Tauhid' membahas tentang tauhid dalam Islam."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Riyadhus Shalihin membahas Tauhid dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Tauhid dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Rububiyah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Rububiyah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Rububiyah' membahas tentang rububiyah dalam Islam."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Riyadhus Shalihin membahas Rububiyah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Rububiyah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Uluhiyah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Uluhiyah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Uluhiyah' membahas tentang uluhiyah dalam Islam."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Riyadhus Shalihin membahas Uluhiyah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Uluhiyah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Asma wa Sifat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Asma wa Sifat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Asma wa Sifat' membahas tentang asma wa sifat dalam Islam."
+    },
+    {
+      "babId": "bab-8",
+      "pertanyaan": "Riyadhus Shalihin membahas Asma wa Sifat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Asma wa Sifat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Umum' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Umum",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Umum' membahas tentang adab umum dalam Islam."
+    },
+    {
+      "babId": "bab-9",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Umum dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Umum dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berdzikir' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berdzikir",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berdzikir' membahas tentang adab berdzikir dalam Islam."
+    },
+    {
+      "babId": "bab-10",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berdzikir dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berdzikir dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Membaca Al-Quran' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Membaca Al-Quran",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Membaca Al-Quran' membahas tentang adab membaca al-quran dalam Islam."
+    },
+    {
+      "babId": "bab-11",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Membaca Al-Quran dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Membaca Al-Quran dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berdoa' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berdoa",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berdoa' membahas tentang adab berdoa dalam Islam."
+    },
+    {
+      "babId": "bab-12",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berdoa dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berdoa dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat' membahas tentang adab shalat dalam Islam."
+    },
+    {
+      "babId": "bab-13",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berjamaah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berjamaah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berjamaah' membahas tentang adab berjamaah dalam Islam."
+    },
+    {
+      "babId": "bab-14",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berjamaah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berjamaah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Imam' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Imam",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Imam' membahas tentang adab imam dalam Islam."
+    },
+    {
+      "babId": "bab-15",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Imam dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Imam dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Muadzin' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Muadzin",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Muadzin' membahas tentang adab muadzin dalam Islam."
+    },
+    {
+      "babId": "bab-16",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Muadzin dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Muadzin dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Masjid' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Masjid",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Masjid' membahas tentang adab masjid dalam Islam."
+    },
+    {
+      "babId": "bab-17",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Masjid dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Masjid dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Belajar' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Belajar",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Belajar' membahas tentang adab belajar dalam Islam."
+    },
+    {
+      "babId": "bab-18",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Belajar dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Belajar dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Mengajar' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Mengajar",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Mengajar' membahas tentang adab mengajar dalam Islam."
+    },
+    {
+      "babId": "bab-19",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Mengajar dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Mengajar dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Bergaul' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Bergaul",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Bergaul' membahas tentang adab bergaul dalam Islam."
+    },
+    {
+      "babId": "bab-20",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Bergaul dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Bergaul dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab dengan Orang Tua' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab dengan Orang Tua",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab dengan Orang Tua' membahas tentang adab dengan orang tua dalam Islam."
+    },
+    {
+      "babId": "bab-21",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab dengan Orang Tua dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab dengan Orang Tua dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab dengan Tetangga' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab dengan Tetangga",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab dengan Tetangga' membahas tentang adab dengan tetangga dalam Islam."
+    },
+    {
+      "babId": "bab-22",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab dengan Tetangga dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab dengan Tetangga dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab dengan Teman' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab dengan Teman",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab dengan Teman' membahas tentang adab dengan teman dalam Islam."
+    },
+    {
+      "babId": "bab-23",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab dengan Teman dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab dengan Teman dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab dengan Guru' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab dengan Guru",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab dengan Guru' membahas tentang adab dengan guru dalam Islam."
+    },
+    {
+      "babId": "bab-24",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab dengan Guru dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab dengan Guru dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab dengan Anak' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab dengan Anak",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab dengan Anak' membahas tentang adab dengan anak dalam Islam."
+    },
+    {
+      "babId": "bab-25",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab dengan Anak dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab dengan Anak dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab dengan Hewan' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab dengan Hewan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab dengan Hewan' membahas tentang adab dengan hewan dalam Islam."
+    },
+    {
+      "babId": "bab-26",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab dengan Hewan dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab dengan Hewan dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab dengan Lingkungan' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab dengan Lingkungan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab dengan Lingkungan' membahas tentang adab dengan lingkungan dalam Islam."
+    },
+    {
+      "babId": "bab-27",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab dengan Lingkungan dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab dengan Lingkungan dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Makan' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Makan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Makan' membahas tentang adab makan dalam Islam."
+    },
+    {
+      "babId": "bab-28",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Makan dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Makan dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Minum' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Minum",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Minum' membahas tentang adab minum dalam Islam."
+    },
+    {
+      "babId": "bab-29",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Minum dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Minum dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Tidur' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Tidur",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Tidur' membahas tentang adab tidur dalam Islam."
+    },
+    {
+      "babId": "bab-30",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Tidur dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Tidur dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Bangun Tidur' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Bangun Tidur",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Bangun Tidur' membahas tentang adab bangun tidur dalam Islam."
+    },
+    {
+      "babId": "bab-31",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Bangun Tidur dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Bangun Tidur dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berpakaian' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berpakaian",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berpakaian' membahas tentang adab berpakaian dalam Islam."
+    },
+    {
+      "babId": "bab-32",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berpakaian dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berpakaian dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berjalan' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berjalan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berjalan' membahas tentang adab berjalan dalam Islam."
+    },
+    {
+      "babId": "bab-33",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berjalan dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berjalan dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berbicara' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berbicara",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berbicara' membahas tentang adab berbicara dalam Islam."
+    },
+    {
+      "babId": "bab-34",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berbicara dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berbicara dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Mendengar' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Mendengar",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Mendengar' membahas tentang adab mendengar dalam Islam."
+    },
+    {
+      "babId": "bab-35",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Mendengar dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Mendengar dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Melihat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Melihat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Melihat' membahas tentang adab melihat dalam Islam."
+    },
+    {
+      "babId": "bab-36",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Melihat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Melihat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Bersin' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Bersin",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Bersin' membahas tentang adab bersin dalam Islam."
+    },
+    {
+      "babId": "bab-37",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Bersin dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Bersin dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Masuk Rumah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Masuk Rumah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Masuk Rumah' membahas tentang adab masuk rumah dalam Islam."
+    },
+    {
+      "babId": "bab-38",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Masuk Rumah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Masuk Rumah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Keluar Rumah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Keluar Rumah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Keluar Rumah' membahas tentang adab keluar rumah dalam Islam."
+    },
+    {
+      "babId": "bab-39",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Keluar Rumah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Keluar Rumah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Masuk Toilet' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Masuk Toilet",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Masuk Toilet' membahas tentang adab masuk toilet dalam Islam."
+    },
+    {
+      "babId": "bab-40",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Masuk Toilet dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Masuk Toilet dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Wudhu' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Wudhu",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Wudhu' membahas tentang adab wudhu dalam Islam."
+    },
+    {
+      "babId": "bab-41",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Wudhu dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Wudhu dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Mandi' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Mandi",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Mandi' membahas tentang adab mandi dalam Islam."
+    },
+    {
+      "babId": "bab-42",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Mandi dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Mandi dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Tayamum' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Tayamum",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Tayamum' membahas tentang adab tayamum dalam Islam."
+    },
+    {
+      "babId": "bab-43",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Tayamum dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Tayamum dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Puasa' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Puasa",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Puasa' membahas tentang adab puasa dalam Islam."
+    },
+    {
+      "babId": "bab-44",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Puasa dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Puasa dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Zakat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Zakat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Zakat' membahas tentang adab zakat dalam Islam."
+    },
+    {
+      "babId": "bab-45",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Zakat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Zakat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Haji' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Haji",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Haji' membahas tentang adab haji dalam Islam."
+    },
+    {
+      "babId": "bab-46",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Haji dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Haji dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Umrah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Umrah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Umrah' membahas tentang adab umrah dalam Islam."
+    },
+    {
+      "babId": "bab-47",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Umrah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Umrah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Jual Beli' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Jual Beli",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Jual Beli' membahas tentang adab jual beli dalam Islam."
+    },
+    {
+      "babId": "bab-48",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Jual Beli dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Jual Beli dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Pinjaman' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Pinjaman",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Pinjaman' membahas tentang adab pinjaman dalam Islam."
+    },
+    {
+      "babId": "bab-49",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Pinjaman dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Pinjaman dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Hutang Piutang' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Hutang Piutang",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Hutang Piutang' membahas tentang adab hutang piutang dalam Islam."
+    },
+    {
+      "babId": "bab-50",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Hutang Piutang dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Hutang Piutang dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Waris' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Waris",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Waris' membahas tentang adab waris dalam Islam."
+    },
+    {
+      "babId": "bab-51",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Waris dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Waris dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Nikah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Nikah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Nikah' membahas tentang adab nikah dalam Islam."
+    },
+    {
+      "babId": "bab-52",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Nikah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Nikah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Cerai' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Cerai",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Cerai' membahas tentang adab cerai dalam Islam."
+    },
+    {
+      "babId": "bab-53",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Cerai dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Cerai dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Menyusui' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Menyusui",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Menyusui' membahas tentang adab menyusui dalam Islam."
+    },
+    {
+      "babId": "bab-54",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Menyusui dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Menyusui dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berperang' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berperang",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berperang' membahas tentang adab berperang dalam Islam."
+    },
+    {
+      "babId": "bab-55",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berperang dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berperang dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Damai' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Damai",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Damai' membahas tentang adab damai dalam Islam."
+    },
+    {
+      "babId": "bab-56",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Damai dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Damai dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Sumpah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Sumpah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Sumpah' membahas tentang adab sumpah dalam Islam."
+    },
+    {
+      "babId": "bab-57",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Sumpah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Sumpah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Nazar' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Nazar",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Nazar' membahas tentang adab nazar dalam Islam."
+    },
+    {
+      "babId": "bab-58",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Nazar dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Nazar dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Kurban' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Kurban",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Kurban' membahas tentang adab kurban dalam Islam."
+    },
+    {
+      "babId": "bab-59",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Kurban dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Kurban dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Aqiqah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Aqiqah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Aqiqah' membahas tentang adab aqiqah dalam Islam."
+    },
+    {
+      "babId": "bab-60",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Aqiqah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Aqiqah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Jenazah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Jenazah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Jenazah' membahas tentang adab jenazah dalam Islam."
+    },
+    {
+      "babId": "bab-61",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Jenazah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Jenazah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Ziarah Kubur' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Ziarah Kubur",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Ziarah Kubur' membahas tentang adab ziarah kubur dalam Islam."
+    },
+    {
+      "babId": "bab-62",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Ziarah Kubur dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Ziarah Kubur dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berdzikir Pagi' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berdzikir Pagi",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berdzikir Pagi' membahas tentang adab berdzikir pagi dalam Islam."
+    },
+    {
+      "babId": "bab-63",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berdzikir Pagi dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berdzikir Pagi dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Berdzikir Petang' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Berdzikir Petang",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Berdzikir Petang' membahas tentang adab berdzikir petang dalam Islam."
+    },
+    {
+      "babId": "bab-64",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Berdzikir Petang dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Berdzikir Petang dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Sebelum Tidur' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Sebelum Tidur",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Sebelum Tidur' membahas tentang adab sebelum tidur dalam Islam."
+    },
+    {
+      "babId": "bab-65",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Sebelum Tidur dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Sebelum Tidur dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Bangun Malam' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Bangun Malam",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Bangun Malam' membahas tentang adab bangun malam dalam Islam."
+    },
+    {
+      "babId": "bab-66",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Bangun Malam dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Bangun Malam dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-67",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Tahajud' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Tahajud",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Tahajud' membahas tentang adab shalat tahajud dalam Islam."
+    },
+    {
+      "babId": "bab-67",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Tahajud dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Tahajud dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-68",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Dhuha' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Dhuha",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Dhuha' membahas tentang adab shalat dhuha dalam Islam."
+    },
+    {
+      "babId": "bab-68",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Dhuha dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Dhuha dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-69",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Istighatsah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Istighatsah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Istighatsah' membahas tentang adab shalat istighatsah dalam Islam."
+    },
+    {
+      "babId": "bab-69",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Istighatsah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Istighatsah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-70",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Hajat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Hajat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Hajat' membahas tentang adab shalat hajat dalam Islam."
+    },
+    {
+      "babId": "bab-70",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Hajat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Hajat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-71",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Taubat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Taubat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Taubat' membahas tentang adab shalat taubat dalam Islam."
+    },
+    {
+      "babId": "bab-71",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Taubat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Taubat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-72",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Tawaf' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Tawaf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Tawaf' membahas tentang adab shalat tawaf dalam Islam."
+    },
+    {
+      "babId": "bab-72",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Tawaf dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Tawaf dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-73",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Sa'i' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Sa'i",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Sa'i' membahas tentang adab shalat sa'i dalam Islam."
+    },
+    {
+      "babId": "bab-73",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Sa'i dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Sa'i dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-74",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Gerhana' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Gerhana",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Gerhana' membahas tentang adab shalat gerhana dalam Islam."
+    },
+    {
+      "babId": "bab-74",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Gerhana dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Gerhana dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-75",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Id' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Id",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Id' membahas tentang adab shalat id dalam Islam."
+    },
+    {
+      "babId": "bab-75",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Id dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Id dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-76",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Jumat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Jumat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Jumat' membahas tentang adab shalat jumat dalam Islam."
+    },
+    {
+      "babId": "bab-76",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Jumat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Jumat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-77",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Kusuf' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Kusuf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Kusuf' membahas tentang adab shalat kusuf dalam Islam."
+    },
+    {
+      "babId": "bab-77",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Kusuf dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Kusuf dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-78",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Khusuf' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Khusuf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Khusuf' membahas tentang adab shalat khusuf dalam Islam."
+    },
+    {
+      "babId": "bab-78",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Khusuf dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Khusuf dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-79",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Istisqa' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Istisqa",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Istisqa' membahas tentang adab shalat istisqa dalam Islam."
+    },
+    {
+      "babId": "bab-79",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Istisqa dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Istisqa dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-80",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Adab Shalat Khauf' Riyadhus Shalihin?",
+      "pilihan": [
+        "Adab Shalat Khauf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Adab Shalat Khauf' membahas tentang adab shalat khauf dalam Islam."
+    },
+    {
+      "babId": "bab-80",
+      "pertanyaan": "Riyadhus Shalihin membahas Adab Shalat Khauf dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Adab Shalat Khauf dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-81",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Akhlak Mulia' Riyadhus Shalihin?",
+      "pilihan": [
+        "Akhlak Mulia",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Akhlak Mulia' membahas tentang akhlak mulia dalam Islam."
+    },
+    {
+      "babId": "bab-81",
+      "pertanyaan": "Riyadhus Shalihin membahas Akhlak Mulia dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Akhlak Mulia dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-82",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Akhlak Buruk' Riyadhus Shalihin?",
+      "pilihan": [
+        "Akhlak Buruk",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Akhlak Buruk' membahas tentang akhlak buruk dalam Islam."
+    },
+    {
+      "babId": "bab-82",
+      "pertanyaan": "Riyadhus Shalihin membahas Akhlak Buruk dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Akhlak Buruk dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-83",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Penyakit Hati' Riyadhus Shalihin?",
+      "pilihan": [
+        "Penyakit Hati",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Penyakit Hati' membahas tentang penyakit hati dalam Islam."
+    },
+    {
+      "babId": "bab-83",
+      "pertanyaan": "Riyadhus Shalihin membahas Penyakit Hati dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Penyakit Hati dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-84",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Obat Hati' Riyadhus Shalihin?",
+      "pilihan": [
+        "Obat Hati",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Obat Hati' membahas tentang obat hati dalam Islam."
+    },
+    {
+      "babId": "bab-84",
+      "pertanyaan": "Riyadhus Shalihin membahas Obat Hati dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Obat Hati dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-85",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Sabar' Riyadhus Shalihin?",
+      "pilihan": [
+        "Sabar",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Sabar' membahas tentang sabar dalam Islam."
+    },
+    {
+      "babId": "bab-85",
+      "pertanyaan": "Riyadhus Shalihin membahas Sabar dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Sabar dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-86",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Syukur' Riyadhus Shalihin?",
+      "pilihan": [
+        "Syukur",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Syukur' membahas tentang syukur dalam Islam."
+    },
+    {
+      "babId": "bab-86",
+      "pertanyaan": "Riyadhus Shalihin membahas Syukur dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Syukur dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-87",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Ridha' Riyadhus Shalihin?",
+      "pilihan": [
+        "Ridha",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Ridha' membahas tentang ridha dalam Islam."
+    },
+    {
+      "babId": "bab-87",
+      "pertanyaan": "Riyadhus Shalihin membahas Ridha dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Ridha dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-88",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tawakkal' Riyadhus Shalihin?",
+      "pilihan": [
+        "Tawakkal",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Tawakkal' membahas tentang tawakkal dalam Islam."
+    },
+    {
+      "babId": "bab-88",
+      "pertanyaan": "Riyadhus Shalihin membahas Tawakkal dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Tawakkal dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-89",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Kerendahan Hati' Riyadhus Shalihin?",
+      "pilihan": [
+        "Kerendahan Hati",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Kerendahan Hati' membahas tentang kerendahan hati dalam Islam."
+    },
+    {
+      "babId": "bab-89",
+      "pertanyaan": "Riyadhus Shalihin membahas Kerendahan Hati dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Kerendahan Hati dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-90",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Kesombongan' Riyadhus Shalihin?",
+      "pilihan": [
+        "Kesombongan",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Kesombongan' membahas tentang kesombongan dalam Islam."
+    },
+    {
+      "babId": "bab-90",
+      "pertanyaan": "Riyadhus Shalihin membahas Kesombongan dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Kesombongan dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-91",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Kedengkian' Riyadhus Shalihin?",
+      "pilihan": [
+        "Kedengkian",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Kedengkian' membahas tentang kedengkian dalam Islam."
+    },
+    {
+      "babId": "bab-91",
+      "pertanyaan": "Riyadhus Shalihin membahas Kedengkian dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Kedengkian dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-92",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Riya'' Riyadhus Shalihin?",
+      "pilihan": [
+        "Riya'",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Riya'' membahas tentang riya' dalam Islam."
+    },
+    {
+      "babId": "bab-92",
+      "pertanyaan": "Riyadhus Shalihin membahas Riya' dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Riya' dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-93",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Birrul Walidain' Riyadhus Shalihin?",
+      "pilihan": [
+        "Birrul Walidain",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Birrul Walidain' membahas tentang birrul walidain dalam Islam."
+    },
+    {
+      "babId": "bab-93",
+      "pertanyaan": "Riyadhus Shalihin membahas Birrul Walidain dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Birrul Walidain dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-94",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Silaturahmi' Riyadhus Shalihin?",
+      "pilihan": [
+        "Silaturahmi",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Silaturahmi' membahas tentang silaturahmi dalam Islam."
+    },
+    {
+      "babId": "bab-94",
+      "pertanyaan": "Riyadhus Shalihin membahas Silaturahmi dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Silaturahmi dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-95",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Jilalah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Jilalah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Jilalah' membahas tentang jilalah dalam Islam."
+    },
+    {
+      "babId": "bab-95",
+      "pertanyaan": "Riyadhus Shalihin membahas Jilalah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Jilalah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-96",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Tahajud' Riyadhus Shalihin?",
+      "pilihan": [
+        "Tahajud",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Tahajud' membahas tentang tahajud dalam Islam."
+    },
+    {
+      "babId": "bab-96",
+      "pertanyaan": "Riyadhus Shalihin membahas Tahajud dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Tahajud dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-97",
+      "pertanyaan": "Apa yang dibahas dalam bab 'I'tikaf' Riyadhus Shalihin?",
+      "pilihan": [
+        "I'tikaf",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'I'tikaf' membahas tentang i'tikaf dalam Islam."
+    },
+    {
+      "babId": "bab-97",
+      "pertanyaan": "Riyadhus Shalihin membahas I'tikaf dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas I'tikaf dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-98",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Shalat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Fadhilah Shalat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Fadhilah Shalat' membahas tentang fadhilah shalat dalam Islam."
+    },
+    {
+      "babId": "bab-98",
+      "pertanyaan": "Riyadhus Shalihin membahas Fadhilah Shalat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Fadhilah Shalat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-99",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Puasa' Riyadhus Shalihin?",
+      "pilihan": [
+        "Fadhilah Puasa",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Fadhilah Puasa' membahas tentang fadhilah puasa dalam Islam."
+    },
+    {
+      "babId": "bab-99",
+      "pertanyaan": "Riyadhus Shalihin membahas Fadhilah Puasa dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Fadhilah Puasa dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-100",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Zakat' Riyadhus Shalihin?",
+      "pilihan": [
+        "Fadhilah Zakat",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Fadhilah Zakat' membahas tentang fadhilah zakat dalam Islam."
+    },
+    {
+      "babId": "bab-100",
+      "pertanyaan": "Riyadhus Shalihin membahas Fadhilah Zakat dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Fadhilah Zakat dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-101",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Haji' Riyadhus Shalihin?",
+      "pilihan": [
+        "Fadhilah Haji",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Fadhilah Haji' membahas tentang fadhilah haji dalam Islam."
+    },
+    {
+      "babId": "bab-101",
+      "pertanyaan": "Riyadhus Shalihin membahas Fadhilah Haji dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Fadhilah Haji dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-102",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Ilmu' Riyadhus Shalihin?",
+      "pilihan": [
+        "Fadhilah Ilmu",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Fadhilah Ilmu' membahas tentang fadhilah ilmu dalam Islam."
+    },
+    {
+      "babId": "bab-102",
+      "pertanyaan": "Riyadhus Shalihin membahas Fadhilah Ilmu dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Fadhilah Ilmu dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-103",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Sedekah' Riyadhus Shalihin?",
+      "pilihan": [
+        "Fadhilah Sedekah",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Fadhilah Sedekah' membahas tentang fadhilah sedekah dalam Islam."
+    },
+    {
+      "babId": "bab-103",
+      "pertanyaan": "Riyadhus Shalihin membahas Fadhilah Sedekah dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Fadhilah Sedekah dalam konteks akhlak dan ibadah."
+    },
+    {
+      "babId": "bab-104",
+      "pertanyaan": "Apa yang dibahas dalam bab 'Fadhilah Doa' Riyadhus Shalihin?",
+      "pilihan": [
+        "Fadhilah Doa",
+        "Hukum Waris",
+        "Hukum Pidana",
+        "Hukum Perdagangan"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Bab 'Fadhilah Doa' membahas tentang fadhilah doa dalam Islam."
+    },
+    {
+      "babId": "bab-104",
+      "pertanyaan": "Riyadhus Shalihin membahas Fadhilah Doa dalam konteks?",
+      "pilihan": [
+        "Akhlak dan ibadah",
+        "Politik",
+        "Ekonomi",
+        "Sains"
+      ],
+      "jawabanBenar": 0,
+      "penjelasan": "Riyadhus Shalihin membahas Fadhilah Doa dalam konteks akhlak dan ibadah."
+    }
+  ]
+}

@@ -1,0 +1,1102 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#123c62">
+  <title>Maktabah Daarul Azmi | Baca Kitab</title>
+
+  <link rel="icon" href="/assets/icons/logoDA.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --green: #123c62;
+      --green-dark: #0d2b48;
+      --green-soft: #e9f1f8;
+      --gold: #d9ac55;
+      --ink: #263747;
+      --muted: #77838d;
+      --line: #e7ebef;
+      --paper: #f7f8f6;
+      --white: #fff;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "DM Sans", Arial, sans-serif;
+      font-size: 14px;
+      line-height: 1.65;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    button, input {
+      font: inherit;
+    }
+
+    /* HEADER */
+    .site-header {
+      position: sticky;
+      z-index: 20;
+      top: 0;
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.97);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(12px);
+    }
+
+    .header-inner {
+      display: flex;
+      width: min(1200px, calc(100% - 48px));
+      height: 64px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      margin: auto;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-logo {
+      width: 38px;
+      height: 38px;
+      flex: 0 0 38px;
+      object-fit: contain;
+    }
+
+    .brand-copy {
+      display: grid;
+      line-height: 1.35;
+    }
+
+    .brand-copy strong {
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .brand-copy > span {
+      color: var(--muted);
+      font-size: 9px;
+    }
+
+    .header-actions {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .header-back {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--green);
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .btn-quiz {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 6px 14px;
+      border: 1px solid var(--gold);
+      border-radius: 6px;
+      background: transparent;
+      color: var(--gold);
+      font-size: 11px;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+
+    .btn-quiz:hover {
+      background: var(--gold);
+      color: var(--white);
+    }
+
+    .header-back:hover {
+      color: var(--green-dark);
+    }
+
+    .header-back span {
+      color: var(--gold);
+      font-size: 15px;
+    }
+
+    /* LAYOUT */
+    .reader-layout {
+      display: grid;
+      width: min(1200px, calc(100% - 48px));
+      grid-template-columns: 310px minmax(0, 1fr);
+      align-items: start;
+      gap: 24px;
+      margin: 30px auto;
+      min-height: calc(100vh - 64px);
+    }
+
+    /* SIDEBAR */
+    .sidebar {
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      box-shadow: 0 5px 22px rgba(23, 53, 40, 0.03);
+      overflow: hidden;
+      position: sticky;
+      top: 84px;
+      height: calc(100vh - 84px);
+      overflow-y: auto;
+      transition: transform 0.3s ease;
+    }
+
+    .panel-heading {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 21px 20px 16px;
+    }
+
+    .panel-heading .eyebrow {
+      margin: 0 0 3px;
+      color: var(--gold);
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.16em;
+    }
+
+    .panel-heading h2 {
+      margin: 0;
+      font-family: Georgia, serif;
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    .surah-total {
+      display: grid;
+      width: 34px;
+      height: 34px;
+      place-items: center;
+      color: var(--green);
+      background: var(--green-soft);
+      border-radius: 50%;
+      font-size: 11px;
+      font-weight: 700;
+    }
+
+    .sidebar-kitab-arabic {
+      font-family: "Noto Naskh Arabic", serif;
+      font-size: 15px;
+      color: var(--green);
+      direction: rtl;
+      text-align: right;
+      margin-top: 6px;
+      line-height: 1.8;
+    }
+
+    .sidebar-kitab-author {
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    /* SEARCH */
+    .search-box {
+      display: flex;
+      height: 42px;
+      align-items: center;
+      gap: 9px;
+      margin: 0 16px 13px;
+      padding: 0 11px;
+      background: #f8f9f7;
+      border: 1px solid #e8ece8;
+      border-radius: 6px;
+    }
+
+    .search-icon {
+      color: #75827b;
+      font-size: 23px;
+      line-height: 1;
+      transform: rotate(-20deg);
+    }
+
+    .search-box input {
+      width: 100%;
+      min-width: 0;
+      padding: 0;
+      color: var(--ink);
+      background: transparent;
+      border: 0;
+      outline: 0;
+      font-size: 12px;
+    }
+
+    .search-box input::placeholder {
+      color: #9aa39e;
+    }
+
+    .search-box:focus-within {
+      border-color: #91acc3;
+      box-shadow: 0 0 0 3px rgba(18, 60, 98, 0.08);
+    }
+
+    /* CHAPTER LIST */
+    .chapter-list {
+      list-style: none;
+      padding: 0 8px 10px;
+      max-height: calc(100vh - 280px);
+      overflow-y: auto;
+    }
+
+    .chapter-item {
+      display: flex;
+      width: 100%;
+      min-height: 54px;
+      align-items: center;
+      gap: 11px;
+      padding: 8px 10px;
+      text-align: left;
+      background: transparent;
+      border: 0;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.16s ease;
+    }
+
+    .chapter-item:hover {
+      background: #f6f8f5;
+    }
+
+    .chapter-item.active {
+      background: var(--green-soft);
+    }
+
+    .chapter-number {
+      display: grid;
+      width: 30px;
+      height: 30px;
+      flex: 0 0 30px;
+      place-items: center;
+      color: #61758a;
+      background: #f0f3f6;
+      border-radius: 50%;
+      font-size: 10px;
+      font-weight: 600;
+    }
+
+    .chapter-item.active .chapter-number {
+      color: white;
+      background: var(--green);
+    }
+
+    .chapter-title {
+      display: grid;
+      min-width: 0;
+      flex: 1;
+      line-height: 1.4;
+    }
+
+    .chapter-title strong {
+      overflow: hidden;
+      color: #334655;
+      font-size: 12px;
+      font-weight: 600;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .chapter-count {
+      padding: 12px 20px;
+      font-size: 11px;
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      text-align: center;
+    }
+
+    /* MAIN CONTENT */
+    .main-content {
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      box-shadow: 0 5px 22px rgba(23, 53, 40, 0.03);
+      min-width: 0;
+      padding: 0 32px 26px;
+      overflow-y: auto;
+    }
+
+    /* Loading state */
+    .loading-state {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 60vh;
+      color: var(--muted);
+    }
+
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid var(--line);
+      border-top-color: var(--gold);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 16px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Welcome state */
+    .welcome-state {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 60vh;
+      text-align: center;
+      padding: 40px;
+      color: var(--muted);
+    }
+
+    .welcome-state h2 {
+      font-family: Georgia, serif;
+      font-size: 28px;
+      color: var(--ink);
+      margin-bottom: 8px;
+    }
+
+    .welcome-state p {
+      font-size: 14px;
+      line-height: 1.7;
+      max-width: 400px;
+    }
+
+    /* Breadcrumb */
+    .reader-toolbar {
+      display: flex;
+      min-height: 58px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: #909992;
+      font-size: 11px;
+    }
+
+    .breadcrumb span:last-child {
+      color: #516159;
+      font-weight: 600;
+    }
+
+    /* Bab header */
+    .bab-header {
+      display: flex;
+      min-height: 150px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      padding: 24px 2px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .surah-kicker {
+      margin: 0 0 4px;
+      color: var(--gold);
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.16em;
+    }
+
+    .bab-title {
+      margin: 0;
+      color: #263a30;
+      font-family: Georgia, serif;
+      font-size: 27px;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    .bab-meta {
+      margin: 6px 0 0;
+      color: #7f8a83;
+      font-size: 11px;
+    }
+
+    .bab-title-arabic {
+      margin: 0;
+      color: var(--green);
+      font-family: "Noto Naskh Arabic", serif;
+      font-size: 36px;
+      line-height: 1.5;
+    }
+
+    .bab-keterangan {
+      margin-top: 10px;
+      font-size: 12px;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    /* Text content */
+    .bab-body {
+      padding: 30px 0;
+      max-width: 900px;
+    }
+
+    .text-section {
+      margin-bottom: 40px;
+    }
+
+    .text-section-label {
+      margin: 0 0 16px;
+      color: var(--gold);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--gold);
+      display: inline-block;
+    }
+
+    .text-arabic {
+      font-family: "Noto Naskh Arabic", "Traditional Arabic", "Times New Roman", serif;
+      font-size: 28px;
+      font-weight: 500;
+      line-height: 2.2;
+      direction: rtl;
+      text-align: right;
+      color: #153c5a;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+
+    .text-indonesia {
+      font-size: 15px;
+      line-height: 1.9;
+      color: #66736b;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+
+    /* Navigation */
+    .surah-navigation {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      margin-top: 20px;
+      padding-top: 20px;
+      border-top: 1px solid var(--line);
+    }
+
+    .nav-button {
+      display: inline-flex;
+      max-width: 48%;
+      min-width: 0;
+      align-items: center;
+      gap: 10px;
+      padding: 9px 12px;
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      cursor: pointer;
+      text-align: left;
+      transition: 0.16s;
+    }
+
+    .nav-button:hover:not(:disabled) {
+      border-color: #b4c6d6;
+      background: #f7fafc;
+    }
+
+    .nav-button:disabled {
+      opacity: 0.46;
+      cursor: not-allowed;
+    }
+
+    .nav-button > span:nth-child(2),
+    .nav-next > span:first-child {
+      display: grid;
+      min-width: 0;
+    }
+
+    .nav-button small {
+      color: #87918a;
+      font-size: 9px;
+    }
+
+    .nav-button strong {
+      overflow: hidden;
+      max-width: 190px;
+      color: #334139;
+      font-size: 11px;
+      font-weight: 600;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .nav-arrow {
+      color: var(--green);
+      font-size: 16px;
+    }
+
+    .nav-next {
+      text-align: right;
+    }
+
+    /* Error state */
+    .error-state {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 60vh;
+      text-align: center;
+      padding: 40px;
+      color: #a63f36;
+    }
+
+    .error-state h3 {
+      font-family: Georgia, serif;
+      font-size: 22px;
+      margin-bottom: 8px;
+      color: var(--ink);
+    }
+
+    .error-state p {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+
+    .error-state button {
+      padding: 10px 20px;
+      color: white;
+      background: var(--green);
+      border: 0;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .error-state button:hover {
+      background: var(--green-dark);
+    }
+
+    /* Mobile sidebar toggle */
+    .sidebar-toggle {
+      display: none;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: var(--green);
+      color: white;
+      border: none;
+      cursor: pointer;
+      box-shadow: 0 18px 50px rgba(38, 59, 74, 0.08);
+      font-size: 20px;
+      z-index: 200;
+    }
+
+    .sidebar-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 149;
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 860px) {
+      .reader-layout {
+        grid-template-columns: 270px minmax(0, 1fr);
+        gap: 16px;
+      }
+
+      .main-content {
+        padding-inline: 23px;
+      }
+
+      .bab-title-arabic {
+        font-size: 30px;
+      }
+
+      .bab-title {
+        font-size: 23px;
+      }
+    }
+
+    @media (max-width: 680px) {
+      .header-inner {
+        width: min(100% - 28px, 520px);
+        height: 66px;
+      }
+
+      .reader-layout {
+        width: min(100% - 28px, 520px);
+        grid-template-columns: 1fr;
+        gap: 14px;
+        margin-top: 16px;
+      }
+
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 0;
+        height: 100vh;
+        width: 300px;
+        z-index: 150;
+        transform: translateX(-100%);
+        border-radius: 0;
+      }
+
+      .sidebar.open {
+        transform: translateX(0);
+      }
+
+      .sidebar-toggle {
+        display: grid;
+        place-items: center;
+      }
+
+      .sidebar-overlay.show {
+        display: block;
+        z-index: 149;
+      }
+
+      .panel-heading {
+        padding: 15px 16px 11px;
+      }
+
+      .panel-heading h2 {
+        font-size: 18px;
+      }
+
+      .search-box {
+        margin-inline: 12px;
+      }
+
+      .main-content {
+        padding: 0 17px 19px;
+      }
+
+      .reader-toolbar {
+        min-height: 52px;
+        gap: 7px;
+      }
+
+      .bab-header {
+        min-height: 116px;
+        padding: 17px 0;
+      }
+
+      .bab-title-arabic {
+        font-size: 26px;
+      }
+
+      .bab-title {
+        font-size: 22px;
+      }
+
+      .text-arabic {
+        font-size: 24px;
+        line-height: 2;
+      }
+
+      .text-indonesia {
+        font-size: 13px;
+      }
+
+      .nav-button {
+        padding: 8px;
+      }
+
+      .nav-button strong {
+        max-width: 110px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        scroll-behavior: auto !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="/" aria-label="Maktabah Daarul Azmi, beranda">
+      <img class="brand-logo" src="/assets/icons/logoDA.png" alt="">
+      <span class="brand-copy">
+        <strong>Maktabah</strong>
+        <span>Pondok Pesantren Daarul Azmi</span>
+      </span>
+    </a>
+    <div class="header-actions">
+      <a class="btn-quiz" id="quizLink" href="#">
+        📝 Kuis
+      </a>
+      <a class="header-back" href="/">
+        <span aria-hidden="true">←</span> Kembali ke Katalog
+      </a>
+    </div>
+  </div>
+</header>
+
+<button class="sidebar-toggle" id="sidebarToggle" aria-label="Buka daftar bab">☰</button>
+<div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+<div class="reader-layout">
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div class="panel-heading" id="sidebarHeader">
+      <div>
+        <p class="eyebrow">Jelajahi</p>
+        <h2>Daftar Bab</h2>
+      </div>
+      <span class="surah-total" id="surahTotal" aria-label="Jumlah bab">—</span>
+    </div>
+    <label class="search-box" for="chapterSearch">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input id="chapterSearch" type="search" placeholder="Cari bab..." aria-label="Cari bab" autocomplete="off">
+    </label>
+    <ol class="chapter-list" id="chapterList" aria-label="Daftar bab kitab"></ol>
+    <div class="chapter-count" id="chapterCount"></div>
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content" id="mainContent">
+    <div class="welcome-state">
+      <h2>📖 Baca Kitab</h2>
+      <p>Pilih bab dari daftar di sebelah kiri untuk mulai membaca.</p>
+    </div>
+  </main>
+</div>
+
+<script>
+  const sidebar = document.getElementById("sidebar");
+  const sidebarHeader = document.getElementById("sidebarHeader");
+  const chapterList = document.getElementById("chapterList");
+  const chapterCount = document.getElementById("chapterCount");
+  const surahTotal = document.getElementById("surahTotal");
+  const chapterSearch = document.getElementById("chapterSearch");
+  const mainContent = document.getElementById("mainContent");
+  const sidebarToggle = document.getElementById("sidebarToggle");
+  const sidebarOverlay = document.getElementById("sidebarOverlay");
+
+  let kitabData = null;
+  let chapters = [];
+  let currentBabNomor = null;
+
+  // Extract slug from URL
+  // URL format: /kitab/{slug} or /kitab/{slug}/{bab}
+  // pathParts: ["kitab", "slug", "bab"]
+  const pathParts = window.location.pathname.split("/").filter(Boolean);
+  const slug = pathParts[1] || "";
+
+  function escapeHTML(value = "") {
+    return String(value).replace(/[&<>"']/g, char => ({
+      "&": "&amp;",
+      "<": "&lt;",
+      ">": "&gt;",
+      '"': "&quot;",
+      "'": "&#39;"
+    })[char]);
+  }
+
+  // Mobile sidebar toggle
+  sidebarToggle.addEventListener("click", () => {
+    sidebar.classList.toggle("open");
+    sidebarOverlay.classList.toggle("show");
+  });
+
+  sidebarOverlay.addEventListener("click", () => {
+    sidebar.classList.remove("open");
+    sidebarOverlay.classList.remove("show");
+  });
+
+  // Search chapters
+  chapterSearch.addEventListener("input", () => {
+    const query = chapterSearch.value.trim().toLocaleLowerCase("id");
+    const items = chapterList.querySelectorAll(".chapter-item");
+    items.forEach(item => {
+      const title = item.dataset.title || "";
+      item.style.display = title.toLocaleLowerCase("id").includes(query) ? "" : "none";
+    });
+  });
+
+  // Load kitab details
+  async function loadKitab() {
+    if (!slug) {
+      mainContent.innerHTML = `
+        <div class="error-state">
+          <h3>Kitab tidak dipilih</h3>
+          <p>Pilih kitab dari katalog untuk mulai membaca.</p>
+          <a href="/"><button>Kembali ke Katalog</button></a>
+        </div>`;
+      return;
+    }
+
+    mainContent.innerHTML = `
+      <div class="loading-state">
+        <div class="loading-spinner"></div>
+        <p>Memuat daftar bab...</p>
+      </div>`;
+
+    try {
+      if (!location.hostname || location.protocol === "file:") {
+        throw new TypeError("Server tidak terdeteksi");
+      }
+
+      const response = await fetch(`/api/kitab/${slug}`);
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      const payload = await response.json();
+      kitabData = payload.data?.kitab || {};
+      chapters = payload.data?.bab || [];
+
+      // Update sidebar header
+      sidebarHeader.innerHTML = `
+        <div>
+          <p class="eyebrow">Jelajahi</p>
+          <h2>${escapeHTML(kitabData.nama || "Kitab")}</h2>
+        </div>
+        <span class="surah-total" id="surahTotal" aria-label="Jumlah bab">${chapters.length}</span>
+      `;
+
+      // Update total badge
+      surahTotal.textContent = chapters.length;
+
+      // Render chapter list
+      renderChapters(chapters);
+
+      // Check URL for specific bab (pathParts: ["kitab", "slug", "bab"])
+      const babNomor = pathParts[2];
+      if (babNomor) {
+        loadBab(parseInt(babNomor));
+      } else if (chapters.length > 0) {
+        // Load first chapter by default
+        loadBab(chapters[0].nomor);
+      }
+    } catch (error) {
+      let message;
+      if (!location.hostname || location.protocol === "file:") {
+        message = "Server tidak berjalan. Buka terminal di folder proyek, jalankan perintah &quot;npm start&quot;, lalu buka http://localhost:3000 di browser.";
+      } else if (error instanceof TypeError) {
+        message = "Tidak dapat menghubungi server. Pastikan server berjalan dengan menjalankan &quot;npm start&quot; di terminal, lalu buka http://localhost:3000.";
+      } else {
+        message = error.message + ". Pastikan server berjalan.";
+      }
+      mainContent.innerHTML = `
+        <div class="error-state">
+          <h3>Gagal memuat kitab</h3>
+          <p>${message}</p>
+          <a href="/"><button>Kembali ke Katalog</button></a>
+        </div>`;
+    }
+  }
+
+  function renderChapters(list) {
+    chapterList.innerHTML = list.map(ch => `
+      <li class="chapter-item${ch.nomor === currentBabNomor ? " active" : ""}"
+          data-nomor="${ch.nomor}"
+          data-title="${escapeHTML(ch.judul || "")}"
+          onclick="loadBab(${ch.nomor})">
+        <span class="chapter-number">${ch.nomor}</span>
+        <span class="chapter-title"><strong>${escapeHTML(ch.judul || "Bab " + ch.nomor)}</strong></span>
+      </li>
+    `).join("");
+
+    chapterCount.textContent = `${list.length} bab tersedia`;
+  }
+
+  // Load a specific bab
+  async function loadBab(nomor) {
+    // Guard: don't load if kitab data is not ready
+    if (!kitabData || !slug) {
+      return;
+    }
+
+    currentBabNomor = nomor;
+
+    // Update URL without reload
+    const newUrl = `/kitab/${slug}/${nomor}`;
+    if (window.location.pathname !== newUrl) {
+      history.pushState({ bab: nomor }, "", newUrl);
+    }
+
+    // Update active state in sidebar
+    chapterList.querySelectorAll(".chapter-item").forEach(item => {
+      item.classList.toggle("active", parseInt(item.dataset.nomor) === nomor);
+    });
+
+    // Close mobile sidebar
+    sidebar.classList.remove("open");
+    sidebarOverlay.classList.remove("show");
+
+    // Show loading
+    mainContent.innerHTML = `
+      <div class="loading-state">
+        <div class="loading-spinner"></div>
+        <p>Memuat bab ${nomor}...</p>
+      </div>`;
+
+    try {
+      const response = await fetch(`/api/kitab/${slug}/bab/${nomor}`);
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      const payload = await response.json();
+      const bab = payload.data || {};
+
+      renderBab(bab);
+    } catch (error) {
+      mainContent.innerHTML = `
+        <div class="error-state">
+          <h3>Gagal memuat bab</h3>
+          <p>${escapeHTML(error.message)}</p>
+          <button onclick="loadBab(${nomor})">Coba Lagi</button>
+        </div>`;
+    }
+  }
+
+  function renderBab(bab) {
+    const teksArab = bab.teks_arab || "";
+    const teksIndonesia = bab.teks_indonesia || "";
+
+    // Find previous and next bab
+    const currentIndex = chapters.findIndex(ch => ch.nomor === bab.nomor);
+    const prevBab = currentIndex > 0 ? chapters[currentIndex - 1] : null;
+    const nextBab = currentIndex < chapters.length - 1 ? chapters[currentIndex + 1] : null;
+
+    mainContent.innerHTML = `
+      <div class="reader-toolbar">
+        <div class="breadcrumb">
+          <span>Maktabah</span>
+          <span aria-hidden="true">/</span>
+          <span id="current-surah-crumb">${escapeHTML(kitabData.nama || "Kitab")}</span>
+        </div>
+      </div>
+
+      <header class="bab-header">
+        <div class="surah-heading-copy">
+          <p class="surah-kicker">BAB ${bab.nomor} DARI ${chapters.length}</p>
+          <h2 class="bab-title">${escapeHTML(bab.judul || "Bab " + bab.nomor)}</h2>
+          ${bab.keterangan ? `<p class="bab-keterangan">${escapeHTML(bab.keterangan)}</p>` : ""}
+        </div>
+        ${bab.judul_arab ? `<p class="bab-title-arabic">${escapeHTML(bab.judul_arab)}</p>` : ""}
+      </header>
+
+      <div class="bab-body">
+        ${teksArab ? `
+          <div class="text-section">
+            <div class="text-section-label">Teks Arab</div>
+            <div class="text-arabic">${escapeHTML(teksArab)}</div>
+          </div>
+        ` : ""}
+
+        ${teksIndonesia ? `
+          <div class="text-section">
+            <div class="text-section-label">Terjemahan Indonesia</div>
+            <div class="text-indonesia">${escapeHTML(teksIndonesia)}</div>
+          </div>
+        ` : ""}
+
+        ${!teksArab && !teksIndonesia ? `
+          <div class="text-section" style="text-align:center;color:var(--muted);padding:40px 0;">
+            <p>Bab ini belum memiliki konten.</p>
+          </div>
+        ` : ""}
+      </div>
+
+      <nav class="surah-navigation" aria-label="Navigasi bab">
+        ${prevBab ? `
+          <button class="nav-button nav-previous" onclick="loadBab(${prevBab.nomor})" type="button">
+            <span class="nav-arrow" aria-hidden="true">←</span>
+            <span><small>Bab sebelumnya</small><strong>${escapeHTML(prevBab.judul || "Bab " + prevBab.nomor)}</strong></span>
+          </button>
+        ` : '<div></div>'}
+
+        ${nextBab ? `
+          <button class="nav-button nav-next" onclick="loadBab(${nextBab.nomor})" type="button">
+            <span><small>Bab berikutnya</small><strong>${escapeHTML(nextBab.judul || "Bab " + nextBab.nomor)}</strong></span>
+            <span class="nav-arrow" aria-hidden="true">→</span>
+          </button>
+        ` : '<div></div>'}
+      </nav>
+    `;
+
+    // Scroll to top of content
+    mainContent.scrollTop = 0;
+  }
+
+  // Handle browser back/forward
+  window.addEventListener("popstate", (event) => {
+    const newPathParts = window.location.pathname.split("/").filter(Boolean);
+    const newSlug = newPathParts[1] || "";
+
+    if (newSlug && newSlug !== slug) {
+      window.location.reload();
+      return;
+    }
+
+    if (event.state && event.state.bab) {
+      loadBab(event.state.bab);
+    } else if (newPathParts[2]) {
+      loadBab(parseInt(newPathParts[2]));
+    }
+  });
+
+  // Update quiz link when kitab data loads
+  function updateQuizLink() {
+    const quizLink = document.getElementById("quizLink");
+    if (quizLink && slug) {
+      quizLink.href = `/kuis/${slug}`;
+    }
+  }
+
+  // Initialize
+  loadKitab();
+  updateQuizLink();
+</script>
+
+</body>
+</html>

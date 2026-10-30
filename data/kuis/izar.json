@@ -1,0 +1,104 @@
+{
+  "kitab": "Fathul Izar",
+  "slug": "izar",
+  "soal": [
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Fathul Izar artinya?",
+      "pilihan": ["Pembukaan Kebahagiaan", "Pembukaan Kesulitan", "Pembukaan Harta", "Pembukaan Kekuasaan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Fathul Izar artinya 'Pembukaan Kebahagiaan', yaitu kitab yang membahas hukum pernikahan dan keluarga."
+    },
+    {
+      "babId": "bab-1",
+      "pertanyaan": "Kitab Fathul Izar membahas tentang?",
+      "pilihan": ["Hukum pernikahan", "Hukum waris", "Hukum pidana", "Hukum perdagangan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Kitab Fathul Izar membahas tentang hukum pernikahan dan keluarga."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Muqadimah artinya?",
+      "pilihan": ["Pendahuluan", "Penutup", "Isi", "Lampiran"],
+      "jawabanBenar": 0,
+      "penjelasan": "Muqadimah artinya pendahuluan, yaitu bagian awal kitab yang menjelaskan tujuan dan isi kitab."
+    },
+    {
+      "babId": "bab-2",
+      "pertanyaan": "Tujuan menulis Fathul Izar adalah?",
+      "pilihan": ["Menjelaskan hukum pernikahan", "Menjelaskan hukum waris", "Menjelaskan hukum pidana", "Menjelaskan hukum perdagangan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Tujuan menulis Fathul Izar adalah menjelaskan hukum pernikahan dan keluarga."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Arti sebuah pernikahan adalah?",
+      "pilihan": ["Ikatan suci", "Ikatan duniawi", "Ikatan sementara", "Ikatan paksaan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Arti sebuah pernikahan adalah ikatan suci antara suami dan istri."
+    },
+    {
+      "babId": "bab-3",
+      "pertanyaan": "Manfaat pernikahan adalah?",
+      "pilihan": ["Ketenangan jiwa", "Kesulitan", "Kesendirian", "Kesedihan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Manfaat pernikahan adalah ketenangan jiwa, sebagaimana disebutkan dalam Al-Quran."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Rukun nikah adalah?",
+      "pilihan": ["Wali, ijab-qabul, saksi", "Hanya wali", "Hanya ijab-qabul", "Hanya saksi"],
+      "jawabanBenar": 0,
+      "penjelasan": "Rukun nikah adalah wali, ijab-qabul, dan saksi."
+    },
+    {
+      "babId": "bab-4",
+      "pertanyaan": "Wali nikah adalah?",
+      "pilihan": ["Orang yang menikahkan", "Orang yang dinikahi", "Saksi", "Penghulu"],
+      "jawabanBenar": 0,
+      "penjelasan": "Wali nikah adalah orang yang menikahkan, yaitu orang yang berhak mewakili calon pengantin perempuan."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Mahar adalah?",
+      "pilihan": ["Hadiah dari suami", "Hadiah dari istri", "Hadiah dari wali", "Hadiah dari saksi"],
+      "jawabanBenar": 0,
+      "penjelasan": "Mahar adalah hadiah dari suami kepada istri sebagai tanda kecintaan dan tanggung jawab."
+    },
+    {
+      "babId": "bab-5",
+      "pertanyaan": "Minimal mahar adalah?",
+      "pilihan": ["Sedikit saja", "Banyak", "Tidak ada batas", "Wajib emas"],
+      "jawabanBenar": 0,
+      "penjelasan": "Minimal mahar adalah sedikit saja, yang penting ada kesepakatan antara kedua belah pihak."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Hak suami terhadap istri adalah?",
+      "pilihan": ["Ditaati dalam kebaikan", "Ditaati dalam keburukan", "Dibenci", "Diabaikan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Hak suami terhadap istri adalah ditaati dalam kebaikan, bukan dalam keburukan."
+    },
+    {
+      "babId": "bab-6",
+      "pertanyaan": "Hak istri terhadap suami adalah?",
+      "pilihan": ["Diberi nafkah", "Tidak diberi nafkah", "Dibenci", "Diabaikan"],
+      "jawabanBenar": 0,
+      "penjelasan": "Hak istri terhadap suami adalah diberi nafkah, yaitu makanan, pakaian, dan tempat tinggal."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Nafkah adalah?",
+      "pilihan": ["Tanggung jawab suami", "Tanggung jawab istri", "Tanggung jawab wali", "Tanggung jawab saksi"],
+      "jawabanBenar": 0,
+      "penjelasan": "Nafkah adalah tanggung jawab suami, yaitu memberikan makanan, pakaian, dan tempat tinggal kepada istri."
+    },
+    {
+      "babId": "bab-7",
+      "pertanyaan": "Jenis nafkah adalah?",
+      "pilihan": ["Makanan, pakaian, tempat tinggal", "Hanya makanan", "Hanya pakaian", "Hanya tempat tinggal"],
+      "jawabanBenar": 0,
+      "penjelasan": "Jenis nafkah adalah makanan, pakaian, dan tempat tinggal."
+    }
+  ]
+}
