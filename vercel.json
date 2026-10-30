@@ -8,6 +8,30 @@
   ],
   "routes": [
     {
+      "src": "/api/(.*)",
+      "dest": "index.js"
+    },
+    {
+      "src": "/kitab/([^/]+)/([^/]+)",
+      "dest": "index.js"
+    },
+    {
+      "src": "/kitab/([^/]+)",
+      "dest": "index.js"
+    },
+    {
+      "src": "/kuis/([^/]+)/([^/]+)",
+      "dest": "index.js"
+    },
+    {
+      "src": "/kuis/([^/]+)",
+      "dest": "index.js"
+    },
+    {
+      "src": "/assets/(.*)",
+      "dest": "index.js"
+    },
+    {
       "src": "/(.*)",
       "dest": "index.js"
     }
