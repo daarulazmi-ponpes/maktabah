@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "data": {
+    "id": 765,
+    "nomor": 20,
+    "judul": "Maqolah 20",
+    "judul_arab": null,
+    "bagian": null,
+    "keterangan": null,
+    "file": "nashoihul/maq20.html",
+    "section_id": null,
+    "teks_arab": null,
+    "teks_indonesia": "Riyadhus Sholihin\n\nNashoihul ibad\n\nPelajaran 20\n\n(Dikatakan sesungguhnya kesempurnaan akal adalah mengikuti apa yang diridhai Allah dan meninggalkan apa yang dimurkai Allah). artinya apa saja yang tidak seperti konsep di atas adalah kegilaan / tak berakal.",
+    "urutan": 20
+  }
+}

@@ -1,11 +1,13 @@
 const express = require("express");
 const dotenv = require("dotenv");
+const fs = require("fs");
 const path = require("path");
 
 dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+const LOCAL_DATA_DIR = path.join(__dirname, "data", "kitab");
 
 // Helper: fetch dari API eksternal dengan API Key
 async function fetchFromAPI(apiPath) {
@@ -15,54 +17,113 @@ async function fetchFromAPI(apiPath) {
   }
   const url = `https://api.ahmadsanusi.com${apiPath}`;
   console.log(`[API] Fetching: ${url}`);
-  const response = await fetch(url, {
-    headers: { "X-API-Key": apiKey }
-  });
-  console.log(`[API] Response status: ${response.status} ${response.statusText}`);
-  const data = await response.json().catch(() => ({}));
-  if (!response.ok) {
-    console.log(`[API] Error response:`, JSON.stringify(data).substring(0, 200));
-    return { error: true, status: response.status, data };
+  try {
+    const response = await fetch(url, {
+      headers: { "X-API-Key": apiKey }
+    });
+    console.log(`[API] Response status: ${response.status} ${response.statusText}`);
+    const data = await response.json().catch(() => ({}));
+    if (!response.ok) {
+      console.log(`[API] Error response:`, JSON.stringify(data).substring(0, 200));
+      return { error: true, status: response.status, data };
+    }
+    return data;
+  } catch (error) {
+    console.log(`[API] Network error: ${error.message}`);
+    return { error: true, status: 0, data: { message: "Gagal menghubungi API eksternal" } };
   }
-  return data;
+}
+
+// Helper: baca data lokal dari file JSON
+function readLocalFile(filePath) {
+  const fullPath = path.join(LOCAL_DATA_DIR, filePath);
+  if (!fs.existsSync(fullPath)) {
+    return null;
+  }
+  try {
+    const content = fs.readFileSync(fullPath, "utf-8");
+    return JSON.parse(content);
+  } catch (error) {
+    console.log(`[Local] Gagal membaca ${filePath}: ${error.message}`);
+    return null;
+  }
+}
+
+// Helper: coba API eksternal dulu, jika gagal gunakan data lokal
+async function fetchWithFallback(apiPath, localPath) {
+  // Coba API eksternal
+  const apiResult = await fetchFromAPI(apiPath);
+  
+  // Jika API berhasil, kembalikan hasilnya
+  if (apiResult && !apiResult.error) {
+    console.log(`[Fallback] Menggunakan data dari API eksternal`);
+    return { source: "api", data: apiResult };
+  }
+  
+  // Jika API gagal, coba data lokal
+  console.log(`[Fallback] API gagal, mencoba data lokal: ${localPath}`);
+  const localResult = readLocalFile(localPath);
+  if (localResult) {
+    console.log(`[Fallback] Berhasil menggunakan data lokal`);
+    return { source: "local", data: localResult };
+  }
+  
+  // Jika keduanya gagal, kembalikan error dari API
+  console.log(`[Fallback] Data lokal tidak ditemukan, mengembalikan error API`);
+  return { source: "error", data: apiResult };
 }
 
 // Proxy endpoint untuk mengambil daftar kitab dari API eksternal
 // API Key disimpan di environment variable, tidak terekspos ke browser
+// Jika API gagal, otomatis menggunakan data lokal sebagai fallback
 app.get("/api/kitab", async (req, res) => {
-  const result = await fetchFromAPI("/v1/kitab");
-  if (result === null) {
-    return res.status(500).json({ error: "X_API_KEY belum dikonfigurasi. Atur di file .env" });
+  const result = await fetchWithFallback("/v1/kitab", "katalog.json");
+  
+  if (result.source === "error") {
+    return res.status(500).json({ 
+      error: "Gagal mengambil data dari API dan data lokal tidak tersedia" 
+    });
   }
-  if (result && result.error) {
-    return res.status(result.status).json({ error: "Gagal mengambil data dari API", details: result.data });
-  }
-  res.json(result);
+  
+  res.json(result.data);
 });
 
 // Proxy: Detail satu bab (isi kitab)
 // HARUS didefinisikan SEBELUM /api/kitab/:slug agar tidak terjadi route collision
+// Jika API gagal, otomatis menggunakan data lokal sebagai fallback
 app.get("/api/kitab/:slug/bab/:nomor", async (req, res) => {
-  const result = await fetchFromAPI(`/v1/kitab/${req.params.slug}/bab/${req.params.nomor}`);
-  if (result === null) {
-    return res.status(500).json({ error: "X_API_KEY belum dikonfigurasi. Atur di file .env" });
+  const slug = req.params.slug;
+  const nomor = req.params.nomor;
+  const result = await fetchWithFallback(
+    `/v1/kitab/${slug}/bab/${nomor}`, 
+    `${slug}/bab-${nomor}.json`
+  );
+  
+  if (result.source === "error") {
+    return res.status(404).json({ 
+      error: "Bab tidak ditemukan" 
+    });
   }
-  if (result && result.error) {
-    return res.status(result.status).json({ error: "Bab tidak ditemukan", details: result.data });
-  }
-  res.json(result);
+  
+  res.json(result.data);
 });
 
 // Proxy: Detail kitab + daftar bab
+// Jika API gagal, otomatis menggunakan data lokal sebagai fallback
 app.get("/api/kitab/:slug", async (req, res) => {
-  const result = await fetchFromAPI(`/v1/kitab/${req.params.slug}`);
-  if (result === null) {
-    return res.status(500).json({ error: "X_API_KEY belum dikonfigurasi. Atur di file .env" });
+  const slug = req.params.slug;
+  const result = await fetchWithFallback(
+    `/v1/kitab/${slug}`, 
+    `${slug}.json`
+  );
+  
+  if (result.source === "error") {
+    return res.status(404).json({ 
+      error: "Kitab tidak ditemukan" 
+    });
   }
-  if (result && result.error) {
-    return res.status(result.status).json({ error: "Kitab tidak ditemukan", details: result.data });
-  }
-  res.json(result);
+  
+  res.json(result.data);
 });
 
 // Sajikan file statis (index.html, assets, dll)
@@ -117,11 +178,11 @@ app.get("/api/kitab/:slug/kuis", async (req, res) => {
     const localQuiz = JSON.parse(fs.readFileSync(localPath, "utf-8"));
     const soal = localQuiz.soal || [];
 
-    // Ambil daftar bab dari API eksternal
+    // Ambil daftar bab dari API eksternal, fallback ke data lokal
     let babs = [];
-    const kitabResult = await fetchFromAPI(`/v1/kitab/${slug}`);
-    if (kitabResult && !kitabResult.error) {
-      const data = kitabResult.data || kitabResult;
+    const kitabResult = await fetchWithFallback(`/v1/kitab/${slug}`, `${slug}.json`);
+    if (kitabResult.source !== "error") {
+      const data = kitabResult.data.data || kitabResult.data;
       const rawBabs = data.bab || [];
       babs = rawBabs.map(b => ({
         id: `bab-${b.nomor}`,

@@ -1,0 +1,313 @@
+{
+  "status": "success",
+  "data": {
+    "kitab": {
+      "id": 21,
+      "slug": "uqudulujain",
+      "nama": "Uqudulujain",
+      "nama_arab": "عقود اللجين في بيان حقوق الزوجين",
+      "pengarang": "Syaikh Muhammad Nawawi Al-Bantani",
+      "pengarang_arab": "محمد نووي البنتني الجاوي",
+      "tahun_lahir": "1230 H",
+      "tahun_wafat": "1314 H",
+      "mazhab": "Syafi'i",
+      "kategori": "Fiqih Keluarga & Nikah",
+      "bahasa": "Arab, Indonesia",
+      "fitur": "Full Arab, Arab + Terjemah, Per BAB",
+      "deskripsi": "Kitab yang membahas hak dan kewajiban antara suami dan istri dalam rumah tangga. Ditulis oleh ulama Banten Syaikh Nawawi Al-Bantani yang sangat berpengaruh di Nusantara.",
+      "catatan": "",
+      "total_bab": 26
+    },
+    "total": 26,
+    "page": 1,
+    "limit": 100,
+    "bab": [
+      {
+        "id": 908,
+        "nomor": 1,
+        "judul": "Muqoddimah - Pentingnya Mempelajari Hak Suami Istri",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan1.html",
+        "section_id": null,
+        "urutan": 0
+      },
+      {
+        "id": 909,
+        "nomor": 2,
+        "judul": "Hak Istri Terhadap Suami",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan2.html",
+        "section_id": null,
+        "urutan": 1
+      },
+      {
+        "id": 910,
+        "nomor": 3,
+        "judul": "Hak Suami Terhadap Istri (Bagian 1)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan3.html",
+        "section_id": null,
+        "urutan": 2
+      },
+      {
+        "id": 911,
+        "nomor": 4,
+        "judul": "Hak Suami Terhadap Istri (Bagian 2)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan4.html",
+        "section_id": null,
+        "urutan": 3
+      },
+      {
+        "id": 912,
+        "nomor": 5,
+        "judul": "Hak Suami Terhadap Istri (Bagian 3)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan5.html",
+        "section_id": null,
+        "urutan": 4
+      },
+      {
+        "id": 913,
+        "nomor": 6,
+        "judul": "Kisah dan Wasiat Para Salaf Tentang Istri",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan6.html",
+        "section_id": null,
+        "urutan": 5
+      },
+      {
+        "id": 914,
+        "nomor": 7,
+        "judul": "Memelihara Diri dan Kehormatan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan7.html",
+        "section_id": null,
+        "urutan": 6
+      },
+      {
+        "id": 915,
+        "nomor": 8,
+        "judul": "Hak Suami yang Wajib Dipenuhi Istri (Bagian 1)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan8.html",
+        "section_id": null,
+        "urutan": 7
+      },
+      {
+        "id": 916,
+        "nomor": 9,
+        "judul": "Hak Suami yang Wajib Dipenuhi Istri (Bagian 2)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan9.html",
+        "section_id": null,
+        "urutan": 8
+      },
+      {
+        "id": 917,
+        "nomor": 10,
+        "judul": "Kedudukan Istri Sholihah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan10.html",
+        "section_id": null,
+        "urutan": 9
+      },
+      {
+        "id": 918,
+        "nomor": 11,
+        "judul": "Hikayat Istri-Istri Sholihah (Bagian 1)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan11.html",
+        "section_id": null,
+        "urutan": 10
+      },
+      {
+        "id": 919,
+        "nomor": 12,
+        "judul": "Hikayat Istri-Istri Sholihah (Bagian 2)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan12.html",
+        "section_id": null,
+        "urutan": 11
+      },
+      {
+        "id": 920,
+        "nomor": 13,
+        "judul": "Hikayat Istri-Istri Sholihah (Bagian 3)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan13.html",
+        "section_id": null,
+        "urutan": 12
+      },
+      {
+        "id": 921,
+        "nomor": 14,
+        "judul": "Hikayat Istri-Istri Sholihah (Bagian 4)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan14.html",
+        "section_id": null,
+        "urutan": 13
+      },
+      {
+        "id": 922,
+        "nomor": 15,
+        "judul": "Pertanyaan Pertama Kepada Suami di Hari Kiamat",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan15.html",
+        "section_id": null,
+        "urutan": 14
+      },
+      {
+        "id": 923,
+        "nomor": 16,
+        "judul": "Lanjutan Pertanyaan Tentang Perlakuan Suami Kepada Istri",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan16.html",
+        "section_id": null,
+        "urutan": 15
+      },
+      {
+        "id": 924,
+        "nomor": 17,
+        "judul": "Perkara-Perkara Penting Dalam Rumah Tangga",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan17.html",
+        "section_id": null,
+        "urutan": 16
+      },
+      {
+        "id": 925,
+        "nomor": 18,
+        "judul": "Keutamaan Sholat Wanita di Rumah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan18.html",
+        "section_id": null,
+        "urutan": 17
+      },
+      {
+        "id": 926,
+        "nomor": 19,
+        "judul": "Larangan Berhias Berlebihan dan Keluar Rumah Tanpa Izin",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan19.html",
+        "section_id": null,
+        "urutan": 18
+      },
+      {
+        "id": 927,
+        "nomor": 20,
+        "judul": "Dosa Besar Bagi Istri yang Durhaka",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan20.html",
+        "section_id": null,
+        "urutan": 19
+      },
+      {
+        "id": 928,
+        "nomor": 21,
+        "judul": "Haramnya Memandang Wanita Asing (Bukan Mahram)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan21.html",
+        "section_id": null,
+        "urutan": 20
+      },
+      {
+        "id": 929,
+        "nomor": 22,
+        "judul": "Kewajiban Istri Saat Keluar Rumah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan22.html",
+        "section_id": null,
+        "urutan": 21
+      },
+      {
+        "id": 930,
+        "nomor": 23,
+        "judul": "Kecemburuan yang Terpuji dan Tercela",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan23.html",
+        "section_id": null,
+        "urutan": 22
+      },
+      {
+        "id": 931,
+        "nomor": 24,
+        "judul": "Kisah dan Pelajaran Tentang Rumah Tangga",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan24.html",
+        "section_id": null,
+        "urutan": 23
+      },
+      {
+        "id": 932,
+        "nomor": 25,
+        "judul": "Penutup Bagian 1 - Nasihat Rumah Tangga",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan25.html",
+        "section_id": null,
+        "urutan": 24
+      },
+      {
+        "id": 933,
+        "nomor": 26,
+        "judul": "Penutup Bagian 2 - Doa dan Harapan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "uqudulujain/3/keutamaan26.html",
+        "section_id": null,
+        "urutan": 25
+      }
+    ]
+  }
+}

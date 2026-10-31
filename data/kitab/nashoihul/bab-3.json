@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "data": {
+    "id": 748,
+    "nomor": 3,
+    "judul": "Maqolah 3",
+    "judul_arab": null,
+    "bagian": null,
+    "keterangan": null,
+    "file": "nashoihul/maq3.html",
+    "section_id": null,
+    "teks_arab": null,
+    "teks_indonesia": "Riyadhus Sholihin\n\nNashoihul ibad\n\nPelajaran 3\n\nDari Abi Bakar As-Shiddiq RA (Barang siapa yang memasuki kubur tanpa membawa bekal yaitu berupa amal shalih maka keadaannya seperti orang yang menyeberangi lautan tanpa menggunakan perahu).\n\nMaka sudahlah pasti ia akan tenggelam dengan se tenggelam-tenggelamnya dan tidak mungkin akan selamat kecuali mendapatkan pertolongan oleh orang-orang yang dapat menolongnya.. sebagaimana sabda Rasulullah SAW, tidaklah seorang mayat yang meninggal itu, melainkan seperti orang yang tenggelam yang meminta pertolongan.",
+    "urutan": 3
+  }
+}

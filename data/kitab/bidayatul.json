@@ -1,0 +1,225 @@
+{
+  "status": "success",
+  "data": {
+    "kitab": {
+      "id": 2,
+      "slug": "bidayatul",
+      "nama": "Bidayatul Hidayah",
+      "nama_arab": "بداية الهداية",
+      "pengarang": "Imam Al-Ghazali",
+      "pengarang_arab": "أبو حامد الغزالي",
+      "tahun_lahir": "450 H",
+      "tahun_wafat": "505 H",
+      "mazhab": "",
+      "kategori": "Tasawuf & Akhlak",
+      "bahasa": "Arab, Indonesia",
+      "fitur": "Arab, Terjemah Indonesia",
+      "deskripsi": "Kitab panduan permulaan dalam menempuh jalan hidayah karangan Imam Al-Ghazali. Berisi adab-adab dalam ibadah, pergaulan, dan cara menghindari maksiat.",
+      "catatan": "",
+      "total_bab": 18
+    },
+    "total": 18,
+    "page": 1,
+    "limit": 100,
+    "bab": [
+      {
+        "id": 244,
+        "nomor": 1,
+        "judul": "Muqaddimah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/1da.html",
+        "section_id": null,
+        "urutan": 0
+      },
+      {
+        "id": 245,
+        "nomor": 2,
+        "judul": "Menasehati Diri",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/2da.html",
+        "section_id": null,
+        "urutan": 1
+      },
+      {
+        "id": 246,
+        "nomor": 3,
+        "judul": "Pokok Dasar Islam",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/3da.html",
+        "section_id": null,
+        "urutan": 2
+      },
+      {
+        "id": 247,
+        "nomor": 4,
+        "judul": "Aqidah Seorang Mukmin",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/4da.html",
+        "section_id": null,
+        "urutan": 3
+      },
+      {
+        "id": 248,
+        "nomor": 5,
+        "judul": "Amalan Ketaatan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/5da.html",
+        "section_id": null,
+        "urutan": 4
+      },
+      {
+        "id": 249,
+        "nomor": 6,
+        "judul": "Adab Saat Tidur",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/6da.html",
+        "section_id": null,
+        "urutan": 5
+      },
+      {
+        "id": 250,
+        "nomor": 7,
+        "judul": "Adab Saat Sholat",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/7da.html",
+        "section_id": null,
+        "urutan": 6
+      },
+      {
+        "id": 251,
+        "nomor": 8,
+        "judul": "Adab Menjadi Imam",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/8da.html",
+        "section_id": null,
+        "urutan": 7
+      },
+      {
+        "id": 252,
+        "nomor": 9,
+        "judul": "Adab Sholat Jumat",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/9da.html",
+        "section_id": null,
+        "urutan": 8
+      },
+      {
+        "id": 253,
+        "nomor": 10,
+        "judul": "Menghindari Maksiat",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/10da.html",
+        "section_id": null,
+        "urutan": 9
+      },
+      {
+        "id": 254,
+        "nomor": 11,
+        "judul": "Maksiat Hati",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/11da.html",
+        "section_id": null,
+        "urutan": 10
+      },
+      {
+        "id": 255,
+        "nomor": 12,
+        "judul": "Adab Bergaul",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/12da.html",
+        "section_id": null,
+        "urutan": 11
+      },
+      {
+        "id": 256,
+        "nomor": 13,
+        "judul": "Adab Seorang Alim",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/13da.html",
+        "section_id": null,
+        "urutan": 12
+      },
+      {
+        "id": 257,
+        "nomor": 14,
+        "judul": "Adab Seorang Murid",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/14da.html",
+        "section_id": null,
+        "urutan": 13
+      },
+      {
+        "id": 258,
+        "nomor": 15,
+        "judul": "Bergaul Dengan Anak",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/15da.html",
+        "section_id": null,
+        "urutan": 14
+      },
+      {
+        "id": 259,
+        "nomor": 16,
+        "judul": "Bergaul Dengan Orang Awam",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/16da.html",
+        "section_id": null,
+        "urutan": 15
+      },
+      {
+        "id": 260,
+        "nomor": 17,
+        "judul": "Bergaul Dengan Saudara / Teman",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/17da.html",
+        "section_id": null,
+        "urutan": 16
+      },
+      {
+        "id": 261,
+        "nomor": 18,
+        "judul": "Bergaul Dengan Kenalan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "bidayatul/18da.html",
+        "section_id": null,
+        "urutan": 17
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "data": {
+    "kitab": {
+      "id": 8,
+      "slug": "izar",
+      "nama": "Fathul Izar",
+      "nama_arab": "فتح الإزار",
+      "pengarang": "Syaikh Nawawi Al-Bantani",
+      "pengarang_arab": "الشيخ محمد نووي الجاوي البنتني",
+      "tahun_lahir": "",
+      "tahun_wafat": "",
+      "mazhab": "",
+      "kategori": "Nikah & Keluarga",
+      "bahasa": "Arab, Indonesia",
+      "fitur": "Arab, Terjemah Indonesia",
+      "deskripsi": "Kitab panduan pernikahan dan etika pergaulan suami-istri dalam perspektif Islam.",
+      "catatan": "",
+      "total_bab": 7
+    },
+    "total": 7,
+    "page": 1,
+    "limit": 100,
+    "bab": [
+      {
+        "id": 513,
+        "nomor": 1,
+        "judul": "Kitab Fathul Izar",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "izar/izar/1.html",
+        "section_id": null,
+        "urutan": 0
+      },
+      {
+        "id": 514,
+        "nomor": 2,
+        "judul": "Muqadimah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "izar/izar/2.html",
+        "section_id": null,
+        "urutan": 1
+      },
+      {
+        "id": 515,
+        "nomor": 3,
+        "judul": "Arti Sebuah Pernikahan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "izar/izar/3.html",
+        "section_id": null,
+        "urutan": 2
+      },
+      {
+        "id": 516,
+        "nomor": 4,
+        "judul": "Rahasia Bersenggama",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "izar/izar/4.html",
+        "section_id": null,
+        "urutan": 3
+      },
+      {
+        "id": 517,
+        "nomor": 5,
+        "judul": "Tata Cara & Etika Senggama",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "izar/izar/5.html",
+        "section_id": null,
+        "urutan": 4
+      },
+      {
+        "id": 518,
+        "nomor": 6,
+        "judul": "Doa-Doa Bersenggama",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "izar/izar/6.html",
+        "section_id": null,
+        "urutan": 5
+      },
+      {
+        "id": 519,
+        "nomor": 7,
+        "judul": "Rahasia Penciptaan Perawan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "izar/izar/7.html",
+        "section_id": null,
+        "urutan": 6
+      }
+    ]
+  }
+}

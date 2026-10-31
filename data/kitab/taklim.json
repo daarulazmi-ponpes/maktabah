@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "data": {
+    "kitab": {
+      "id": 4,
+      "slug": "taklim",
+      "nama": "Ta'lim Al-Muta'allim",
+      "nama_arab": "تعليم المتعلم طريق التعلم",
+      "pengarang": "Syaikh Burhanuddin Az-Zarnuji",
+      "pengarang_arab": "برهان الدين الزرنوجي",
+      "tahun_lahir": "",
+      "tahun_wafat": "591 H",
+      "mazhab": "",
+      "kategori": "Akhlak & Adab",
+      "bahasa": "Arab, Indonesia",
+      "fitur": "Arab, Terjemah Indonesia",
+      "deskripsi": "Kitab klasik tentang etika dan adab dalam menuntut ilmu. Membahas cara-cara yang benar dalam belajar, memilih guru, menghormati ilmu, dan metode belajar agar ilmu menjadi berkah.",
+      "catatan": "",
+      "total_bab": 14
+    },
+    "total": 14,
+    "page": 1,
+    "limit": 100,
+    "bab": [
+      {
+        "id": 894,
+        "nomor": 0,
+        "judul": "Pendahuluan / Muqaddimah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/pendahuluan.html",
+        "section_id": null,
+        "urutan": 0
+      },
+      {
+        "id": 895,
+        "nomor": 1,
+        "judul": "Fasal 1 - Hakikat Ilmu, Fiqih, dan Keutamaannya",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/1.html",
+        "section_id": null,
+        "urutan": 1
+      },
+      {
+        "id": 896,
+        "nomor": 2,
+        "judul": "Fasal 2 - Niat dalam Belajar",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/2.html",
+        "section_id": null,
+        "urutan": 2
+      },
+      {
+        "id": 897,
+        "nomor": 3,
+        "judul": "Fasal 3 - Memilih Ilmu, Guru, dan Teman",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/3.html",
+        "section_id": null,
+        "urutan": 3
+      },
+      {
+        "id": 898,
+        "nomor": 4,
+        "judul": "Fasal 4 - Menghormati Ilmu dan Ulama",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/4.html",
+        "section_id": null,
+        "urutan": 4
+      },
+      {
+        "id": 899,
+        "nomor": 5,
+        "judul": "Fasal 5 - Kesungguhan, Ketekunan, dan Cita-cita",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/5.html",
+        "section_id": null,
+        "urutan": 5
+      },
+      {
+        "id": 900,
+        "nomor": 6,
+        "judul": "Fasal 6 - Permulaan Belajar, Ukuran, dan Tertibnya",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/6.html",
+        "section_id": null,
+        "urutan": 6
+      },
+      {
+        "id": 901,
+        "nomor": 7,
+        "judul": "Fasal 7 - Tawakkal kepada Allah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/7.html",
+        "section_id": null,
+        "urutan": 7
+      },
+      {
+        "id": 902,
+        "nomor": 8,
+        "judul": "Fasal 8 - Waktu-waktu Belajar",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/8.html",
+        "section_id": null,
+        "urutan": 8
+      },
+      {
+        "id": 903,
+        "nomor": 9,
+        "judul": "Fasal 9 - Kasih Sayang dan Nasehat",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/9.html",
+        "section_id": null,
+        "urutan": 9
+      },
+      {
+        "id": 904,
+        "nomor": 10,
+        "judul": "Fasal 10 - Mengambil Faedah Ilmu",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/10.html",
+        "section_id": null,
+        "urutan": 10
+      },
+      {
+        "id": 905,
+        "nomor": 11,
+        "judul": "Fasal 11 - Wara' (Menjaga Diri) Ketika Belajar",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/11.html",
+        "section_id": null,
+        "urutan": 11
+      },
+      {
+        "id": 906,
+        "nomor": 12,
+        "judul": "Fasal 12 - Penyebab Hafal dan Lupa",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/12.html",
+        "section_id": null,
+        "urutan": 12
+      },
+      {
+        "id": 907,
+        "nomor": 13,
+        "judul": "Fasal 13 - Hal-Hal yang Mendatangkan Rezeki dan Menghalanginya",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "taklim/white/13.html",
+        "section_id": null,
+        "urutan": 13
+      }
+    ]
+  }
+}

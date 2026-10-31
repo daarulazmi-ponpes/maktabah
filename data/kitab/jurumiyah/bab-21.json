@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "data": {
+    "id": 654,
+    "nomor": 21,
+    "judul": "Munada",
+    "judul_arab": null,
+    "bagian": null,
+    "keterangan": null,
+    "file": "jurumiyah/21.html",
+    "section_id": null,
+    "teks_arab": "بَابُ اَلْمُنَادَى\n\nاَلْمُنَادَى خَمْسَةُ أَنْوَاعٍ : المفرد اَلْعَلَمُ, وَالنَّكِرَةُ اَلْمَقْصُودَةُ, وَالنَّكِرَةُ غَيْرُ اَلْمَقْصُودَةِ, وَالْمُضَافُ, وَالشَّبِيهُ بِالْمُضَافِ\n\nفَأَمَّا اَلْمُفْرَدُ اَلْعَلَمُ وَالنَّكِرَةُ اَلْمَقْصُودَةُ فَيُبْنَيَانِ عَلَى اَلضَّمِّ مِنْ غَيْرِ تَنْوِينٍ, نَحْوَ \"يَا زَيْدُ\" وَ\"يَا رَجُلُ\"\n\nوَالثَّلَاثَةُ اَلْبَاقِيَةُ مَنْصُوبَةٌ لَا غَيْرُ.\n\n.1المفرد اَلْعَلَمُ,(nama-nama)\n\n.2 وَالنَّكِرَةُ اَلْمَقْصُودَةُ,(nakirah yang termaksud)\n\n.3 وَالنَّكِرَةُ غَيْرُ اَلْمَقْصُودَةِ,(nakirah yang tidak termaksud)\n\n.4 وَالْمُضَافُ,(yang diidhafahkan)\n\n.5 وَالشَّبِيهُ بِالْمُضَافِ (yang menyerupai mudhaf)\n\ncontohnya: يَا زَيْدُ وَيَا رَجُلُ",
+    "teks_indonesia": "Kitab Jurumiyah dan terjemahan lengkap\n\nMunada (Yg Dipanggil)\n\nMunada itu ada lima, yaitu\n\nAdapun mufrad ‘alam dan nakirah maqsudah maka ia dimabnikan atas dhammah dengan tanpa tanwin.\n\nDan tiga munada sisanya itu tidak lain dinashabkan.",
+    "urutan": 20
+  }
+}

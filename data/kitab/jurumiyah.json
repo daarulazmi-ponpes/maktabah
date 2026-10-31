@@ -1,0 +1,291 @@
+{
+  "status": "success",
+  "data": {
+    "kitab": {
+      "id": 20,
+      "slug": "jurumiyah",
+      "nama": "Jurumiyah",
+      "nama_arab": "الآجرومية",
+      "pengarang": "Syaikh Muhammad bin Dawud As-Shanhaji (Ibnu Ajurrum)",
+      "pengarang_arab": "محمد بن داود الصنهاجي المعروف بابن آجرّوم",
+      "tahun_lahir": "672 H",
+      "tahun_wafat": "723 H",
+      "mazhab": "",
+      "kategori": "Bahasa Arab (Nahwu)",
+      "bahasa": "Arab, Indonesia",
+      "fitur": "Arab, Terjemah Indonesia",
+      "deskripsi": "Kitab dasar ilmu nahwu (tata bahasa Arab) yang paling populer di kalangan pesantren. Meski ringkas, namun sangat komprehensif dalam membahas kaidah-kaidah bahasa Arab.",
+      "catatan": "",
+      "total_bab": 24
+    },
+    "total": 24,
+    "page": 1,
+    "limit": 100,
+    "bab": [
+      {
+        "id": 634,
+        "nomor": 1,
+        "judul": "Macam-Macam Kalam",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/1.html",
+        "section_id": null,
+        "urutan": 0
+      },
+      {
+        "id": 635,
+        "nomor": 2,
+        "judul": "Al-I'rab",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/2.html",
+        "section_id": null,
+        "urutan": 1
+      },
+      {
+        "id": 636,
+        "nomor": 3,
+        "judul": "Mengenal Tanda-Tanda I'rab",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/3.html",
+        "section_id": null,
+        "urutan": 2
+      },
+      {
+        "id": 637,
+        "nomor": 4,
+        "judul": "Fashl",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/4.html",
+        "section_id": null,
+        "urutan": 3
+      },
+      {
+        "id": 638,
+        "nomor": 5,
+        "judul": "Fi'il",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/5.html",
+        "section_id": null,
+        "urutan": 4
+      },
+      {
+        "id": 639,
+        "nomor": 6,
+        "judul": "Isim Yang Dirofa'kan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/6.html",
+        "section_id": null,
+        "urutan": 5
+      },
+      {
+        "id": 640,
+        "nomor": 7,
+        "judul": "Fa'il",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/7.html",
+        "section_id": null,
+        "urutan": 6
+      },
+      {
+        "id": 641,
+        "nomor": 8,
+        "judul": "Mubtada' & Khobar",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/8.html",
+        "section_id": null,
+        "urutan": 7
+      },
+      {
+        "id": 642,
+        "nomor": 9,
+        "judul": "Na'at (Sifat)",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/9.html",
+        "section_id": null,
+        "urutan": 8
+      },
+      {
+        "id": 643,
+        "nomor": 10,
+        "judul": "'Athof",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/10.html",
+        "section_id": null,
+        "urutan": 9
+      },
+      {
+        "id": 644,
+        "nomor": 11,
+        "judul": "Taukid",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/11.html",
+        "section_id": null,
+        "urutan": 10
+      },
+      {
+        "id": 645,
+        "nomor": 12,
+        "judul": "Badal",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/12.html",
+        "section_id": null,
+        "urutan": 11
+      },
+      {
+        "id": 646,
+        "nomor": 13,
+        "judul": "Isim Yang Dinashobkan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/13.html",
+        "section_id": null,
+        "urutan": 12
+      },
+      {
+        "id": 647,
+        "nomor": 14,
+        "judul": "Maf'ul Bih",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/14.html",
+        "section_id": null,
+        "urutan": 13
+      },
+      {
+        "id": 648,
+        "nomor": 15,
+        "judul": "Mashdar",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/15.html",
+        "section_id": null,
+        "urutan": 14
+      },
+      {
+        "id": 649,
+        "nomor": 16,
+        "judul": "Dharaf Zaman & Dharaf Makan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/16.html",
+        "section_id": null,
+        "urutan": 15
+      },
+      {
+        "id": 650,
+        "nomor": 17,
+        "judul": "Hal",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/17.html",
+        "section_id": null,
+        "urutan": 16
+      },
+      {
+        "id": 651,
+        "nomor": 18,
+        "judul": "Tamyiz",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/18.html",
+        "section_id": null,
+        "urutan": 17
+      },
+      {
+        "id": 652,
+        "nomor": 19,
+        "judul": "Istitsna",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/19.html",
+        "section_id": null,
+        "urutan": 18
+      },
+      {
+        "id": 653,
+        "nomor": 20,
+        "judul": "Laa",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/20.html",
+        "section_id": null,
+        "urutan": 19
+      },
+      {
+        "id": 654,
+        "nomor": 21,
+        "judul": "Munada",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/21.html",
+        "section_id": null,
+        "urutan": 20
+      },
+      {
+        "id": 655,
+        "nomor": 22,
+        "judul": "Maf'ul Min Ajlih",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/22.html",
+        "section_id": null,
+        "urutan": 21
+      },
+      {
+        "id": 656,
+        "nomor": 23,
+        "judul": "Maf'ul Ma'ah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/23.html",
+        "section_id": null,
+        "urutan": 22
+      },
+      {
+        "id": 657,
+        "nomor": 24,
+        "judul": "Isim Yang Dikhafadhkan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "jurumiyah/24.html",
+        "section_id": null,
+        "urutan": 23
+      }
+    ]
+  }
+}

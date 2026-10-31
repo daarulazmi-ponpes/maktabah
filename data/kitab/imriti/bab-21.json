@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "data": {
+    "id": 502,
+    "nomor": 21,
+    "judul": "Bab Mashdar",
+    "judul_arab": "بَابُ اْلمَصْدَر",
+    "bagian": null,
+    "keterangan": null,
+    "file": "imriti/index71.html",
+    "section_id": null,
+    "teks_arab": "بَابُ اْلمَصْدَر\n\n184.وَاِنْ تُرِدْ تَصْـرِيْفَ نَحْوِ قَامَ || فَقُلْ يَقُوْ مُ ثُمَّ قُلْ قِيَامًا\n\nKemudian lafadl قِيَامًا , يَقُوْمُ\n\n185.فَمَا يَجِيْئُ ثَالِثًا فَاْلمصْدَرُ || وَنَصْبُهُ بِفِعْلِهِ مُقَدَّرُ\n\n186.فَاِنْ يُوَافِقْ فِعْلَهُ الَّذِى جَرَى || فِى اللَّفْظِ وَاْلمَعْنَى فَلَفْظِيًا يُرَى\n\n187.اَوْ وَافَقَ اْلمَعْنَى فَقَطْ فَقَدْ رُوِىْ || بِغَـيْرِ لَفْظِ اْلفِعْلِ فَهُوَ مَعْنَوِى\n\n188.فَقُمْ قِيَامًا مِنْ قُبَيْلِ اْلاَوَّلِ || وَقُمْ وُقُوْفًا مِنْ قُبَيْلِ مَا يَلِى\n\nContohnya masdar lafdli قُمْ قِيَامًا #\n\nContoh masdar ma’nawi قُمْ وُقُوْفًا",
+    "teks_indonesia": "Nadhom Imriti\n\nNadhom Imriti\n\nTashrifnya fi’il seperti lafadl قَامَ #\n\nTashrif yang ke-tiga dinamakan masdar #\n\nYang dinashobkan dengan fi’ilnya masdar\n\nBila masdar; lafadl dan ma’nanya sama #\n\nDengan fi’ilnya : masdar lafdli namanya\n\nBila masdar hanya sama dalam makna #\n\nMaka disebut masdar ma’nawi saja",
+    "urutan": 21
+  }
+}

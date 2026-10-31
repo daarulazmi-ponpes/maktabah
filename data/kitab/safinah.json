@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "data": {
+    "kitab": {
+      "id": 3,
+      "slug": "safinah",
+      "nama": "Safinah An-Najah",
+      "nama_arab": "سفينة النجاة فيما يجب على العبد لمولاه",
+      "pengarang": "Syaikh Salim bin Samir Al-Hadhrami",
+      "pengarang_arab": "سالم بن سمير الحضرمي",
+      "tahun_lahir": "",
+      "tahun_wafat": "1270 H",
+      "mazhab": "Syafi'i",
+      "kategori": "Fiqih",
+      "bahasa": "Arab, Indonesia",
+      "fitur": "Arab, Terjemah Indonesia, Format jQuery Mobile",
+      "deskripsi": "Kitab fiqih ringkas yang membahas kewajiban seorang hamba kepada Tuhannya. Sangat populer di kalangan pesantren sebagai kitab pemula dalam mempelajari fiqih ibadah.",
+      "catatan": "Seluruh konten tersaji dalam satu file HTML dengan format jQuery Mobile (collapsible sections)",
+      "total_bab": 1
+    },
+    "total": 1,
+    "page": 1,
+    "limit": 100,
+    "bab": [
+      {
+        "id": 893,
+        "nomor": 1,
+        "judul": "Semua Isi Kitab Safinah An-Najah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": "Single file berisi: Muqaddimah, Bab Ilmu, Thaharah, Najis, Hadas, Wudhu, Mandi, Tayamum, Sholat, Syarat Sholat, Rukun Sholat, Sunnah Sholat, Sholat Berjama'ah, Sholat Jum'at, Sholat Jenazah, Zakat, Puasa, dan Haji",
+        "file": "safinah/safinah.html",
+        "section_id": null,
+        "urutan": 0
+      }
+    ]
+  }
+}

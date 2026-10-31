@@ -1,0 +1,225 @@
+{
+  "status": "success",
+  "data": {
+    "kitab": {
+      "id": 9,
+      "slug": "qarib",
+      "nama": "Fathul Qorib",
+      "nama_arab": "فتح القريب المجيب في شرح ألفاظ التقريب",
+      "pengarang": "Ibnu Qasim Al-Ghazzi",
+      "pengarang_arab": "ابن قاسم الغزي",
+      "tahun_lahir": "",
+      "tahun_wafat": "918 H",
+      "mazhab": "Syafi'i",
+      "kategori": "Fiqih",
+      "bahasa": "Arab, Indonesia",
+      "fitur": "Arab, Terjemah Indonesia",
+      "deskripsi": "Kitab fiqih mazhab Syafi'i yang merupakan syarah (penjelasan) dari kitab Al-Taqrib. Membahas hukum-hukum Islam secara komprehensif dari thaharah hingga memerdekakan budak.",
+      "catatan": "",
+      "total_bab": 18
+    },
+    "total": 18,
+    "page": 1,
+    "limit": 100,
+    "bab": [
+      {
+        "id": 785,
+        "nomor": 1,
+        "judul": "Muqoddimah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat1.html",
+        "section_id": null,
+        "urutan": 0
+      },
+      {
+        "id": 786,
+        "nomor": 2,
+        "judul": "Taharah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat2.html",
+        "section_id": null,
+        "urutan": 1
+      },
+      {
+        "id": 787,
+        "nomor": 3,
+        "judul": "Sholat",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat3.html",
+        "section_id": null,
+        "urutan": 2
+      },
+      {
+        "id": 788,
+        "nomor": 4,
+        "judul": "Macam-Macam Sholat",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat4.html",
+        "section_id": null,
+        "urutan": 3
+      },
+      {
+        "id": 789,
+        "nomor": 5,
+        "judul": "Zakat",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat5.html",
+        "section_id": null,
+        "urutan": 4
+      },
+      {
+        "id": 790,
+        "nomor": 6,
+        "judul": "Puasa",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat6.html",
+        "section_id": null,
+        "urutan": 5
+      },
+      {
+        "id": 791,
+        "nomor": 7,
+        "judul": "Haji",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat7.html",
+        "section_id": null,
+        "urutan": 6
+      },
+      {
+        "id": 792,
+        "nomor": 8,
+        "judul": "Transaksi dan Waris",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat8.html",
+        "section_id": null,
+        "urutan": 7
+      },
+      {
+        "id": 793,
+        "nomor": 9,
+        "judul": "Nikah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat9.html",
+        "section_id": null,
+        "urutan": 8
+      },
+      {
+        "id": 794,
+        "nomor": 10,
+        "judul": "Talak",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat10.html",
+        "section_id": null,
+        "urutan": 9
+      },
+      {
+        "id": 795,
+        "nomor": 11,
+        "judul": "Jinayah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat11.html",
+        "section_id": null,
+        "urutan": 10
+      },
+      {
+        "id": 796,
+        "nomor": 12,
+        "judul": "Zina",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat12.html",
+        "section_id": null,
+        "urutan": 11
+      },
+      {
+        "id": 797,
+        "nomor": 13,
+        "judul": "Jihad",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat13.html",
+        "section_id": null,
+        "urutan": 12
+      },
+      {
+        "id": 798,
+        "nomor": 14,
+        "judul": "Berburu dan Menyembelih",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat14.html",
+        "section_id": null,
+        "urutan": 13
+      },
+      {
+        "id": 799,
+        "nomor": 15,
+        "judul": "Perlombaan dan Memanah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat15.html",
+        "section_id": null,
+        "urutan": 14
+      },
+      {
+        "id": 800,
+        "nomor": 16,
+        "judul": "Iman dan Nadzar",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat16.html",
+        "section_id": null,
+        "urutan": 15
+      },
+      {
+        "id": 801,
+        "nomor": 17,
+        "judul": "Hukum dan Saksi",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat17.html",
+        "section_id": null,
+        "urutan": 16
+      },
+      {
+        "id": 802,
+        "nomor": 18,
+        "judul": "Memerdekakan Budak",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": null,
+        "file": "qarib/fat18.html",
+        "section_id": null,
+        "urutan": 17
+      }
+    ]
+  }
+}

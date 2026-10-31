@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "data": {
+    "kitab": {
+      "id": 5,
+      "slug": "aqidatul",
+      "nama": "Aqidatul Awam",
+      "nama_arab": "عقيدة العوام",
+      "pengarang": "Sayyid Ahmad Al-Marzuqi",
+      "pengarang_arab": "السيد أحمد المرزوقي",
+      "tahun_lahir": "",
+      "tahun_wafat": "",
+      "mazhab": "",
+      "kategori": "Akidah",
+      "bahasa": "Arab, Indonesia",
+      "fitur": "Full Arab, Arab + Terjemah, Syarah & Penjelasan",
+      "deskripsi": "Kitab nadhom (syair) tentang akidah Islam untuk orang awam. Membahas sifat-sifat wajib, mustahil, dan jaiz bagi Allah dan Rasul, serta hari akhir.",
+      "catatan": "",
+      "total_bab": 3
+    },
+    "total": 3,
+    "page": 1,
+    "limit": 100,
+    "bab": [
+      {
+        "id": 199,
+        "nomor": 1,
+        "judul": "Full Arab",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": "Teks Arab lengkap tanpa terjemah",
+        "file": "aqidatul/1.html",
+        "section_id": null,
+        "urutan": 0
+      },
+      {
+        "id": 200,
+        "nomor": 2,
+        "judul": "Arab + Terjemah",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": "Teks Arab disertai terjemah Bahasa Indonesia",
+        "file": "aqidatul/2.html",
+        "section_id": null,
+        "urutan": 1
+      },
+      {
+        "id": 201,
+        "nomor": 3,
+        "judul": "Syarah & Penjelasan",
+        "judul_arab": null,
+        "bagian": null,
+        "keterangan": "Penjelasan dan syarah lengkap",
+        "file": "aqidatul/3.html",
+        "section_id": null,
+        "urutan": 2
+      }
+    ]
+  }
+}
