@@ -840,7 +840,50 @@
         transition-duration: 0.01ms !important;
       }
     }
-  </style>
+
+   /* WHATSAPP FLOATING BUTTON */
+
+   .whatsapp-float {
+     position: fixed;
+     z-index: 999;
+     bottom: 24px;
+     right: 24px;
+     width: 60px;
+     height: 60px;
+     background-color: #25d366;
+     border-radius: 50%;
+     box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     transition: transform 0.2s ease, box-shadow 0.2s ease;
+   }
+
+   .whatsapp-float:hover {
+     transform: scale(1.1);
+     box-shadow: 0 6px 20px rgba(37, 211, 102, 0.5);
+   }
+
+   .whatsapp-float svg {
+     width: 32px;
+     height: 32px;
+     fill: white;
+   }
+
+   @media (max-width: 680px) {
+     .whatsapp-float {
+       bottom: 16px;
+       right: 16px;
+       width: 54px;
+       height: 54px;
+     }
+
+     .whatsapp-float svg {
+       width: 28px;
+       height: 28px;
+     }
+   }
+ </style>
 </head>
 
 <body>
@@ -1166,6 +1209,18 @@
 
   renderBooks();
 </script>
+
+<!-- WhatsApp Floating Button -->
+<a href="https://wa.me/6285212345678?text=Assalamualaikum,%20saya%20ingin%20bertanya%20tentang%20Maktabah%20Daarul%20Azmi" 
+   class="whatsapp-float" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   aria-label="Hubungi kami via WhatsApp"
+   title="Hubungi kami via WhatsApp">
+  <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M16.004 0C7.165 0 .003 7.16.003 15.998c0 2.813.737 5.57 2.137 8.013L.017 32l8.274-2.09a15.95 15.95 0 007.713 1.988C24.84 31.998 32 24.838 32 16.002 32 7.16 24.84 0 16.004 0zm0 29.298a13.28 13.28 0 01-6.84-1.888l-.492-.294-5.625 1.42 1.503-5.486-.316-.507A13.22 13.22 0 012.705 16.0c0-7.33 5.962-13.298 13.3-13.298 7.335 0 13.297 5.968 13.297 13.298 0 7.332-5.962 13.298-13.298 13.298zm7.27-9.927c-.398-.2-2.348-1.16-2.714-1.292-.367-.133-.633-.2-.9.2-.266.398-1.03 1.292-1.264 1.558-.234.266-.466.3-.864.1-.398-.2-1.68-.624-3.196-1.988-1.183-1.064-1.98-2.378-2.214-2.776-.234-.398-.024-.613.176-.812.18-.18.398-.466.598-.7.2-.234.266-.398.4-.664.133-.266.066-.5-.034-.7-.1-.2-.9-2.146-1.234-2.944-.322-.774-.648-.668-.896-.68l-.764-.013c-.266 0-.696.1-1.062.5-.367.398-1.4 1.364-1.4 3.31 0 1.946 1.416 3.828 1.616 4.094.2.266 2.816 4.288 6.814 6.004.952.412 1.696.66 2.274.846.952.302 1.82.26 2.508.158.764-.113 2.348-.96 2.682-1.888.333-.928.333-1.722.232-1.888-.1-.167-.366-.266-.764-.466z"/>
+  </svg>
+</a>
 
 </body>
 </html>
